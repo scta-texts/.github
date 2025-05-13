@@ -1,0 +1,45 @@
+name: Update README
+
+on:
+  schedule:
+    # Run nightly at 2:00 AM UTC
+    - cron: "0 2 * * *"
+
+  workflow_dispatch: # Allow manual triggering of the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Check out the repository
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Step 2: Set up GitHub CLI
+    - name: Install GitHub CLI
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y gh
+
+    # Step 3: Authenticate GitHub CLI
+    - name: Authenticate GitHub CLI
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        echo "${GITHUB_TOKEN}" | gh auth login --with-token
+
+    # Step 4: Run the script
+    - name: Run buildReadme.sh
+      run: |
+        chmod +x .github/buildReadme.sh
+        .github/buildReadme.sh
+
+    # Step 5: Commit and push changes
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add .github/profile/README.md
+        git commit -m "Update README with nightly repository status"
+        git push
