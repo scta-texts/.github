@@ -28,7 +28,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         chmod +x .github/buildReadme.sh
-        .github/buildReadme.sh
+        ./buildReadme.sh
 
     # Step 4: Commit and push changes
     - name: Commit and push changes
