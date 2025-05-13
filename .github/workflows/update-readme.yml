@@ -27,7 +27,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        chmod +x .github/buildReadme.sh
+        chmod +x ./buildReadme.sh
         ./buildReadme.sh
 
     # Step 4: Commit and push changes
