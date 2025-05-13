@@ -15,6 +15,8 @@ total_open_prs=0
 failing_list=""
 no_workflow_list=""
 recent_activity_list=""
+pr_list=""
+issue_list=""
 
 # Start the README content
 echo "## SCTA-TEXTS" > "$OUTPUT_README"
@@ -53,8 +55,8 @@ for repo in $(echo "$repos" | jq -c '.'); do
         no_workflow_list+="  - [$repo_name](https://github.com/$ORG_NAME/$repo_name)\n"
     fi
 
-    # Check for recent activity (within the last 6 months)
-    if [[ $(date -j -f "%Y-%m-%dT%H:%M:%SZ" "$pushed_at" +%s) -ge $(date -v-6m +%s) ]]; then
+    # Check for recent activity (within the last 1 months)
+    if [[ $(date -j -f "%Y-%m-%dT%H:%M:%SZ" "$pushed_at" +%s) -ge $(date -v-1m +%s) ]]; then
         ((recent_activity_repos++))
         recent_activity_list+="  - [$repo_name](https://github.com/$ORG_NAME/$repo_name): Last activity on $pushed_at\n"
     fi
@@ -63,9 +65,19 @@ for repo in $(echo "$repos" | jq -c '.'); do
     open_issues=$(gh issue list --repo "$ORG_NAME/$repo_name" --state open --json number --jq 'length')
     total_open_issues=$((total_open_issues + open_issues))
 
+    # Track repositories with open issues
+    if [[ "$open_issues" -gt 0 ]]; then
+        issue_list+="  - [$repo_name](https://github.com/$ORG_NAME/$repo_name/issues): $open_issues open issues\n"
+    fi
+
     # Count open pull requests
     open_prs=$(gh pr list --repo "$ORG_NAME/$repo_name" --state open --json number --jq 'length')
     total_open_prs=$((total_open_prs + open_prs))
+
+    # Track repositories with open pull requests
+    if [[ "$open_prs" -gt 0 ]]; then
+        pr_list+="  - [$repo_name](https://github.com/$ORG_NAME/$repo_name/pulls): $open_prs open pull requests\n"
+    fi
 done
 
 # Append summary to README
@@ -78,6 +90,24 @@ echo "Total Open Issues: $total_open_issues" >> "$OUTPUT_README"
 echo "Total Open Pull Requests: $total_open_prs" >> "$OUTPUT_README"
 echo "" >> "$OUTPUT_README"
 
+if [[ "$total_open_prs" -gt 0 ]]; then
+    echo "### Repositories With Open Pull Requests" >> "$OUTPUT_README"
+    echo "" >> "$OUTPUT_README"
+    echo -e "$pr_list" >> "$OUTPUT_README"
+fi
+
+if [[ "$total_open_issues" -gt 0 ]]; then
+    echo "### Repositories With Open Issues" >> "$OUTPUT_README"
+    echo "" >> "$OUTPUT_README"
+    echo -e "$issue_list" >> "$OUTPUT_README"
+fi
+
+if [[ "$recent_activity_repos" -gt 0 ]]; then
+    echo "### Repositories With Recent Activity" >> "$OUTPUT_README"
+    echo "" >> "$OUTPUT_README"
+    echo -e "$recent_activity_list" >> "$OUTPUT_README"
+fi
+
 if [[ "$failing_repos" -gt 0 ]]; then
     echo "### Failing Repositories" >> "$OUTPUT_README"
     echo "" >> "$OUTPUT_README"
@@ -88,12 +118,6 @@ if [[ "$no_workflow_repos" -gt 0 ]]; then
     echo "### Repositories Without Workflows" >> "$OUTPUT_README"
     echo "" >> "$OUTPUT_README"
     echo -e "$no_workflow_list" >> "$OUTPUT_README"
-fi
-
-if [[ "$recent_activity_repos" -gt 0 ]]; then
-    echo "### Repositories With Recent Activity" >> "$OUTPUT_README"
-    echo "" >> "$OUTPUT_README"
-    echo -e "$recent_activity_list" >> "$OUTPUT_README"
 fi
 
 echo "README file updated at $OUTPUT_README"
