@@ -56,7 +56,15 @@ for repo in $(echo "$repos" | jq -c '.'); do
     fi
 
     # Check for recent activity (within the last 1 months)
-    if [[ $(date -j -f "%Y-%m-%dT%H:%M:%SZ" "$pushed_at" +%s) -ge $(date -v-1m +%s) ]]; then
+    # date check version that only works on macOS and not on Linux
+    # if [[ $(date -j -f "%Y-%m-%dT%H:%M:%SZ" "$pushed_at" +%s) -ge $(date -v-1m +%s) ]]; then
+    #     ((recent_activity_repos++))
+    #     recent_activity_list+="  - [$repo_name](https://github.com/$ORG_NAME/$repo_name): Last activity on $pushed_at\n"
+    # fi
+
+    # Check for recent activity (within the last month)
+    # date check version that only works on Linux and not on macOs
+    if [[ $(date -d "$pushed_at" +%s) -ge $(date -d "1 month ago" +%s) ]]; then
         ((recent_activity_repos++))
         recent_activity_list+="  - [$repo_name](https://github.com/$ORG_NAME/$repo_name): Last activity on $pushed_at\n"
     fi
