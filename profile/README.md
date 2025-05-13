@@ -3,6 +3,295 @@
 ## Summary Report
 
 Total Repositories: 251
-Passing Repositories: 81
-Failing Repositories: 0
+Passing Repositories: 68
+Failing Repositories: 13
+Repositories Without Workflows: 170
+Repositories With Recent Activity: 93
+Total Open Issues: 21
+Total Open Pull Requests: 77
+
+### Failing Repositories
+
+  - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
+  - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
+  - [cv8jk9](https://github.com/scta-texts/cv8jk9/actions/workflows/validation.yml)
+  - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
+  - [tgy5tz](https://github.com/scta-texts/tgy5tz/actions/workflows/validation.yml)
+  - [gfhtyt](https://github.com/scta-texts/gfhtyt/actions/workflows/validation.yml)
+  - [acnkop](https://github.com/scta-texts/acnkop/actions/workflows/validation.yml)
+  - [olm8ij](https://github.com/scta-texts/olm8ij/actions/workflows/validation.yml)
+  - [dipc8h](https://github.com/scta-texts/dipc8h/actions/workflows/validation.yml)
+  - [juh67y](https://github.com/scta-texts/juh67y/actions/workflows/validation.yml)
+  - [wN2gEA](https://github.com/scta-texts/wN2gEA/actions/workflows/validation.yml)
+  - [ctd99a](https://github.com/scta-texts/ctd99a/actions/workflows/validation.yml)
+  - [wWpoi1](https://github.com/scta-texts/wWpoi1/actions/workflows/validation.yml)
+
+### Repositories Without Workflows
+
+  - [.github](https://github.com/scta-texts/.github)
+  - [wo8uy7](https://github.com/scta-texts/wo8uy7)
+  - [D78nca](https://github.com/scta-texts/D78nca)
+  - [yyy8Uu](https://github.com/scta-texts/yyy8Uu)
+  - [GHYaf3](https://github.com/scta-texts/GHYaf3)
+  - [liberextra](https://github.com/scta-texts/liberextra)
+  - [bcg6es](https://github.com/scta-texts/bcg6es)
+  - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary)
+  - [aristotlemetaphysics](https://github.com/scta-texts/aristotlemetaphysics)
+  - [bible](https://github.com/scta-texts/bible)
+  - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
+  - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
+  - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
+  - [jm12w4](https://github.com/scta-texts/jm12w4)
+  - [holcotcommentary](https://github.com/scta-texts/holcotcommentary)
+  - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
+  - [jMqv4a](https://github.com/scta-texts/jMqv4a)
+  - [JM7jmZ](https://github.com/scta-texts/JM7jmZ)
+  - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary)
+  - [UD1xh4](https://github.com/scta-texts/UD1xh4)
+  - [WuV37d](https://github.com/scta-texts/WuV37d)
+  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
+  - [iuy75t](https://github.com/scta-texts/iuy75t)
+  - [xch7dn](https://github.com/scta-texts/xch7dn)
+  - [da-3](https://github.com/scta-texts/da-3)
+  - [FrMQ88](https://github.com/scta-texts/FrMQ88)
+  - [picoapologia](https://github.com/scta-texts/picoapologia)
+  - [z88d99](https://github.com/scta-texts/z88d99)
+  - [rothwellcommentary](https://github.com/scta-texts/rothwellcommentary)
+  - [FrMS88](https://github.com/scta-texts/FrMS88)
+  - [wodehamordinatio](https://github.com/scta-texts/wodehamordinatio)
+  - [wodehamabbreviatio](https://github.com/scta-texts/wodehamabbreviatio)
+  - [khj78y](https://github.com/scta-texts/khj78y)
+  - [cnag1q](https://github.com/scta-texts/cnag1q)
+  - [dionysiusecclesiastica](https://github.com/scta-texts/dionysiusecclesiastica)
+  - [iu7r3b](https://github.com/scta-texts/iu7r3b)
+  - [da-31](https://github.com/scta-texts/da-31)
+  - [hispanusecclesiastica](https://github.com/scta-texts/hispanusecclesiastica)
+  - [a7y6tt](https://github.com/scta-texts/a7y6tt)
+  - [Bhy7bd](https://github.com/scta-texts/Bhy7bd)
+  - [augustineconfessiones](https://github.com/scta-texts/augustineconfessiones)
+  - [aQaa4a](https://github.com/scta-texts/aQaa4a)
+  - [p9i7y5](https://github.com/scta-texts/p9i7y5)
+  - [aristotledephysica](https://github.com/scta-texts/aristotledephysica)
+  - [M8ag89](https://github.com/scta-texts/M8ag89)
+  - [augustineenchiridion](https://github.com/scta-texts/augustineenchiridion)
+  - [KJde3s](https://github.com/scta-texts/KJde3s)
+  - [dor5dc](https://github.com/scta-texts/dor5dc)
+  - [ooij7j](https://github.com/scta-texts/ooij7j)
+  - [ASer31](https://github.com/scta-texts/ASer31)
+  - [P8h6b5](https://github.com/scta-texts/P8h6b5)
+  - [UUyf3f](https://github.com/scta-texts/UUyf3f)
+  - [pqir89](https://github.com/scta-texts/pqir89)
+  - [JRPxXx](https://github.com/scta-texts/JRPxXx)
+  - [ArNeTH](https://github.com/scta-texts/ArNeTH)
+  - [aristotledeanima](https://github.com/scta-texts/aristotledeanima)
+  - [candiasentcommentary](https://github.com/scta-texts/candiasentcommentary)
+  - [v23d83](https://github.com/scta-texts/v23d83)
+  - [pc99ia](https://github.com/scta-texts/pc99ia)
+  - [n6MsPi](https://github.com/scta-texts/n6MsPi)
+  - [kdhaWs](https://github.com/scta-texts/kdhaWs)
+  - [juht5y](https://github.com/scta-texts/juht5y)
+  - [hby3dh](https://github.com/scta-texts/hby3dh)
+  - [Buzcv2](https://github.com/scta-texts/Buzcv2)
+  - [JMAet9](https://github.com/scta-texts/JMAet9)
+  - [y7898a](https://github.com/scta-texts/y7898a)
+  - [AuGch8](https://github.com/scta-texts/AuGch8)
+  - [vargascommentary](https://github.com/scta-texts/vargascommentary)
+  - [AgCMfu](https://github.com/scta-texts/AgCMfu)
+  - [hispanussummulaelogicales](https://github.com/scta-texts/hispanussummulaelogicales)
+  - [adDiLU](https://github.com/scta-texts/adDiLU)
+  - [gGhHfF](https://github.com/scta-texts/gGhHfF)
+  - [LuT8H6](https://github.com/scta-texts/LuT8H6)
+  - [erf8hf](https://github.com/scta-texts/erf8hf)
+  - [vnsSaS](https://github.com/scta-texts/vnsSaS)
+  - [v78d89](https://github.com/scta-texts/v78d89)
+  - [GHcsDA](https://github.com/scta-texts/GHcsDA)
+  - [raWSwa](https://github.com/scta-texts/raWSwa)
+  - [mnvhfy](https://github.com/scta-texts/mnvhfy)
+  - [GHcsQQ](https://github.com/scta-texts/GHcsQQ)
+  - [albertusdeanima](https://github.com/scta-texts/albertusdeanima)
+  - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
+  - [lat22al](https://github.com/scta-texts/lat22al)
+  - [anselmmonologion](https://github.com/scta-texts/anselmmonologion)
+  - [beq3sc](https://github.com/scta-texts/beq3sc)
+  - [melanderdeanima](https://github.com/scta-texts/melanderdeanima)
+  - [gd13aa](https://github.com/scta-texts/gd13aa)
+  - [faw3vv](https://github.com/scta-texts/faw3vv)
+  - [nhyjhg](https://github.com/scta-texts/nhyjhg)
+  - [Ans3av](https://github.com/scta-texts/Ans3av)
+  - [olivicommentary](https://github.com/scta-texts/olivicommentary)
+  - [wodehamlectura](https://github.com/scta-texts/wodehamlectura)
+  - [CBevVC](https://github.com/scta-texts/CBevVC)
+  - [fitzralphcommentary](https://github.com/scta-texts/fitzralphcommentary)
+  - [augustine83quest](https://github.com/scta-texts/augustine83quest)
+  - [hy7y6y](https://github.com/scta-texts/hy7y6y)
+  - [bhyEEQ](https://github.com/scta-texts/bhyEEQ)
+  - [hispanusangelica](https://github.com/scta-texts/hispanusangelica)
+  - [hispanusdeanima](https://github.com/scta-texts/hispanusdeanima)
+  - [augustinededoctrinachristiana](https://github.com/scta-texts/augustinededoctrinachristiana)
+  - [dinkelsbuhllectura](https://github.com/scta-texts/dinkelsbuhllectura)
+  - [ru7y7y](https://github.com/scta-texts/ru7y7y)
+  - [Ou7yHg](https://github.com/scta-texts/Ou7yHg)
+  - [Ly8dhJ](https://github.com/scta-texts/Ly8dhJ)
+  - [mhy5ty](https://github.com/scta-texts/mhy5ty)
+  - [Huy7yz](https://github.com/scta-texts/Huy7yz)
+  - [aqzw3s](https://github.com/scta-texts/aqzw3s)
+  - [mnh3nj](https://github.com/scta-texts/mnh3nj)
+  - [lpokij](https://github.com/scta-texts/lpokij)
+  - [J5LijF](https://github.com/scta-texts/J5LijF)
+  - [da-28](https://github.com/scta-texts/da-28)
+  - [vaurouilloncommentary](https://github.com/scta-texts/vaurouilloncommentary)
+  - [antoniusandreametaphysica](https://github.com/scta-texts/antoniusandreametaphysica)
+  - [romanusmeta](https://github.com/scta-texts/romanusmeta)
+  - [vnad2h](https://github.com/scta-texts/vnad2h)
+  - [ran7ae](https://github.com/scta-texts/ran7ae)
+  - [da-65](https://github.com/scta-texts/da-65)
+  - [halescommentary](https://github.com/scta-texts/halescommentary)
+  - [da-242](https://github.com/scta-texts/da-242)
+  - [da-69](https://github.com/scta-texts/da-69)
+  - [da-73](https://github.com/scta-texts/da-73)
+  - [da-49](https://github.com/scta-texts/da-49)
+  - [da-9](https://github.com/scta-texts/da-9)
+  - [nnny6v](https://github.com/scta-texts/nnny6v)
+  - [zckje7](https://github.com/scta-texts/zckje7)
+  - [werlcommentary](https://github.com/scta-texts/werlcommentary)
+  - [vocabularius](https://github.com/scta-texts/vocabularius)
+  - [vargasdeanima](https://github.com/scta-texts/vargasdeanima)
+  - [turrettinusinstitutio](https://github.com/scta-texts/turrettinusinstitutio)
+  - [tarantasiacommentary](https://github.com/scta-texts/tarantasiacommentary)
+  - [romacommentary](https://github.com/scta-texts/romacommentary)
+  - [qda](https://github.com/scta-texts/qda)
+  - [oytacommentary](https://github.com/scta-texts/oytacommentary)
+  - [nataliscommentary](https://github.com/scta-texts/nataliscommentary)
+  - [mirecourtcommentary](https://github.com/scta-texts/mirecourtcommentary)
+  - [mastridisputationestheologicae](https://github.com/scta-texts/mastridisputationestheologicae)
+  - [mairsent2b](https://github.com/scta-texts/mairsent2b)
+  - [jwalesbreviloquium](https://github.com/scta-texts/jwalesbreviloquium)
+  - [holcotquodlibeta](https://github.com/scta-texts/holcotquodlibeta)
+  - [gilesromaquodlibeta](https://github.com/scta-texts/gilesromaquodlibeta)
+  - [euclidelements](https://github.com/scta-texts/euclidelements)
+  - [dionysiusangelica](https://github.com/scta-texts/dionysiusangelica)
+  - [ddbrugescommentary](https://github.com/scta-texts/ddbrugescommentary)
+  - [da-317](https://github.com/scta-texts/da-317)
+  - [cl-0147](https://github.com/scta-texts/cl-0147)
+  - [cl-0146](https://github.com/scta-texts/cl-0146)
+  - [cl-0145](https://github.com/scta-texts/cl-0145)
+  - [cl-0144](https://github.com/scta-texts/cl-0144)
+  - [cl-0143](https://github.com/scta-texts/cl-0143)
+  - [cl-0142](https://github.com/scta-texts/cl-0142)
+  - [cl-0141](https://github.com/scta-texts/cl-0141)
+  - [cl-0140](https://github.com/scta-texts/cl-0140)
+  - [cl-0139](https://github.com/scta-texts/cl-0139)
+  - [anon2deanima](https://github.com/scta-texts/anon2deanima)
+  - [anconacommentary](https://github.com/scta-texts/anconacommentary)
+  - [MeyronnesTractNot](https://github.com/scta-texts/MeyronnesTractNot)
+  - [a38jca](https://github.com/scta-texts/a38jca)
+  - [ad3ksj](https://github.com/scta-texts/ad3ksj)
+  - [dn4nx8](https://github.com/scta-texts/dn4nx8)
+  - [da-199](https://github.com/scta-texts/da-199)
+  - [wasialectura](https://github.com/scta-texts/wasialectura)
+  - [almainsuperholcot](https://github.com/scta-texts/almainsuperholcot)
+  - [hugolinocommentary](https://github.com/scta-texts/hugolinocommentary)
+  - [perusiacommentary](https://github.com/scta-texts/perusiacommentary)
+  - [capreolusdefensiones](https://github.com/scta-texts/capreolusdefensiones)
+  - [boninimetaph](https://github.com/scta-texts/boninimetaph)
+  - [b1-d3-qun](https://github.com/scta-texts/b1-d3-qun)
+  - [lectio34](https://github.com/scta-texts/lectio34)
+  - [lectio1](https://github.com/scta-texts/lectio1)
+  - [b4-q2](https://github.com/scta-texts/b4-q2)
+
+### Repositories With Recent Activity
+
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-05-13T18:53:41Z
+  - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-05-13T16:25:03Z
+  - [grvnZZ](https://github.com/scta-texts/grvnZZ): Last activity on 2025-05-13T16:22:09Z
+  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-05-13T16:19:07Z
+  - [ccc7yd](https://github.com/scta-texts/ccc7yd): Last activity on 2025-05-13T16:12:21Z
+  - [azsw2e](https://github.com/scta-texts/azsw2e): Last activity on 2025-05-13T13:06:40Z
+  - [szstco](https://github.com/scta-texts/szstco): Last activity on 2025-05-13T13:05:28Z
+  - [wo8uy7](https://github.com/scta-texts/wo8uy7): Last activity on 2025-05-13T13:05:01Z
+  - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2025-05-13T13:03:42Z
+  - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2025-05-13T12:58:22Z
+  - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2025-05-13T12:34:16Z
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-05-13T01:57:07Z
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-05-13T01:28:44Z
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-05-13T00:41:02Z
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-05-11T11:19:50Z
+  - [TAcCaj](https://github.com/scta-texts/TAcCaj): Last activity on 2025-05-10T23:15:38Z
+  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-05-09T23:59:39Z
+  - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-05-09T16:53:48Z
+  - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-05-07T13:35:52Z
+  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2025-05-07T13:16:43Z
+  - [n3av8a](https://github.com/scta-texts/n3av8a): Last activity on 2025-05-06T17:24:29Z
+  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2025-05-06T15:01:16Z
+  - [gpza5l](https://github.com/scta-texts/gpza5l): Last activity on 2025-05-06T11:31:34Z
+  - [nbht7y](https://github.com/scta-texts/nbht7y): Last activity on 2025-05-05T15:55:31Z
+  - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-05-02T13:05:58Z
+  - [nqqq3t](https://github.com/scta-texts/nqqq3t): Last activity on 2025-05-02T02:55:47Z
+  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-05-01T18:12:13Z
+  - [bcg6es](https://github.com/scta-texts/bcg6es): Last activity on 2025-04-30T12:23:27Z
+  - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata): Last activity on 2025-04-30T12:21:52Z
+  - [la30px](https://github.com/scta-texts/la30px): Last activity on 2025-04-30T12:20:22Z
+  - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-04-30T11:48:31Z
+  - [cv8jk9](https://github.com/scta-texts/cv8jk9): Last activity on 2025-04-30T11:28:21Z
+  - [ol96b1](https://github.com/scta-texts/ol96b1): Last activity on 2025-04-24T13:12:32Z
+  - [gsX5tY](https://github.com/scta-texts/gsX5tY): Last activity on 2025-04-23T21:20:05Z
+  - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary): Last activity on 2025-04-23T20:31:35Z
+  - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-04-19T15:45:41Z
+  - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2025-04-19T15:34:16Z
+  - [nyf6td](https://github.com/scta-texts/nyf6td): Last activity on 2025-04-19T15:30:37Z
+  - [nbnt23](https://github.com/scta-texts/nbnt23): Last activity on 2025-04-13T01:29:18Z
+  - [nbp148](https://github.com/scta-texts/nbp148): Last activity on 2025-04-13T00:57:19Z
+  - [nbm46r](https://github.com/scta-texts/nbm46r): Last activity on 2025-04-13T00:56:12Z
+  - [nbpr23](https://github.com/scta-texts/nbpr23): Last activity on 2025-04-13T00:55:22Z
+  - [aristotlemetaphysics](https://github.com/scta-texts/aristotlemetaphysics): Last activity on 2025-04-10T16:27:11Z
+  - [at8va9](https://github.com/scta-texts/at8va9): Last activity on 2025-04-07T16:36:01Z
+  - [holcotwisdom](https://github.com/scta-texts/holcotwisdom): Last activity on 2025-04-04T23:51:15Z
+  - [bible](https://github.com/scta-texts/bible): Last activity on 2025-04-04T10:50:43Z
+  - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei): Last activity on 2025-04-03T17:28:53Z
+  - [manipulusflorum](https://github.com/scta-texts/manipulusflorum): Last activity on 2025-04-02T01:04:36Z
+  - [graciliscommentary](https://github.com/scta-texts/graciliscommentary): Last activity on 2025-04-01T17:38:44Z
+  - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2025-03-28T21:48:59Z
+  - [dcn2br](https://github.com/scta-texts/dcn2br): Last activity on 2025-03-26T15:55:35Z
+  - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2025-03-26T14:40:36Z
+  - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary): Last activity on 2025-03-26T14:11:25Z
+  - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2025-03-26T12:45:41Z
+  - [bt67yj](https://github.com/scta-texts/bt67yj): Last activity on 2025-03-26T12:35:28Z
+  - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2025-03-25T21:28:15Z
+  - [mm30o9](https://github.com/scta-texts/mm30o9): Last activity on 2025-03-25T21:07:25Z
+  - [holcotcommentary](https://github.com/scta-texts/holcotcommentary): Last activity on 2025-03-25T12:21:48Z
+  - [xAbSeN](https://github.com/scta-texts/xAbSeN): Last activity on 2025-03-25T12:09:43Z
+  - [qweqwe](https://github.com/scta-texts/qweqwe): Last activity on 2025-03-14T12:17:49Z
+  - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2025-03-14T11:54:46Z
+  - [plaoulreportatio](https://github.com/scta-texts/plaoulreportatio): Last activity on 2025-03-12T11:35:42Z
+  - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate): Last activity on 2025-03-12T11:34:00Z
+  - [jMqv4a](https://github.com/scta-texts/jMqv4a): Last activity on 2025-03-09T22:58:28Z
+  - [JM7jmZ](https://github.com/scta-texts/JM7jmZ): Last activity on 2025-03-09T22:21:42Z
+  - [bgy6gt](https://github.com/scta-texts/bgy6gt): Last activity on 2025-03-09T19:38:30Z
+  - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary): Last activity on 2025-03-07T12:31:43Z
+  - [UD1xh4](https://github.com/scta-texts/UD1xh4): Last activity on 2025-03-04T17:48:09Z
+  - [zef3dd](https://github.com/scta-texts/zef3dd): Last activity on 2025-03-04T02:53:21Z
+  - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2025-03-03T12:59:24Z
+  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-03-03T12:55:12Z
+  - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2025-03-03T02:11:21Z
+  - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-03-02T20:29:23Z
+  - [alalal](https://github.com/scta-texts/alalal): Last activity on 2025-02-27T12:12:45Z
+  - [pdt7y6](https://github.com/scta-texts/pdt7y6): Last activity on 2025-02-27T11:44:39Z
+  - [hsvhsv](https://github.com/scta-texts/hsvhsv): Last activity on 2025-02-26T14:15:49Z
+  - [iuy75t](https://github.com/scta-texts/iuy75t): Last activity on 2025-02-24T21:24:51Z
+  - [xch7dn](https://github.com/scta-texts/xch7dn): Last activity on 2025-02-23T13:38:38Z
+  - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2025-02-19T15:08:55Z
+  - [paqqap](https://github.com/scta-texts/paqqap): Last activity on 2025-02-17T18:19:35Z
+  - [v27ab7](https://github.com/scta-texts/v27ab7): Last activity on 2025-02-15T20:10:40Z
+  - [da-3](https://github.com/scta-texts/da-3): Last activity on 2025-02-14T20:27:20Z
+  - [y789tt](https://github.com/scta-texts/y789tt): Last activity on 2025-02-14T11:43:49Z
+  - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia): Last activity on 2025-02-07T16:07:37Z
+  - [plaoulreportatioA](https://github.com/scta-texts/plaoulreportatioA): Last activity on 2025-01-21T19:58:25Z
+  - [tRi8UT](https://github.com/scta-texts/tRi8UT): Last activity on 2025-01-15T19:11:36Z
+  - [FrMQ88](https://github.com/scta-texts/FrMQ88): Last activity on 2025-01-11T19:42:28Z
+  - [Z4Yt34](https://github.com/scta-texts/Z4Yt34): Last activity on 2025-01-09T15:15:46Z
+  - [gU87nn](https://github.com/scta-texts/gU87nn): Last activity on 2025-01-09T15:14:16Z
+  - [mnbzzz](https://github.com/scta-texts/mnbzzz): Last activity on 2025-01-09T15:09:39Z
+  - [picoapologia](https://github.com/scta-texts/picoapologia): Last activity on 2025-01-09T15:08:05Z
+  - [rdr6a6](https://github.com/scta-texts/rdr6a6): Last activity on 2024-11-21T16:02:41Z
+  - [guqs8x](https://github.com/scta-texts/guqs8x): Last activity on 2024-11-17T00:30:36Z
 
