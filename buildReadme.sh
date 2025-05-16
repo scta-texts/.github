@@ -79,7 +79,7 @@ for repo in $(echo "$repos" | jq -c '.'); do
     fi
 
     # Count open pull requests
-    open_prs=$(gh pr list --repo "$ORG_NAME/$repo_name" --state open --json number --jq 'length')
+    open_prs=$(gh pr list --repo "$ORG_NAME/$repo_name" --state open --limit 100 --json number --jq 'length')
     total_open_prs=$((total_open_prs + open_prs))
 
     # Track repositories with open pull requests
