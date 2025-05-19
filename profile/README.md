@@ -3,16 +3,16 @@
 ## Summary Report
 
 Total Repositories: 251
-Passing Repositories: 65
-Failing Repositories: 12
-Repositories Without Workflows: 174
+Passing Repositories: 68
+Failing Repositories: 13
+Repositories Without Workflows: 170
 Repositories With Recent Activity: 41
 Total Open Issues: 21
-Total Open Pull Requests: 81
+Total Open Pull Requests: 93
 
 ### Repositories With Open Pull Requests
 
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 32 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 44 open pull requests
   - [lca8s8](https://github.com/scta-texts/lca8s8/pulls): 1 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 2 open pull requests
@@ -44,7 +44,7 @@ Total Open Pull Requests: 81
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-05-17T03:09:38Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-05-18T03:19:12Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-05-16T15:02:26Z
   - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2025-05-16T11:06:31Z
   - [cv8jk9](https://github.com/scta-texts/cv8jk9): Last activity on 2025-05-15T13:02:21Z
@@ -89,6 +89,7 @@ Total Open Pull Requests: 81
 ### Failing Repositories
 
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
+  - [vn58an](https://github.com/scta-texts/vn58an/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [tgy5tz](https://github.com/scta-texts/tgy5tz/actions/workflows/validation.yml)
@@ -104,10 +105,6 @@ Total Open Pull Requests: 81
 ### Repositories Without Workflows
 
   - [.github](https://github.com/scta-texts/.github)
-  - [cv8jk9](https://github.com/scta-texts/cv8jk9)
-  - [jdso8u](https://github.com/scta-texts/jdso8u)
-  - [TAca84](https://github.com/scta-texts/TAca84)
-  - [vn58an](https://github.com/scta-texts/vn58an)
   - [hy7y6y](https://github.com/scta-texts/hy7y6y)
   - [wo8uy7](https://github.com/scta-texts/wo8uy7)
   - [D78nca](https://github.com/scta-texts/D78nca)
