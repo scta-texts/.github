@@ -8,13 +8,13 @@ Failing Repositories: 13
 Repositories Without Workflows: 170
 Repositories With Recent Activity: 40
 Total Open Issues: 21
-Total Open Pull Requests: 106
+Total Open Pull Requests: 84
 
 ### Repositories With Open Pull Requests
 
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 35 open pull requests
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 2 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 28 open pull requests
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 57 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 3 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
@@ -30,8 +30,8 @@ Total Open Pull Requests: 106
 
 ### Repositories With Open Issues
 
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [bcg6es](https://github.com/scta-texts/bcg6es/issues): 6 open issues
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata/issues): 1 open issues
@@ -43,11 +43,11 @@ Total Open Pull Requests: 106
 
 ### Repositories With Recent Activity
 
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-05-26T14:30:28Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-05-26T03:17:56Z
   - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2025-05-25T21:36:52Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-05-25T03:21:01Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-05-23T15:56:12Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-05-21T12:13:02Z
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-05-20T21:05:54Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-05-20T18:13:30Z
   - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2025-05-20T17:41:07Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-05-20T17:26:47Z
