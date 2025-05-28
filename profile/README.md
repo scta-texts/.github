@@ -3,16 +3,16 @@
 ## Summary Report
 
 Total Repositories: 251
-Passing Repositories: 68
-Failing Repositories: 13
+Passing Repositories: 69
+Failing Repositories: 12
 Repositories Without Workflows: 170
 Repositories With Recent Activity: 40
 Total Open Issues: 21
-Total Open Pull Requests: 84
+Total Open Pull Requests: 71
 
 ### Repositories With Open Pull Requests
 
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 35 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 22 open pull requests
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 2 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 28 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
@@ -43,14 +43,17 @@ Total Open Pull Requests: 84
 
 ### Repositories With Recent Activity
 
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-05-26T14:30:28Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-05-26T03:17:56Z
-  - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2025-05-25T21:36:52Z
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-05-23T15:56:12Z
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-05-27T19:30:38Z
+  - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2025-05-27T14:43:00Z
+  - [szstco](https://github.com/scta-texts/szstco): Last activity on 2025-05-27T14:41:40Z
+  - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-05-27T14:10:20Z
+  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2025-05-27T13:43:39Z
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-05-27T13:39:14Z
+  - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-05-27T11:32:43Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-05-27T03:14:28Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-05-21T12:13:02Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-05-20T18:13:30Z
   - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2025-05-20T17:41:07Z
-  - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-05-20T17:26:47Z
   - [grvnZZ](https://github.com/scta-texts/grvnZZ): Last activity on 2025-05-20T17:24:33Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-05-20T17:03:21Z
   - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2025-05-20T16:58:20Z
@@ -59,12 +62,9 @@ Total Open Pull Requests: 84
   - [cv8jk9](https://github.com/scta-texts/cv8jk9): Last activity on 2025-05-15T13:02:21Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-05-14T15:20:17Z
   - [xAbSeN](https://github.com/scta-texts/xAbSeN): Last activity on 2025-05-14T15:15:10Z
-  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2025-05-14T14:50:51Z
-  - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-05-14T14:24:24Z
   - [hy7y6y](https://github.com/scta-texts/hy7y6y): Last activity on 2025-05-14T00:54:35Z
   - [ccc7yd](https://github.com/scta-texts/ccc7yd): Last activity on 2025-05-13T16:12:21Z
   - [azsw2e](https://github.com/scta-texts/azsw2e): Last activity on 2025-05-13T13:06:40Z
-  - [szstco](https://github.com/scta-texts/szstco): Last activity on 2025-05-13T13:05:28Z
   - [wo8uy7](https://github.com/scta-texts/wo8uy7): Last activity on 2025-05-13T13:05:01Z
   - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2025-05-13T13:03:42Z
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2025-05-13T12:34:16Z
@@ -86,10 +86,9 @@ Total Open Pull Requests: 84
 
 ### Failing Repositories
 
-  - [vn58an](https://github.com/scta-texts/vn58an/actions/workflows/validation.yml)
+  - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
-  - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
   - [tgy5tz](https://github.com/scta-texts/tgy5tz/actions/workflows/validation.yml)
   - [gfhtyt](https://github.com/scta-texts/gfhtyt/actions/workflows/validation.yml)
   - [acnkop](https://github.com/scta-texts/acnkop/actions/workflows/validation.yml)
