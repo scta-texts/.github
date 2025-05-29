@@ -3,8 +3,8 @@
 ## Summary Report
 
 Total Repositories: 251
-Passing Repositories: 69
-Failing Repositories: 12
+Passing Repositories: 68
+Failing Repositories: 13
 Repositories Without Workflows: 170
 Repositories With Recent Activity: 40
 Total Open Issues: 21
@@ -43,14 +43,15 @@ Total Open Pull Requests: 71
 
 ### Repositories With Recent Activity
 
+  - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2025-05-29T01:33:15Z
+  - [nqqq3t](https://github.com/scta-texts/nqqq3t): Last activity on 2025-05-28T15:14:08Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-05-28T03:14:48Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-05-27T19:30:38Z
-  - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2025-05-27T14:43:00Z
   - [szstco](https://github.com/scta-texts/szstco): Last activity on 2025-05-27T14:41:40Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-05-27T14:10:20Z
   - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2025-05-27T13:43:39Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-05-27T13:39:14Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-05-27T11:32:43Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-05-27T03:14:28Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-05-21T12:13:02Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-05-20T18:13:30Z
   - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2025-05-20T17:41:07Z
@@ -78,7 +79,6 @@ Total Open Pull Requests: 71
   - [gpza5l](https://github.com/scta-texts/gpza5l): Last activity on 2025-05-06T11:31:34Z
   - [nbht7y](https://github.com/scta-texts/nbht7y): Last activity on 2025-05-05T15:55:31Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-05-02T13:05:58Z
-  - [nqqq3t](https://github.com/scta-texts/nqqq3t): Last activity on 2025-05-02T02:55:47Z
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-05-01T18:12:13Z
   - [bcg6es](https://github.com/scta-texts/bcg6es): Last activity on 2025-04-30T12:23:27Z
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata): Last activity on 2025-04-30T12:21:52Z
@@ -86,6 +86,7 @@ Total Open Pull Requests: 71
 
 ### Failing Repositories
 
+  - [nqqq3t](https://github.com/scta-texts/nqqq3t/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
