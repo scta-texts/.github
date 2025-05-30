@@ -8,13 +8,13 @@ Failing Repositories: 13
 Repositories Without Workflows: 170
 Repositories With Recent Activity: 40
 Total Open Issues: 21
-Total Open Pull Requests: 71
+Total Open Pull Requests: 75
 
 ### Repositories With Open Pull Requests
 
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 22 open pull requests
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 2 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 28 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 26 open pull requests
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 2 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 3 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
@@ -43,16 +43,16 @@ Total Open Pull Requests: 71
 
 ### Repositories With Recent Activity
 
-  - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2025-05-29T01:33:15Z
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-05-30T00:39:18Z
+  - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2025-05-29T13:51:42Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-05-29T03:15:10Z
   - [nqqq3t](https://github.com/scta-texts/nqqq3t): Last activity on 2025-05-28T15:14:08Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-05-28T03:14:48Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-05-27T19:30:38Z
   - [szstco](https://github.com/scta-texts/szstco): Last activity on 2025-05-27T14:41:40Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-05-27T14:10:20Z
   - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2025-05-27T13:43:39Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-05-27T13:39:14Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-05-27T11:32:43Z
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-05-21T12:13:02Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-05-20T18:13:30Z
   - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2025-05-20T17:41:07Z
   - [grvnZZ](https://github.com/scta-texts/grvnZZ): Last activity on 2025-05-20T17:24:33Z
