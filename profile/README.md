@@ -41,6 +41,7 @@ Total Open Pull Requests: 78
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-06-08T03:25:10Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-06-07T13:50:37Z
   - [ccc7yd](https://github.com/scta-texts/ccc7yd): Last activity on 2025-06-07T12:20:01Z
   - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2025-06-07T12:15:44Z
@@ -48,7 +49,6 @@ Total Open Pull Requests: 78
   - [alalal](https://github.com/scta-texts/alalal): Last activity on 2025-06-07T12:05:01Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2025-06-07T11:53:40Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-06-07T11:50:32Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-06-07T03:16:24Z
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-06-06T10:47:44Z
   - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2025-06-05T17:09:13Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-06-05T16:59:44Z
@@ -102,8 +102,8 @@ Total Open Pull Requests: 78
 
 ### Repositories Without Workflows
 
-  - [D78nca](https://github.com/scta-texts/D78nca)
   - [.github](https://github.com/scta-texts/.github)
+  - [D78nca](https://github.com/scta-texts/D78nca)
   - [liberextra](https://github.com/scta-texts/liberextra)
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu)
   - [UD1xh4](https://github.com/scta-texts/UD1xh4)
