@@ -6,14 +6,14 @@ Total Repositories: 253
 Passing Repositories: 72
 Failing Repositories: 11
 Repositories Without Workflows: 170
-Repositories With Recent Activity: 43
+Repositories With Recent Activity: 42
 Total Open Issues: 21
-Total Open Pull Requests: 80
+Total Open Pull Requests: 84
 
 ### Repositories With Open Pull Requests
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 33 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 37 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 3 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
@@ -41,9 +41,9 @@ Total Open Pull Requests: 80
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-06-14T03:13:54Z
   - [q2sff7](https://github.com/scta-texts/q2sff7): Last activity on 2025-06-13T13:34:12Z
   - [p3adpp](https://github.com/scta-texts/p3adpp): Last activity on 2025-06-13T13:32:54Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-06-13T03:19:33Z
   - [dcn2br](https://github.com/scta-texts/dcn2br): Last activity on 2025-06-12T15:18:11Z
   - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2025-06-12T15:08:42Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-06-12T14:59:47Z
@@ -83,7 +83,6 @@ Total Open Pull Requests: 80
   - [grvnZZ](https://github.com/scta-texts/grvnZZ): Last activity on 2025-05-20T17:24:33Z
   - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2025-05-20T16:58:20Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2025-05-19T21:52:40Z
-  - [xAbSeN](https://github.com/scta-texts/xAbSeN): Last activity on 2025-05-14T15:15:10Z
 
 ### Failing Repositories
 
