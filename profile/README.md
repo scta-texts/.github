@@ -41,7 +41,8 @@ Total Open Pull Requests: 84
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-06-16T03:23:19Z
+  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-06-17T15:05:16Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-06-17T03:21:24Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-06-15T11:28:28Z
   - [q2sff7](https://github.com/scta-texts/q2sff7): Last activity on 2025-06-13T13:34:12Z
   - [p3adpp](https://github.com/scta-texts/p3adpp): Last activity on 2025-06-13T13:32:54Z
@@ -60,7 +61,6 @@ Total Open Pull Requests: 84
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-06-07T12:12:35Z
   - [alalal](https://github.com/scta-texts/alalal): Last activity on 2025-06-07T12:05:01Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2025-06-07T11:53:40Z
-  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-06-06T10:47:44Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-06-04T13:15:29Z
   - [tgy5tz](https://github.com/scta-texts/tgy5tz): Last activity on 2025-06-04T10:36:17Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-06-04T10:29:16Z
