@@ -44,8 +44,9 @@ Total Open Pull Requests: 82
 
 ### Repositories With Recent Activity
 
+  - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-06-22T15:32:45Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-06-22T03:27:41Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-06-21T16:05:43Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-06-21T03:14:28Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-06-20T15:44:59Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-06-19T10:22:36Z
   - [Z4Yt34](https://github.com/scta-texts/Z4Yt34): Last activity on 2025-06-19T10:21:37Z
@@ -76,7 +77,6 @@ Total Open Pull Requests: 82
   - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2025-06-02T18:14:43Z
   - [nqqq3t](https://github.com/scta-texts/nqqq3t): Last activity on 2025-06-02T16:07:16Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-06-02T14:22:28Z
-  - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-06-02T14:06:52Z
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2025-06-02T14:01:09Z
   - [UD1xh4](https://github.com/scta-texts/UD1xh4): Last activity on 2025-06-02T13:57:03Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-06-02T13:53:12Z
@@ -103,11 +103,11 @@ Total Open Pull Requests: 82
 
 ### Repositories Without Workflows
 
+  - [liberextra](https://github.com/scta-texts/liberextra)
   - [.github](https://github.com/scta-texts/.github)
   - [jm12w4](https://github.com/scta-texts/jm12w4)
   - [FrMQ88](https://github.com/scta-texts/FrMQ88)
   - [D78nca](https://github.com/scta-texts/D78nca)
-  - [liberextra](https://github.com/scta-texts/liberextra)
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu)
   - [UD1xh4](https://github.com/scta-texts/UD1xh4)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
