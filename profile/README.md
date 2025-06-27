@@ -6,7 +6,7 @@ Total Repositories: 253
 Passing Repositories: 72
 Failing Repositories: 11
 Repositories Without Workflows: 170
-Repositories With Recent Activity: 42
+Repositories With Recent Activity: 43
 Total Open Issues: 27
 Total Open Pull Requests: 83
 
@@ -44,7 +44,8 @@ Total Open Pull Requests: 83
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-06-25T03:21:24Z
+  - [Cnyt3a](https://github.com/scta-texts/Cnyt3a): Last activity on 2025-06-26T23:55:48Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-06-26T03:20:08Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-06-22T15:32:45Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-06-21T16:05:43Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-06-20T15:44:59Z
@@ -103,6 +104,7 @@ Total Open Pull Requests: 83
 
 ### Repositories Without Workflows
 
+  - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
   - [.github](https://github.com/scta-texts/.github)
   - [liberextra](https://github.com/scta-texts/liberextra)
   - [jm12w4](https://github.com/scta-texts/jm12w4)
@@ -185,7 +187,6 @@ Total Open Pull Requests: 83
   - [mnvhfy](https://github.com/scta-texts/mnvhfy)
   - [GHcsQQ](https://github.com/scta-texts/GHcsQQ)
   - [albertusdeanima](https://github.com/scta-texts/albertusdeanima)
-  - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
   - [lat22al](https://github.com/scta-texts/lat22al)
   - [anselmmonologion](https://github.com/scta-texts/anselmmonologion)
   - [beq3sc](https://github.com/scta-texts/beq3sc)
