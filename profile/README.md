@@ -44,12 +44,12 @@ Total Open Pull Requests: 83
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-06-28T03:15:50Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2025-06-27T23:13:57Z
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a): Last activity on 2025-06-27T17:40:30Z
   - [xch7dn](https://github.com/scta-texts/xch7dn): Last activity on 2025-06-27T16:11:47Z
   - [ol96b1](https://github.com/scta-texts/ol96b1): Last activity on 2025-06-27T12:09:51Z
   - [beq3sc](https://github.com/scta-texts/beq3sc): Last activity on 2025-06-27T12:04:31Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-06-27T03:21:12Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-06-22T15:32:45Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-06-21T16:05:43Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-06-20T15:44:59Z
@@ -106,10 +106,10 @@ Total Open Pull Requests: 83
 
 ### Repositories Without Workflows
 
+  - [.github](https://github.com/scta-texts/.github)
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
   - [xch7dn](https://github.com/scta-texts/xch7dn)
   - [beq3sc](https://github.com/scta-texts/beq3sc)
-  - [.github](https://github.com/scta-texts/.github)
   - [liberextra](https://github.com/scta-texts/liberextra)
   - [jm12w4](https://github.com/scta-texts/jm12w4)
   - [FrMQ88](https://github.com/scta-texts/FrMQ88)
