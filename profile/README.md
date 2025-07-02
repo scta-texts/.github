@@ -6,13 +6,13 @@ Total Repositories: 253
 Passing Repositories: 72
 Failing Repositories: 11
 Repositories Without Workflows: 170
-Repositories With Recent Activity: 44
+Repositories With Recent Activity: 42
 Total Open Issues: 27
-Total Open Pull Requests: 83
+Total Open Pull Requests: 87
 
 ### Repositories With Open Pull Requests
 
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 35 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 39 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 4 open pull requests
@@ -44,7 +44,7 @@ Total Open Pull Requests: 83
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-06-30T03:26:12Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-01T03:42:32Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2025-06-27T23:13:57Z
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a): Last activity on 2025-06-27T17:40:30Z
   - [xch7dn](https://github.com/scta-texts/xch7dn): Last activity on 2025-06-27T16:11:47Z
@@ -86,8 +86,6 @@ Total Open Pull Requests: 83
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-06-02T13:53:12Z
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary): Last activity on 2025-06-02T13:51:30Z
   - [v8naTA](https://github.com/scta-texts/v8naTA): Last activity on 2025-06-02T13:49:48Z
-  - [zef3dd](https://github.com/scta-texts/zef3dd): Last activity on 2025-06-01T19:42:57Z
-  - [at8va9](https://github.com/scta-texts/at8va9): Last activity on 2025-06-01T19:21:18Z
 
 ### Failing Repositories
 
