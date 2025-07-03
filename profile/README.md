@@ -6,7 +6,7 @@ Total Repositories: 253
 Passing Repositories: 72
 Failing Repositories: 11
 Repositories Without Workflows: 170
-Repositories With Recent Activity: 42
+Repositories With Recent Activity: 34
 Total Open Issues: 27
 Total Open Pull Requests: 87
 
@@ -44,8 +44,8 @@ Total Open Pull Requests: 87
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-01T03:42:32Z
-  - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2025-06-27T23:13:57Z
+  - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2025-07-02T17:15:22Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-02T03:22:15Z
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a): Last activity on 2025-06-27T17:40:30Z
   - [xch7dn](https://github.com/scta-texts/xch7dn): Last activity on 2025-06-27T16:11:47Z
   - [ol96b1](https://github.com/scta-texts/ol96b1): Last activity on 2025-06-27T12:09:51Z
@@ -78,14 +78,6 @@ Total Open Pull Requests: 87
   - [alalal](https://github.com/scta-texts/alalal): Last activity on 2025-06-07T12:05:01Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2025-06-07T11:53:40Z
   - [tgy5tz](https://github.com/scta-texts/tgy5tz): Last activity on 2025-06-04T10:36:17Z
-  - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2025-06-02T18:14:43Z
-  - [nqqq3t](https://github.com/scta-texts/nqqq3t): Last activity on 2025-06-02T16:07:16Z
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-06-02T14:22:28Z
-  - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2025-06-02T14:01:09Z
-  - [UD1xh4](https://github.com/scta-texts/UD1xh4): Last activity on 2025-06-02T13:57:03Z
-  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-06-02T13:53:12Z
-  - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary): Last activity on 2025-06-02T13:51:30Z
-  - [v8naTA](https://github.com/scta-texts/v8naTA): Last activity on 2025-06-02T13:49:48Z
 
 ### Failing Repositories
 
