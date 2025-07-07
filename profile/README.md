@@ -44,13 +44,13 @@ Total Open Pull Requests: 93
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-06T03:29:01Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-07-05T19:21:26Z
   - [wo8uy7](https://github.com/scta-texts/wo8uy7): Last activity on 2025-07-05T19:00:51Z
   - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2025-07-05T18:46:06Z
   - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2025-07-05T18:38:41Z
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary): Last activity on 2025-07-05T18:30:58Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-07-05T18:27:23Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-05T03:15:13Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-07-04T10:56:08Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-07-04T01:27:42Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2025-07-02T17:15:22Z
@@ -99,9 +99,9 @@ Total Open Pull Requests: 93
 
 ### Repositories Without Workflows
 
+  - [.github](https://github.com/scta-texts/.github)
   - [wo8uy7](https://github.com/scta-texts/wo8uy7)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
-  - [.github](https://github.com/scta-texts/.github)
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
   - [xch7dn](https://github.com/scta-texts/xch7dn)
   - [beq3sc](https://github.com/scta-texts/beq3sc)
