@@ -6,13 +6,13 @@ Total Repositories: 253
 Passing Repositories: 72
 Failing Repositories: 11
 Repositories Without Workflows: 170
-Repositories With Recent Activity: 34
+Repositories With Recent Activity: 31
 Total Open Issues: 27
-Total Open Pull Requests: 82
+Total Open Pull Requests: 83
 
 ### Repositories With Open Pull Requests
 
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 32 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 33 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 6 open pull requests
@@ -44,8 +44,8 @@ Total Open Pull Requests: 82
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-11T03:29:05Z
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2025-07-10T08:07:13Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-10T03:23:07Z
   - [alalal](https://github.com/scta-texts/alalal): Last activity on 2025-07-09T07:55:03Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2025-07-09T07:47:37Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2025-07-07T11:40:15Z
@@ -75,9 +75,6 @@ Total Open Pull Requests: 82
   - [dcn2br](https://github.com/scta-texts/dcn2br): Last activity on 2025-06-12T15:18:11Z
   - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2025-06-12T15:08:42Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-06-12T14:59:47Z
-  - [pdt7y6](https://github.com/scta-texts/pdt7y6): Last activity on 2025-06-11T22:38:26Z
-  - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-06-11T22:37:02Z
-  - [cv8jk9](https://github.com/scta-texts/cv8jk9): Last activity on 2025-06-11T22:25:58Z
 
 ### Failing Repositories
 
@@ -95,8 +92,8 @@ Total Open Pull Requests: 82
 
 ### Repositories Without Workflows
 
-  - [yyy8Uu](https://github.com/scta-texts/yyy8Uu)
   - [.github](https://github.com/scta-texts/.github)
+  - [yyy8Uu](https://github.com/scta-texts/yyy8Uu)
   - [wo8uy7](https://github.com/scta-texts/wo8uy7)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
