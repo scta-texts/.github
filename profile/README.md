@@ -44,7 +44,8 @@ Total Open Pull Requests: 79
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-14T03:42:15Z
+  - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2025-07-15T23:51:06Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-15T03:32:55Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-07-12T09:02:55Z
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2025-07-10T08:07:13Z
   - [alalal](https://github.com/scta-texts/alalal): Last activity on 2025-07-09T07:55:03Z
@@ -53,7 +54,6 @@ Total Open Pull Requests: 79
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-07-07T08:47:44Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-07-05T19:21:26Z
   - [wo8uy7](https://github.com/scta-texts/wo8uy7): Last activity on 2025-07-05T19:00:51Z
-  - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2025-07-05T18:46:06Z
   - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2025-07-05T18:38:41Z
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary): Last activity on 2025-07-05T18:30:58Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-07-05T18:27:23Z
