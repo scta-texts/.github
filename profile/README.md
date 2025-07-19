@@ -6,7 +6,7 @@ Total Repositories: 253
 Passing Repositories: 72
 Failing Repositories: 11
 Repositories Without Workflows: 170
-Repositories With Recent Activity: 36
+Repositories With Recent Activity: 35
 Total Open Issues: 27
 Total Open Pull Requests: 81
 
@@ -44,6 +44,7 @@ Total Open Pull Requests: 81
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-18T03:30:37Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-07-17T18:57:50Z
   - [at8va9](https://github.com/scta-texts/at8va9): Last activity on 2025-07-17T18:49:49Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-07-17T18:45:41Z
@@ -59,7 +60,6 @@ Total Open Pull Requests: 81
   - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2025-07-17T17:50:10Z
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2025-07-17T17:47:26Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-07-17T17:44:27Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-17T03:28:50Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-07-12T09:02:55Z
   - [alalal](https://github.com/scta-texts/alalal): Last activity on 2025-07-09T07:55:03Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2025-07-09T07:47:37Z
@@ -79,7 +79,6 @@ Total Open Pull Requests: 81
   - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2025-06-19T10:11:35Z
   - [nbht7y](https://github.com/scta-texts/nbht7y): Last activity on 2025-06-19T09:46:46Z
   - [FrMQ88](https://github.com/scta-texts/FrMQ88): Last activity on 2025-06-19T09:42:51Z
-  - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2025-06-18T10:57:34Z
 
 ### Failing Repositories
 
@@ -97,9 +96,9 @@ Total Open Pull Requests: 81
 
 ### Repositories Without Workflows
 
+  - [.github](https://github.com/scta-texts/.github)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu)
-  - [.github](https://github.com/scta-texts/.github)
   - [wo8uy7](https://github.com/scta-texts/wo8uy7)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
