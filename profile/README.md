@@ -8,12 +8,12 @@ Failing Repositories: 12
 Repositories Without Workflows: 170
 Repositories With Recent Activity: 29
 Total Open Issues: 27
-Total Open Pull Requests: 68
+Total Open Pull Requests: 67
 
 ### Repositories With Open Pull Requests
 
+  - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 21 open pull requests
-  - [yth33t](https://github.com/scta-texts/yth33t/pulls): 3 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
@@ -44,8 +44,9 @@ Total Open Pull Requests: 68
 
 ### Repositories With Recent Activity
 
+  - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-07-23T11:58:21Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-23T03:40:32Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-07-22T19:19:10Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-22T03:30:07Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-07-20T00:34:28Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-07-17T18:57:50Z
   - [at8va9](https://github.com/scta-texts/at8va9): Last activity on 2025-07-17T18:49:49Z
@@ -61,7 +62,6 @@ Total Open Pull Requests: 68
   - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2025-07-17T17:50:10Z
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2025-07-17T17:47:26Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-07-17T17:44:27Z
-  - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-07-12T09:02:55Z
   - [alalal](https://github.com/scta-texts/alalal): Last activity on 2025-07-09T07:55:03Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2025-07-09T07:47:37Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2025-07-07T11:40:15Z
