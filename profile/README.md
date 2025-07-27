@@ -8,12 +8,12 @@ Failing Repositories: 12
 Repositories Without Workflows: 170
 Repositories With Recent Activity: 29
 Total Open Issues: 28
-Total Open Pull Requests: 69
+Total Open Pull Requests: 71
 
 ### Repositories With Open Pull Requests
 
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 23 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 25 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
@@ -28,11 +28,11 @@ Total Open Pull Requests: 69
 
 ### Repositories With Open Issues
 
+  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 3 open issues
-  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 3 open issues
   - [bcg6es](https://github.com/scta-texts/bcg6es/issues): 6 open issues
@@ -44,13 +44,14 @@ Total Open Pull Requests: 69
 
 ### Repositories With Recent Activity
 
+  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-07-27T01:25:39Z
+  - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-07-27T00:10:58Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-26T03:27:18Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-07-25T21:48:20Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-25T03:32:07Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-07-23T11:58:21Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-07-20T00:34:28Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-07-17T18:57:50Z
   - [at8va9](https://github.com/scta-texts/at8va9): Last activity on 2025-07-17T18:49:49Z
-  - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-07-17T18:45:41Z
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum): Last activity on 2025-07-17T18:36:38Z
   - [qweqwe](https://github.com/scta-texts/qweqwe): Last activity on 2025-07-17T18:32:04Z
   - [cv8jk9](https://github.com/scta-texts/cv8jk9): Last activity on 2025-07-17T18:30:05Z
@@ -68,7 +69,6 @@ Total Open Pull Requests: 69
   - [wo8uy7](https://github.com/scta-texts/wo8uy7): Last activity on 2025-07-05T19:00:51Z
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary): Last activity on 2025-07-05T18:30:58Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-07-04T10:56:08Z
-  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-07-04T01:27:42Z
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a): Last activity on 2025-06-27T17:40:30Z
   - [xch7dn](https://github.com/scta-texts/xch7dn): Last activity on 2025-06-27T16:11:47Z
   - [ol96b1](https://github.com/scta-texts/ol96b1): Last activity on 2025-06-27T12:09:51Z
