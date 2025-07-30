@@ -2,19 +2,19 @@
 
 ## Summary Report
 
-Total Repositories: 253
-Passing Repositories: 71
+Total Repositories: 254
+Passing Repositories: 73
 Failing Repositories: 12
-Repositories Without Workflows: 170
-Repositories With Recent Activity: 25
+Repositories Without Workflows: 169
+Repositories With Recent Activity: 28
 Total Open Issues: 28
 Total Open Pull Requests: 71
 
 ### Repositories With Open Pull Requests
 
+  - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 25 open pull requests
-  - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
@@ -28,11 +28,11 @@ Total Open Pull Requests: 71
 
 ### Repositories With Open Issues
 
-  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
+  - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 3 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
+  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
-  - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 3 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 3 open issues
   - [bcg6es](https://github.com/scta-texts/bcg6es/issues): 6 open issues
@@ -44,10 +44,14 @@ Total Open Pull Requests: 71
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-28T03:46:58Z
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-07-30T00:45:19Z
+  - [glossaordinaria](https://github.com/scta-texts/glossaordinaria): Last activity on 2025-07-29T20:20:36Z
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-07-29T20:18:01Z
+  - [hx2hx3](https://github.com/scta-texts/hx2hx3): Last activity on 2025-07-29T19:44:00Z
+  - [hxpdpd](https://github.com/scta-texts/hxpdpd): Last activity on 2025-07-29T18:39:59Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-07-29T03:51:10Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-07-27T01:25:39Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-07-27T00:10:58Z
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-07-25T21:48:20Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-07-23T11:58:21Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-07-20T00:34:28Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-07-17T18:57:50Z
@@ -68,7 +72,6 @@ Total Open Pull Requests: 71
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2025-07-07T11:40:15Z
   - [wo8uy7](https://github.com/scta-texts/wo8uy7): Last activity on 2025-07-05T19:00:51Z
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary): Last activity on 2025-07-05T18:30:58Z
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-07-04T10:56:08Z
 
 ### Failing Repositories
 
@@ -220,7 +223,6 @@ Total Open Pull Requests: 71
   - [romacommentary](https://github.com/scta-texts/romacommentary)
   - [qda](https://github.com/scta-texts/qda)
   - [oytacommentary](https://github.com/scta-texts/oytacommentary)
-  - [nataliscommentary](https://github.com/scta-texts/nataliscommentary)
   - [mirecourtcommentary](https://github.com/scta-texts/mirecourtcommentary)
   - [mastridisputationestheologicae](https://github.com/scta-texts/mastridisputationestheologicae)
   - [mairsent2b](https://github.com/scta-texts/mairsent2b)
