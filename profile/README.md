@@ -44,11 +44,11 @@ Total Open Pull Requests: 64
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-06T03:45:50Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-08-05T19:37:55Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-05T15:21:08Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-08-05T15:08:04Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-08-05T14:38:32Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-05T03:48:24Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-08-04T21:42:45Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-08-04T14:26:41Z
   - [olm8ij](https://github.com/scta-texts/olm8ij): Last activity on 2025-08-02T00:33:33Z
@@ -91,8 +91,8 @@ Total Open Pull Requests: 64
 
 ### Repositories Without Workflows
 
-  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [.github](https://github.com/scta-texts/.github)
+  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu)
   - [wo8uy7](https://github.com/scta-texts/wo8uy7)
