@@ -6,7 +6,7 @@ Total Repositories: 254
 Passing Repositories: 73
 Failing Repositories: 12
 Repositories Without Workflows: 169
-Repositories With Recent Activity: 26
+Repositories With Recent Activity: 27
 Total Open Issues: 28
 Total Open Pull Requests: 67
 
@@ -44,8 +44,9 @@ Total Open Pull Requests: 67
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-12T03:18:45Z
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-08-08T18:31:15Z
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-08-13T20:34:40Z
+  - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-08-13T20:21:37Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-13T03:21:09Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-08-05T19:37:55Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-05T15:21:08Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-08-05T15:08:04Z
