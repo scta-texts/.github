@@ -6,20 +6,20 @@ Total Repositories: 254
 Passing Repositories: 73
 Failing Repositories: 12
 Repositories Without Workflows: 169
-Repositories With Recent Activity: 27
+Repositories With Recent Activity: 29
 Total Open Issues: 28
 Total Open Pull Requests: 67
 
 ### Repositories With Open Pull Requests
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
+  - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 22 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
   - [p3adpp](https://github.com/scta-texts/p3adpp/pulls): 1 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
-  - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
   - [p9i7y5](https://github.com/scta-texts/p9i7y5/pulls): 2 open pull requests
   - [M8ag89](https://github.com/scta-texts/M8ag89/pulls): 1 open pull requests
@@ -44,9 +44,11 @@ Total Open Pull Requests: 67
 
 ### Repositories With Recent Activity
 
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-08-13T20:34:40Z
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-08-14T19:39:28Z
+  - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2025-08-14T16:14:15Z
+  - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei): Last activity on 2025-08-14T14:18:09Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-14T03:23:31Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-08-13T20:21:37Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-13T03:21:09Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-08-05T19:37:55Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-05T15:21:08Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-08-05T15:08:04Z
@@ -89,6 +91,8 @@ Total Open Pull Requests: 67
 
 ### Repositories Without Workflows
 
+  - [WuV37d](https://github.com/scta-texts/WuV37d)
+  - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
   - [.github](https://github.com/scta-texts/.github)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
@@ -110,13 +114,11 @@ Total Open Pull Requests: 67
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary)
   - [aristotlemetaphysics](https://github.com/scta-texts/aristotlemetaphysics)
   - [bible](https://github.com/scta-texts/bible)
-  - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
   - [holcotcommentary](https://github.com/scta-texts/holcotcommentary)
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
   - [jMqv4a](https://github.com/scta-texts/jMqv4a)
   - [JM7jmZ](https://github.com/scta-texts/JM7jmZ)
   - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary)
-  - [WuV37d](https://github.com/scta-texts/WuV37d)
   - [iuy75t](https://github.com/scta-texts/iuy75t)
   - [da-3](https://github.com/scta-texts/da-3)
   - [picoapologia](https://github.com/scta-texts/picoapologia)
