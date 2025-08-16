@@ -6,7 +6,7 @@ Total Repositories: 254
 Passing Repositories: 73
 Failing Repositories: 12
 Repositories Without Workflows: 169
-Repositories With Recent Activity: 29
+Repositories With Recent Activity: 32
 Total Open Issues: 28
 Total Open Pull Requests: 67
 
@@ -28,27 +28,30 @@ Total Open Pull Requests: 67
 
 ### Repositories With Open Issues
 
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
+  - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 3 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 3 open issues
   - [bcg6es](https://github.com/scta-texts/bcg6es/issues): 6 open issues
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata/issues): 1 open issues
-  - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
   - [p9i7y5](https://github.com/scta-texts/p9i7y5/issues): 3 open issues
   - [dor5dc](https://github.com/scta-texts/dor5dc/issues): 1 open issues
   - [hispanussummulaelogicales](https://github.com/scta-texts/hispanussummulaelogicales/issues): 1 open issues
 
 ### Repositories With Recent Activity
 
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-08-15T16:02:33Z
+  - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia): Last activity on 2025-08-15T16:02:08Z
+  - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-15T14:29:41Z
+  - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-08-15T13:15:49Z
+  - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2025-08-15T13:15:32Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-15T03:22:37Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-08-14T19:39:28Z
-  - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2025-08-14T16:14:15Z
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei): Last activity on 2025-08-14T14:18:09Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-14T03:23:31Z
-  - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-08-13T20:21:37Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-08-05T19:37:55Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-05T15:21:08Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-08-05T15:08:04Z
@@ -92,8 +95,8 @@ Total Open Pull Requests: 67
 ### Repositories Without Workflows
 
   - [WuV37d](https://github.com/scta-texts/WuV37d)
-  - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
   - [.github](https://github.com/scta-texts/.github)
+  - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu)
