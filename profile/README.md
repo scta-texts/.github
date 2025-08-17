@@ -8,13 +8,13 @@ Failing Repositories: 12
 Repositories Without Workflows: 169
 Repositories With Recent Activity: 32
 Total Open Issues: 28
-Total Open Pull Requests: 67
+Total Open Pull Requests: 68
 
 ### Repositories With Open Pull Requests
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 22 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 23 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
   - [p3adpp](https://github.com/scta-texts/p3adpp/pulls): 1 open pull requests
@@ -44,12 +44,12 @@ Total Open Pull Requests: 67
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-16T03:15:53Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-08-15T16:02:33Z
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia): Last activity on 2025-08-15T16:02:08Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-15T14:29:41Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-08-15T13:15:49Z
   - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2025-08-15T13:15:32Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-15T03:22:37Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-08-14T19:39:28Z
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei): Last activity on 2025-08-14T14:18:09Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-08-05T19:37:55Z
@@ -94,8 +94,8 @@ Total Open Pull Requests: 67
 
 ### Repositories Without Workflows
 
-  - [WuV37d](https://github.com/scta-texts/WuV37d)
   - [.github](https://github.com/scta-texts/.github)
+  - [WuV37d](https://github.com/scta-texts/WuV37d)
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
