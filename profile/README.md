@@ -6,7 +6,7 @@ Total Repositories: 254
 Passing Repositories: 73
 Failing Repositories: 12
 Repositories Without Workflows: 169
-Repositories With Recent Activity: 32
+Repositories With Recent Activity: 20
 Total Open Issues: 28
 Total Open Pull Requests: 68
 
@@ -44,10 +44,10 @@ Total Open Pull Requests: 68
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-16T03:15:53Z
+  - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-17T20:35:37Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-17T03:27:33Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-08-15T16:02:33Z
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia): Last activity on 2025-08-15T16:02:08Z
-  - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-15T14:29:41Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-08-15T13:15:49Z
   - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2025-08-15T13:15:32Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-08-14T19:39:28Z
@@ -64,18 +64,6 @@ Total Open Pull Requests: 68
   - [hx2hx3](https://github.com/scta-texts/hx2hx3): Last activity on 2025-07-29T19:44:00Z
   - [hxpdpd](https://github.com/scta-texts/hxpdpd): Last activity on 2025-07-29T18:39:59Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-07-23T11:58:21Z
-  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-07-17T18:57:50Z
-  - [at8va9](https://github.com/scta-texts/at8va9): Last activity on 2025-07-17T18:49:49Z
-  - [manipulusflorum](https://github.com/scta-texts/manipulusflorum): Last activity on 2025-07-17T18:36:38Z
-  - [qweqwe](https://github.com/scta-texts/qweqwe): Last activity on 2025-07-17T18:32:04Z
-  - [cv8jk9](https://github.com/scta-texts/cv8jk9): Last activity on 2025-07-17T18:30:05Z
-  - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2025-07-17T18:25:02Z
-  - [zef3dd](https://github.com/scta-texts/zef3dd): Last activity on 2025-07-17T18:23:10Z
-  - [hsvhsv](https://github.com/scta-texts/hsvhsv): Last activity on 2025-07-17T18:18:17Z
-  - [ccc7yd](https://github.com/scta-texts/ccc7yd): Last activity on 2025-07-17T17:53:43Z
-  - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2025-07-17T17:50:10Z
-  - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2025-07-17T17:47:26Z
-  - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-07-17T17:44:27Z
 
 ### Failing Repositories
 
