@@ -28,10 +28,10 @@ Total Open Pull Requests: 68
 
 ### Repositories With Open Issues
 
+  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 3 open issues
-  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
@@ -44,8 +44,9 @@ Total Open Pull Requests: 68
 
 ### Repositories With Recent Activity
 
+  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-08-18T14:17:49Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-18T03:33:15Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-17T20:35:37Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-17T03:27:33Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-08-15T16:02:33Z
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia): Last activity on 2025-08-15T16:02:08Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-08-15T13:15:49Z
@@ -55,7 +56,6 @@ Total Open Pull Requests: 68
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-08-05T19:37:55Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-05T15:21:08Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-08-05T15:08:04Z
-  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-08-05T14:38:32Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-08-04T14:26:41Z
   - [olm8ij](https://github.com/scta-texts/olm8ij): Last activity on 2025-08-02T00:33:33Z
   - [y789tt](https://github.com/scta-texts/y789tt): Last activity on 2025-08-01T16:26:11Z
