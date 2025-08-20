@@ -3,18 +3,18 @@
 ## Summary Report
 
 Total Repositories: 254
-Passing Repositories: 73
-Failing Repositories: 12
+Passing Repositories: 72
+Failing Repositories: 13
 Repositories Without Workflows: 169
 Repositories With Recent Activity: 20
 Total Open Issues: 28
-Total Open Pull Requests: 68
+Total Open Pull Requests: 71
 
 ### Repositories With Open Pull Requests
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 23 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 26 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
   - [p3adpp](https://github.com/scta-texts/p3adpp/pulls): 1 open pull requests
@@ -28,10 +28,10 @@ Total Open Pull Requests: 68
 
 ### Repositories With Open Issues
 
+  - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 3 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
-  - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 3 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
@@ -44,14 +44,14 @@ Total Open Pull Requests: 68
 
 ### Repositories With Recent Activity
 
+  - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-19T18:36:51Z
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-08-19T17:10:43Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-19T03:12:09Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-08-18T14:17:49Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-18T03:33:15Z
-  - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-17T20:35:37Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-08-15T16:02:33Z
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia): Last activity on 2025-08-15T16:02:08Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-08-15T13:15:49Z
   - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2025-08-15T13:15:32Z
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-08-14T19:39:28Z
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei): Last activity on 2025-08-14T14:18:09Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-08-05T19:37:55Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-05T15:21:08Z
@@ -71,6 +71,7 @@ Total Open Pull Requests: 68
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
   - [p3adpp](https://github.com/scta-texts/p3adpp/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
+  - [bnh77h](https://github.com/scta-texts/bnh77h/actions/workflows/validation.yml)
   - [wef6td](https://github.com/scta-texts/wef6td/actions/workflows/validation.yml)
   - [gfhtyt](https://github.com/scta-texts/gfhtyt/actions/workflows/validation.yml)
   - [acnkop](https://github.com/scta-texts/acnkop/actions/workflows/validation.yml)
