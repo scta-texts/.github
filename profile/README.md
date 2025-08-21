@@ -44,9 +44,10 @@ Total Open Pull Requests: 71
 
 ### Repositories With Recent Activity
 
+  - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-20T13:53:15Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-20T03:11:10Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-19T18:36:51Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-08-19T17:10:43Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-19T03:12:09Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-08-18T14:17:49Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-08-15T16:02:33Z
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia): Last activity on 2025-08-15T16:02:08Z
@@ -54,7 +55,6 @@ Total Open Pull Requests: 71
   - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2025-08-15T13:15:32Z
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei): Last activity on 2025-08-14T14:18:09Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-08-05T19:37:55Z
-  - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-05T15:21:08Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-08-05T15:08:04Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-08-04T14:26:41Z
   - [olm8ij](https://github.com/scta-texts/olm8ij): Last activity on 2025-08-02T00:33:33Z
