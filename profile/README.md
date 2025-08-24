@@ -3,18 +3,18 @@
 ## Summary Report
 
 Total Repositories: 254
-Passing Repositories: 72
-Failing Repositories: 13
+Passing Repositories: 71
+Failing Repositories: 14
 Repositories Without Workflows: 169
-Repositories With Recent Activity: 20
+Repositories With Recent Activity: 19
 Total Open Issues: 28
-Total Open Pull Requests: 71
+Total Open Pull Requests: 73
 
 ### Repositories With Open Pull Requests
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 26 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 28 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
   - [p3adpp](https://github.com/scta-texts/p3adpp/pulls): 1 open pull requests
@@ -44,7 +44,7 @@ Total Open Pull Requests: 71
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-22T03:10:44Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-23T03:03:15Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-20T13:53:15Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-19T18:36:51Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-08-19T17:10:43Z
@@ -63,11 +63,11 @@ Total Open Pull Requests: 71
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-07-29T20:18:01Z
   - [hx2hx3](https://github.com/scta-texts/hx2hx3): Last activity on 2025-07-29T19:44:00Z
   - [hxpdpd](https://github.com/scta-texts/hxpdpd): Last activity on 2025-07-29T18:39:59Z
-  - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-07-23T11:58:21Z
 
 ### Failing Repositories
 
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
   - [p3adpp](https://github.com/scta-texts/p3adpp/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
