@@ -3,8 +3,8 @@
 ## Summary Report
 
 Total Repositories: 254
-Passing Repositories: 71
-Failing Repositories: 14
+Passing Repositories: 72
+Failing Repositories: 13
 Repositories Without Workflows: 169
 Repositories With Recent Activity: 19
 Total Open Issues: 28
@@ -44,7 +44,7 @@ Total Open Pull Requests: 73
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-23T03:03:15Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-08-24T03:20:10Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-20T13:53:15Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-19T18:36:51Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-08-19T17:10:43Z
@@ -67,7 +67,6 @@ Total Open Pull Requests: 73
 ### Failing Repositories
 
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
   - [p3adpp](https://github.com/scta-texts/p3adpp/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
