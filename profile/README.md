@@ -44,8 +44,8 @@ Total Open Pull Requests: 80
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-02T03:09:21Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-09-01T17:24:52Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-01T03:22:06Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-20T13:53:15Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-19T18:36:51Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-08-18T14:17:49Z
