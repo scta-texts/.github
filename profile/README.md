@@ -3,8 +3,8 @@
 ## Summary Report
 
 Total Repositories: 254
-Passing Repositories: 73
-Failing Repositories: 12
+Passing Repositories: 72
+Failing Repositories: 13
 Repositories Without Workflows: 169
 Repositories With Recent Activity: 11
 Total Open Issues: 29
@@ -44,7 +44,7 @@ Total Open Pull Requests: 61
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-05T03:00:07Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-06T02:56:44Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-09-04T13:12:06Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-09-01T17:24:52Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-20T13:53:15Z
@@ -61,6 +61,7 @@ Total Open Pull Requests: 61
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
+  - [ferv7a](https://github.com/scta-texts/ferv7a/actions/workflows/validation.yml)
   - [bnh77h](https://github.com/scta-texts/bnh77h/actions/workflows/validation.yml)
   - [wef6td](https://github.com/scta-texts/wef6td/actions/workflows/validation.yml)
   - [gfhtyt](https://github.com/scta-texts/gfhtyt/actions/workflows/validation.yml)
