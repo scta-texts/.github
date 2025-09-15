@@ -6,14 +6,14 @@ Total Repositories: 254
 Passing Repositories: 72
 Failing Repositories: 13
 Repositories Without Workflows: 169
-Repositories With Recent Activity: 11
+Repositories With Recent Activity: 10
 Total Open Issues: 29
 Total Open Pull Requests: 61
 
 ### Repositories With Open Pull Requests
 
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 16 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 16 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
@@ -28,8 +28,8 @@ Total Open Pull Requests: 61
 
 ### Repositories With Open Issues
 
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
@@ -44,9 +44,9 @@ Total Open Pull Requests: 61
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-13T02:47:02Z
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-09-14T15:34:06Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-14T03:04:51Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-09-04T13:12:06Z
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-09-01T17:24:52Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-20T13:53:15Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-19T18:36:51Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-08-18T14:17:49Z
@@ -54,7 +54,6 @@ Total Open Pull Requests: 61
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia): Last activity on 2025-08-15T16:02:08Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-08-15T13:15:49Z
   - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2025-08-15T13:15:32Z
-  - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei): Last activity on 2025-08-14T14:18:09Z
 
 ### Failing Repositories
 
