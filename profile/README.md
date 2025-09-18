@@ -6,7 +6,7 @@ Total Repositories: 255
 Passing Repositories: 73
 Failing Repositories: 13
 Repositories Without Workflows: 169
-Repositories With Recent Activity: 7
+Repositories With Recent Activity: 9
 Total Open Issues: 29
 Total Open Pull Requests: 61
 
@@ -44,9 +44,11 @@ Total Open Pull Requests: 61
 
 ### Repositories With Recent Activity
 
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-09-18T02:24:35Z
+  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-09-18T01:05:59Z
+  - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-09-17T19:12:16Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-17T02:56:51Z
   - [inleiv](https://github.com/scta-texts/inleiv): Last activity on 2025-09-16T15:39:21Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-16T02:57:29Z
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-09-15T17:14:37Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-09-04T13:12:06Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-20T13:53:15Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-19T18:36:51Z
@@ -70,6 +72,7 @@ Total Open Pull Requests: 61
 
 ### Repositories Without Workflows
 
+  - [liberextra](https://github.com/scta-texts/liberextra)
   - [.github](https://github.com/scta-texts/.github)
   - [WuV37d](https://github.com/scta-texts/WuV37d)
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
@@ -81,7 +84,6 @@ Total Open Pull Requests: 61
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
   - [xch7dn](https://github.com/scta-texts/xch7dn)
   - [beq3sc](https://github.com/scta-texts/beq3sc)
-  - [liberextra](https://github.com/scta-texts/liberextra)
   - [jm12w4](https://github.com/scta-texts/jm12w4)
   - [FrMQ88](https://github.com/scta-texts/FrMQ88)
   - [D78nca](https://github.com/scta-texts/D78nca)
