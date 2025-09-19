@@ -2,8 +2,8 @@
 
 ## Summary Report
 
-Total Repositories: 255
-Passing Repositories: 73
+Total Repositories: 256
+Passing Repositories: 74
 Failing Repositories: 13
 Repositories Without Workflows: 169
 Repositories With Recent Activity: 9
@@ -44,15 +44,15 @@ Total Open Pull Requests: 61
 
 ### Repositories With Recent Activity
 
+  - [bplext](https://github.com/scta-texts/bplext): Last activity on 2025-09-18T19:49:09Z
+  - [inleiv](https://github.com/scta-texts/inleiv): Last activity on 2025-09-18T19:48:48Z
+  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-09-18T18:06:51Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-18T02:59:10Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-09-18T02:24:35Z
-  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-09-18T01:05:59Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-09-17T19:12:16Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-17T02:56:51Z
-  - [inleiv](https://github.com/scta-texts/inleiv): Last activity on 2025-09-16T15:39:21Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-09-04T13:12:06Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-20T13:53:15Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-08-19T18:36:51Z
-  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-08-18T14:17:49Z
 
 ### Failing Repositories
 
@@ -72,8 +72,8 @@ Total Open Pull Requests: 61
 
 ### Repositories Without Workflows
 
-  - [liberextra](https://github.com/scta-texts/liberextra)
   - [.github](https://github.com/scta-texts/.github)
+  - [liberextra](https://github.com/scta-texts/liberextra)
   - [WuV37d](https://github.com/scta-texts/WuV37d)
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
