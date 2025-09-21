@@ -6,7 +6,7 @@ Total Repositories: 256
 Passing Repositories: 74
 Failing Repositories: 13
 Repositories Without Workflows: 169
-Repositories With Recent Activity: 8
+Repositories With Recent Activity: 7
 Total Open Issues: 29
 Total Open Pull Requests: 61
 
@@ -44,14 +44,13 @@ Total Open Pull Requests: 61
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-19T03:02:30Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-20T02:56:38Z
   - [bplext](https://github.com/scta-texts/bplext): Last activity on 2025-09-18T19:49:09Z
   - [inleiv](https://github.com/scta-texts/inleiv): Last activity on 2025-09-18T19:48:48Z
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-09-18T18:06:51Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-09-18T02:24:35Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-09-17T19:12:16Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-09-04T13:12:06Z
-  - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-08-20T13:53:15Z
 
 ### Failing Repositories
 
