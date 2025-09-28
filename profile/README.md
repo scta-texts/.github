@@ -44,9 +44,9 @@ Total Open Pull Requests: 61
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-27T02:55:49Z
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-09-26T23:52:29Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-09-26T15:09:47Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-09-26T03:03:02Z
   - [bplext](https://github.com/scta-texts/bplext): Last activity on 2025-09-18T19:49:09Z
   - [inleiv](https://github.com/scta-texts/inleiv): Last activity on 2025-09-18T19:48:48Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-09-17T19:12:16Z
