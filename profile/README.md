@@ -8,12 +8,13 @@ Failing Repositories: 13
 Repositories Without Workflows: 169
 Repositories With Recent Activity: 7
 Total Open Issues: 29
-Total Open Pull Requests: 61
+Total Open Pull Requests: 62
 
 ### Repositories With Open Pull Requests
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 16 open pull requests
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 1 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
@@ -44,8 +45,8 @@ Total Open Pull Requests: 61
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-02T03:00:03Z
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-10-01T15:13:38Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-01T03:14:13Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-09-26T15:09:47Z
   - [bplext](https://github.com/scta-texts/bplext): Last activity on 2025-09-18T19:49:09Z
   - [inleiv](https://github.com/scta-texts/inleiv): Last activity on 2025-09-18T19:48:48Z
