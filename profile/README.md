@@ -6,20 +6,20 @@ Total Repositories: 256
 Passing Repositories: 73
 Failing Repositories: 14
 Repositories Without Workflows: 169
-Repositories With Recent Activity: 9
+Repositories With Recent Activity: 10
 Total Open Issues: 29
 Total Open Pull Requests: 66
 
 ### Repositories With Open Pull Requests
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
+  - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 20 open pull requests
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 1 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
   - [p3adpp](https://github.com/scta-texts/p3adpp/pulls): 1 open pull requests
-  - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
   - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
   - [p9i7y5](https://github.com/scta-texts/p9i7y5/pulls): 2 open pull requests
@@ -45,9 +45,10 @@ Total Open Pull Requests: 66
 
 ### Repositories With Recent Activity
 
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-10-06T22:39:51Z
+  - [azsw2e](https://github.com/scta-texts/azsw2e): Last activity on 2025-10-06T15:00:11Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-06T03:02:53Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-10-05T21:37:16Z
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-10-05T20:52:49Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-05T03:08:16Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-10-05T01:09:42Z
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-10-04T18:04:50Z
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum): Last activity on 2025-10-04T13:21:55Z
