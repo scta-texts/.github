@@ -6,7 +6,7 @@ Total Repositories: 256
 Passing Repositories: 73
 Failing Repositories: 14
 Repositories Without Workflows: 169
-Repositories With Recent Activity: 10
+Repositories With Recent Activity: 11
 Total Open Issues: 29
 Total Open Pull Requests: 66
 
@@ -45,21 +45,22 @@ Total Open Pull Requests: 66
 
 ### Repositories With Recent Activity
 
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-10-06T22:39:51Z
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-10-07T20:22:32Z
+  - [bplext](https://github.com/scta-texts/bplext): Last activity on 2025-10-07T16:48:19Z
+  - [inleiv](https://github.com/scta-texts/inleiv): Last activity on 2025-10-07T16:47:41Z
+  - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-10-07T16:47:25Z
+  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-10-07T15:33:54Z
+  - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2025-10-07T12:09:21Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-07T03:00:16Z
   - [azsw2e](https://github.com/scta-texts/azsw2e): Last activity on 2025-10-06T15:00:11Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-06T03:02:53Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-10-05T21:37:16Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-10-05T01:09:42Z
-  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-10-04T18:04:50Z
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum): Last activity on 2025-10-04T13:21:55Z
-  - [bplext](https://github.com/scta-texts/bplext): Last activity on 2025-09-18T19:49:09Z
-  - [inleiv](https://github.com/scta-texts/inleiv): Last activity on 2025-09-18T19:48:48Z
-  - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-09-17T19:12:16Z
 
 ### Failing Repositories
 
-  - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum/actions/workflows/validation.yml)
+  - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [ferv7a](https://github.com/scta-texts/ferv7a/actions/workflows/validation.yml)
@@ -75,9 +76,9 @@ Total Open Pull Requests: 66
 
 ### Repositories Without Workflows
 
+  - [liberextra](https://github.com/scta-texts/liberextra)
   - [.github](https://github.com/scta-texts/.github)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
-  - [liberextra](https://github.com/scta-texts/liberextra)
   - [WuV37d](https://github.com/scta-texts/WuV37d)
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
