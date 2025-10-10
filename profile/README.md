@@ -6,16 +6,16 @@ Total Repositories: 256
 Passing Repositories: 73
 Failing Repositories: 14
 Repositories Without Workflows: 169
-Repositories With Recent Activity: 11
+Repositories With Recent Activity: 12
 Total Open Issues: 29
-Total Open Pull Requests: 66
+Total Open Pull Requests: 68
 
 ### Repositories With Open Pull Requests
 
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 3 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 20 open pull requests
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 1 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
@@ -29,11 +29,11 @@ Total Open Pull Requests: 66
 
 ### Repositories With Open Issues
 
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 3 open issues
@@ -45,8 +45,9 @@ Total Open Pull Requests: 66
 
 ### Repositories With Recent Activity
 
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-10-09T19:02:27Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-09T03:00:54Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-10-08T23:41:31Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-08T02:59:36Z
   - [bplext](https://github.com/scta-texts/bplext): Last activity on 2025-10-07T16:48:19Z
   - [inleiv](https://github.com/scta-texts/inleiv): Last activity on 2025-10-07T16:47:41Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-10-07T16:47:25Z
