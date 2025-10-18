@@ -12,9 +12,9 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Pull Requests
 
+  - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 28 open pull requests
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 3 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 11 open pull requests
-  - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 28 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
@@ -29,10 +29,10 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Issues
 
+  - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
-  - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
@@ -45,13 +45,13 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-10-17T12:07:01Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-17T03:03:03Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-10-16T20:12:23Z
   - [bplext](https://github.com/scta-texts/bplext): Last activity on 2025-10-16T18:56:49Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-10-16T11:05:27Z
   - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2025-10-16T10:11:56Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-16T03:04:25Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-10-15T17:56:57Z
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-10-13T20:01:11Z
   - [nbht7y](https://github.com/scta-texts/nbht7y): Last activity on 2025-10-12T23:39:11Z
   - [inleiv](https://github.com/scta-texts/inleiv): Last activity on 2025-10-12T02:02:32Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-10-07T16:47:25Z
