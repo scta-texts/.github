@@ -3,22 +3,22 @@
 ## Summary Report
 
 Total Repositories: 256
-Passing Repositories: 73
+Passing Repositories: 74
 Failing Repositories: 14
-Repositories Without Workflows: 169
-Repositories With Recent Activity: 19
+Repositories Without Workflows: 168
+Repositories With Recent Activity: 21
 Total Open Issues: 29
-Total Open Pull Requests: 68
+Total Open Pull Requests: 72
 
 ### Repositories With Open Pull Requests
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 28 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 3 open pull requests
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 21 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 23 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
-  - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
+  - [yth33t](https://github.com/scta-texts/yth33t/pulls): 4 open pull requests
   - [p3adpp](https://github.com/scta-texts/p3adpp/pulls): 1 open pull requests
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
   - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
@@ -29,13 +29,13 @@ Total Open Pull Requests: 68
 
 ### Repositories With Open Issues
 
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 3 open issues
   - [bcg6es](https://github.com/scta-texts/bcg6es/issues): 6 open issues
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata/issues): 1 open issues
@@ -45,10 +45,12 @@ Total Open Pull Requests: 68
 
 ### Repositories With Recent Activity
 
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-10-21T02:37:41Z
+  - [iu7r3b](https://github.com/scta-texts/iu7r3b): Last activity on 2025-10-21T20:34:05Z
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-10-21T20:26:21Z
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-10-21T19:14:59Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-21T03:07:30Z
   - [n3av8a](https://github.com/scta-texts/n3av8a): Last activity on 2025-10-20T15:13:08Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-10-20T14:58:50Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-20T03:16:26Z
   - [gsX5tY](https://github.com/scta-texts/gsX5tY): Last activity on 2025-10-19T23:11:53Z
   - [grvnZZ](https://github.com/scta-texts/grvnZZ): Last activity on 2025-10-19T22:31:27Z
   - [inleiv](https://github.com/scta-texts/inleiv): Last activity on 2025-10-19T16:29:09Z
@@ -122,7 +124,6 @@ Total Open Pull Requests: 68
   - [khj78y](https://github.com/scta-texts/khj78y)
   - [cnag1q](https://github.com/scta-texts/cnag1q)
   - [dionysiusecclesiastica](https://github.com/scta-texts/dionysiusecclesiastica)
-  - [iu7r3b](https://github.com/scta-texts/iu7r3b)
   - [da-31](https://github.com/scta-texts/da-31)
   - [hispanusecclesiastica](https://github.com/scta-texts/hispanusecclesiastica)
   - [a7y6tt](https://github.com/scta-texts/a7y6tt)
