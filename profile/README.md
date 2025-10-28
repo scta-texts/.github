@@ -6,7 +6,7 @@ Total Repositories: 257
 Passing Repositories: 85
 Failing Repositories: 15
 Repositories Without Workflows: 157
-Repositories With Recent Activity: 39
+Repositories With Recent Activity: 40
 Total Open Issues: 29
 Total Open Pull Requests: 73
 
@@ -44,7 +44,9 @@ Total Open Pull Requests: 73
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-26T03:11:38Z
+  - [bplext](https://github.com/scta-texts/bplext): Last activity on 2025-10-28T02:11:58Z
+  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-10-27T18:09:41Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-27T03:22:51Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-10-24T23:42:54Z
   - [JM7jmZ](https://github.com/scta-texts/JM7jmZ): Last activity on 2025-10-24T19:41:50Z
   - [jMqv4a](https://github.com/scta-texts/jMqv4a): Last activity on 2025-10-24T19:41:34Z
@@ -75,7 +77,6 @@ Total Open Pull Requests: 73
   - [n3av8a](https://github.com/scta-texts/n3av8a): Last activity on 2025-10-20T15:13:08Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-10-20T14:58:50Z
   - [inleiv](https://github.com/scta-texts/inleiv): Last activity on 2025-10-19T16:29:09Z
-  - [bplext](https://github.com/scta-texts/bplext): Last activity on 2025-10-16T18:56:49Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-10-16T11:05:27Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-10-15T17:56:57Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-10-07T16:47:25Z
