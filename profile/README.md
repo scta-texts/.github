@@ -8,15 +8,15 @@ Failing Repositories: 15
 Repositories Without Workflows: 157
 Repositories With Recent Activity: 44
 Total Open Issues: 31
-Total Open Pull Requests: 76
+Total Open Pull Requests: 80
 
 ### Repositories With Open Pull Requests
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 28 open pull requests
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR/pulls): 1 open pull requests
-  - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 1 open pull requests
+  - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 2 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 30 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 33 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [p3adpp](https://github.com/scta-texts/p3adpp/pulls): 1 open pull requests
@@ -47,10 +47,10 @@ Total Open Pull Requests: 76
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-31T03:12:37Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-10-30T18:46:41Z
   - [hx2hx3](https://github.com/scta-texts/hx2hx3): Last activity on 2025-10-30T18:35:49Z
   - [khj78y](https://github.com/scta-texts/khj78y): Last activity on 2025-10-30T18:33:42Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-10-30T03:14:20Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-10-29T18:28:19Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-10-29T15:44:58Z
   - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary): Last activity on 2025-10-28T18:58:53Z
@@ -112,8 +112,8 @@ Total Open Pull Requests: 76
 
 ### Repositories Without Workflows
 
-  - [khj78y](https://github.com/scta-texts/khj78y)
   - [.github](https://github.com/scta-texts/.github)
+  - [khj78y](https://github.com/scta-texts/khj78y)
   - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary)
   - [wo8uy7](https://github.com/scta-texts/wo8uy7)
   - [liberextra](https://github.com/scta-texts/liberextra)
