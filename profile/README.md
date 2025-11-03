@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 257
-Passing Repositories: 85
+Passing Repositories: 87
 Failing Repositories: 15
-Repositories Without Workflows: 157
-Repositories With Recent Activity: 44
+Repositories Without Workflows: 155
+Repositories With Recent Activity: 48
 Total Open Issues: 31
 Total Open Pull Requests: 81
 
@@ -47,7 +47,11 @@ Total Open Pull Requests: 81
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-01T03:14:28Z
+  - [UD1xh4](https://github.com/scta-texts/UD1xh4): Last activity on 2025-11-02T19:16:00Z
+  - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2025-11-02T18:54:10Z
+  - [ccc7yd](https://github.com/scta-texts/ccc7yd): Last activity on 2025-11-02T18:10:55Z
+  - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-11-02T13:44:53Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-02T03:17:32Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-10-30T18:46:41Z
   - [hx2hx3](https://github.com/scta-texts/hx2hx3): Last activity on 2025-10-30T18:35:49Z
   - [khj78y](https://github.com/scta-texts/khj78y): Last activity on 2025-10-30T18:33:42Z
@@ -121,13 +125,11 @@ Total Open Pull Requests: 81
   - [WuV37d](https://github.com/scta-texts/WuV37d)
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
-  - [yyy8Uu](https://github.com/scta-texts/yyy8Uu)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
   - [beq3sc](https://github.com/scta-texts/beq3sc)
   - [FrMQ88](https://github.com/scta-texts/FrMQ88)
   - [D78nca](https://github.com/scta-texts/D78nca)
-  - [UD1xh4](https://github.com/scta-texts/UD1xh4)
   - [FrMS88](https://github.com/scta-texts/FrMS88)
   - [hy7y6y](https://github.com/scta-texts/hy7y6y)
   - [bcg6es](https://github.com/scta-texts/bcg6es)
