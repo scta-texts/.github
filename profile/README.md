@@ -3,18 +3,17 @@
 ## Summary Report
 
 Total Repositories: 257
-Passing Repositories: 87
-Failing Repositories: 15
+Passing Repositories: 88
+Failing Repositories: 14
 Repositories Without Workflows: 155
 Repositories With Recent Activity: 48
 Total Open Issues: 31
-Total Open Pull Requests: 81
+Total Open Pull Requests: 79
 
 ### Repositories With Open Pull Requests
 
+  - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 1 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 28 open pull requests
-  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR/pulls): 1 open pull requests
-  - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 2 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 34 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
@@ -47,11 +46,13 @@ Total Open Pull Requests: 81
 
 ### Repositories With Recent Activity
 
+  - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2025-11-03T16:59:39Z
+  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-11-03T15:01:20Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-03T03:20:19Z
   - [UD1xh4](https://github.com/scta-texts/UD1xh4): Last activity on 2025-11-02T19:16:00Z
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2025-11-02T18:54:10Z
   - [ccc7yd](https://github.com/scta-texts/ccc7yd): Last activity on 2025-11-02T18:10:55Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-11-02T13:44:53Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-02T03:17:32Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-10-30T18:46:41Z
   - [hx2hx3](https://github.com/scta-texts/hx2hx3): Last activity on 2025-10-30T18:35:49Z
   - [khj78y](https://github.com/scta-texts/khj78y): Last activity on 2025-10-30T18:33:42Z
@@ -60,12 +61,10 @@ Total Open Pull Requests: 81
   - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary): Last activity on 2025-10-28T18:58:53Z
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-10-28T16:27:59Z
   - [bplext](https://github.com/scta-texts/bplext): Last activity on 2025-10-28T02:11:58Z
-  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-10-27T18:09:41Z
   - [JM7jmZ](https://github.com/scta-texts/JM7jmZ): Last activity on 2025-10-24T19:41:50Z
   - [jMqv4a](https://github.com/scta-texts/jMqv4a): Last activity on 2025-10-24T19:41:34Z
   - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2025-10-24T19:41:20Z
   - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2025-10-24T19:41:01Z
-  - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2025-10-24T17:04:03Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-10-24T16:15:18Z
   - [JMAet9](https://github.com/scta-texts/JMAet9): Last activity on 2025-10-24T16:02:23Z
   - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2025-10-24T15:31:41Z
@@ -100,7 +99,6 @@ Total Open Pull Requests: 81
 
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum/actions/workflows/validation.yml)
-  - [jsjasx](https://github.com/scta-texts/jsjasx/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
