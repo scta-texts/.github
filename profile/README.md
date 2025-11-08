@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 257
-Passing Repositories: 88
-Failing Repositories: 15
+Passing Repositories: 89
+Failing Repositories: 14
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 47
+Repositories With Recent Activity: 46
 Total Open Issues: 31
 Total Open Pull Requests: 67
 
@@ -29,10 +29,10 @@ Total Open Pull Requests: 67
 
 ### Repositories With Open Issues
 
+  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
-  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
@@ -46,11 +46,11 @@ Total Open Pull Requests: 67
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-07T03:12:03Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-11-06T19:33:05Z
   - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2025-11-06T19:30:02Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-11-06T17:07:57Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-11-06T13:22:26Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-06T03:17:41Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2025-11-05T19:26:12Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-11-05T19:25:45Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-11-05T00:15:59Z
@@ -92,11 +92,9 @@ Total Open Pull Requests: 67
   - [n3av8a](https://github.com/scta-texts/n3av8a): Last activity on 2025-10-20T15:13:08Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-10-20T14:58:50Z
   - [inleiv](https://github.com/scta-texts/inleiv): Last activity on 2025-10-19T16:29:09Z
-  - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-10-07T16:47:25Z
 
 ### Failing Repositories
 
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
