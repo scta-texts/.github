@@ -6,13 +6,14 @@ Total Repositories: 257
 Passing Repositories: 89
 Failing Repositories: 14
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 47
+Repositories With Recent Activity: 48
 Total Open Issues: 31
 Total Open Pull Requests: 72
 
 ### Repositories With Open Pull Requests
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 28 open pull requests
+  - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 27 open pull requests
   - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 1 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
@@ -20,7 +21,6 @@ Total Open Pull Requests: 72
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [p3adpp](https://github.com/scta-texts/p3adpp/pulls): 1 open pull requests
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
-  - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
   - [mm30o9](https://github.com/scta-texts/mm30o9/pulls): 1 open pull requests
   - [p9i7y5](https://github.com/scta-texts/p9i7y5/pulls): 2 open pull requests
   - [M8ag89](https://github.com/scta-texts/M8ag89/pulls): 1 open pull requests
@@ -46,9 +46,10 @@ Total Open Pull Requests: 72
 
 ### Repositories With Recent Activity
 
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-11-10T01:06:29Z
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-11-11T02:06:54Z
+  - [graciliscommentary](https://github.com/scta-texts/graciliscommentary): Last activity on 2025-11-10T17:10:59Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-10T03:22:40Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-11-09T23:27:46Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-09T03:14:30Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-11-06T19:33:05Z
   - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2025-11-06T19:30:02Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-11-06T13:22:26Z
@@ -113,8 +114,8 @@ Total Open Pull Requests: 72
 
 ### Repositories Without Workflows
 
-  - [liberextra](https://github.com/scta-texts/liberextra)
   - [.github](https://github.com/scta-texts/.github)
+  - [liberextra](https://github.com/scta-texts/liberextra)
   - [khj78y](https://github.com/scta-texts/khj78y)
   - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary)
   - [wo8uy7](https://github.com/scta-texts/wo8uy7)
