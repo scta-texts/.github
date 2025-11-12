@@ -3,8 +3,8 @@
 ## Summary Report
 
 Total Repositories: 257
-Passing Repositories: 89
-Failing Repositories: 14
+Passing Repositories: 88
+Failing Repositories: 15
 Repositories Without Workflows: 154
 Repositories With Recent Activity: 48
 Total Open Issues: 31
@@ -46,9 +46,9 @@ Total Open Pull Requests: 72
 
 ### Repositories With Recent Activity
 
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-11-11T02:06:54Z
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-11-11T16:57:45Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-11T03:17:17Z
   - [graciliscommentary](https://github.com/scta-texts/graciliscommentary): Last activity on 2025-11-10T17:10:59Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-10T03:22:40Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-11-09T23:27:46Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-11-06T19:33:05Z
   - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2025-11-06T19:30:02Z
@@ -97,6 +97,7 @@ Total Open Pull Requests: 72
 
 ### Failing Repositories
 
+  - [cy8th8](https://github.com/scta-texts/cy8th8/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
