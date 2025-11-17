@@ -30,10 +30,10 @@ Total Open Pull Requests: 76
 ### Repositories With Open Issues
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
+  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
-  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
@@ -46,16 +46,16 @@ Total Open Pull Requests: 76
 
 ### Repositories With Recent Activity
 
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-11-15T22:09:20Z
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-11-16T20:46:16Z
+  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-11-16T17:12:56Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-16T03:20:00Z
   - [plaoulreportatioA](https://github.com/scta-texts/plaoulreportatioA): Last activity on 2025-11-15T13:26:20Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-15T03:08:52Z
   - [graciliscommentary](https://github.com/scta-texts/graciliscommentary): Last activity on 2025-11-10T17:10:59Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-11-09T23:27:46Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-11-06T19:33:05Z
   - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2025-11-06T19:30:02Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-11-06T13:22:26Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2025-11-05T19:26:12Z
-  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-11-05T19:25:45Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-11-05T00:15:59Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-11-05T00:14:34Z
   - [holcotwisdom](https://github.com/scta-texts/holcotwisdom): Last activity on 2025-11-05T00:13:12Z
