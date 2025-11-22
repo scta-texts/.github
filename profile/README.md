@@ -6,7 +6,7 @@ Total Repositories: 257
 Passing Repositories: 89
 Failing Repositories: 14
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 52
+Repositories With Recent Activity: 51
 Total Open Issues: 31
 Total Open Pull Requests: 81
 
@@ -29,9 +29,9 @@ Total Open Pull Requests: 81
 
 ### Repositories With Open Issues
 
+  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
-  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
@@ -46,11 +46,11 @@ Total Open Pull Requests: 81
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-21T03:13:51Z
   - [jMqv4a](https://github.com/scta-texts/jMqv4a): Last activity on 2025-11-20T20:49:41Z
   - [n3av8a](https://github.com/scta-texts/n3av8a): Last activity on 2025-11-20T20:45:07Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-11-20T19:49:37Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-11-20T18:24:33Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-20T03:13:04Z
   - [olm8ij](https://github.com/scta-texts/olm8ij): Last activity on 2025-11-19T21:05:08Z
   - [v27ab7](https://github.com/scta-texts/v27ab7): Last activity on 2025-11-19T20:54:47Z
   - [mm30o9](https://github.com/scta-texts/mm30o9): Last activity on 2025-11-19T20:52:31Z
@@ -97,7 +97,6 @@ Total Open Pull Requests: 81
   - [aaaadc](https://github.com/scta-texts/aaaadc): Last activity on 2025-10-22T14:52:39Z
   - [aristotlemetaphysics](https://github.com/scta-texts/aristotlemetaphysics): Last activity on 2025-10-22T14:50:58Z
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica): Last activity on 2025-10-22T14:43:37Z
-  - [iu7r3b](https://github.com/scta-texts/iu7r3b): Last activity on 2025-10-21T20:34:05Z
 
 ### Failing Repositories
 
