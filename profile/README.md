@@ -6,7 +6,7 @@ Total Repositories: 258
 Passing Repositories: 90
 Failing Repositories: 14
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 45
+Repositories With Recent Activity: 39
 Total Open Issues: 31
 Total Open Pull Requests: 82
 
@@ -46,7 +46,8 @@ Total Open Pull Requests: 82
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-23T03:30:42Z
+  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-11-24T21:02:48Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-24T03:25:01Z
   - [aldx7s](https://github.com/scta-texts/aldx7s): Last activity on 2025-11-22T21:58:33Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-11-22T20:52:18Z
   - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2025-11-22T20:50:19Z
@@ -75,7 +76,6 @@ Total Open Pull Requests: 82
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-11-05T00:14:34Z
   - [holcotwisdom](https://github.com/scta-texts/holcotwisdom): Last activity on 2025-11-05T00:13:12Z
   - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2025-11-03T16:59:39Z
-  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-11-03T15:01:20Z
   - [UD1xh4](https://github.com/scta-texts/UD1xh4): Last activity on 2025-11-02T19:16:00Z
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2025-11-02T18:54:10Z
   - [ccc7yd](https://github.com/scta-texts/ccc7yd): Last activity on 2025-11-02T18:10:55Z
@@ -85,12 +85,6 @@ Total Open Pull Requests: 82
   - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary): Last activity on 2025-10-28T18:58:53Z
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-10-28T16:27:59Z
   - [bplext](https://github.com/scta-texts/bplext): Last activity on 2025-10-28T02:11:58Z
-  - [JM7jmZ](https://github.com/scta-texts/JM7jmZ): Last activity on 2025-10-24T19:41:50Z
-  - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2025-10-24T19:41:20Z
-  - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2025-10-24T19:41:01Z
-  - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-10-24T16:15:18Z
-  - [JMAet9](https://github.com/scta-texts/JMAet9): Last activity on 2025-10-24T16:02:23Z
-  - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2025-10-24T15:31:41Z
 
 ### Failing Repositories
 
