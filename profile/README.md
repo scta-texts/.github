@@ -29,8 +29,8 @@ Total Open Pull Requests: 73
 
 ### Repositories With Open Issues
 
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
@@ -46,11 +46,11 @@ Total Open Pull Requests: 73
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-26T03:16:22Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-11-25T19:21:43Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-11-25T17:27:55Z
   - [ferv7a](https://github.com/scta-texts/ferv7a): Last activity on 2025-11-25T17:21:13Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-11-25T16:45:31Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-25T03:16:31Z
   - [aldx7s](https://github.com/scta-texts/aldx7s): Last activity on 2025-11-22T21:58:33Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-11-22T20:52:18Z
   - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2025-11-22T20:50:19Z
@@ -106,8 +106,8 @@ Total Open Pull Requests: 73
 
 ### Repositories Without Workflows
 
-  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [.github](https://github.com/scta-texts/.github)
+  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary)
   - [liberextra](https://github.com/scta-texts/liberextra)
   - [khj78y](https://github.com/scta-texts/khj78y)
