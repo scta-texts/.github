@@ -6,13 +6,13 @@ Total Repositories: 258
 Passing Repositories: 91
 Failing Repositories: 13
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 40
+Repositories With Recent Activity: 38
 Total Open Issues: 31
-Total Open Pull Requests: 73
+Total Open Pull Requests: 77
 
 ### Repositories With Open Pull Requests
 
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 27 open pull requests
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 31 open pull requests
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 28 open pull requests
   - [mm30o9](https://github.com/scta-texts/mm30o9/pulls): 1 open pull requests
@@ -46,7 +46,7 @@ Total Open Pull Requests: 73
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-27T03:14:52Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-11-28T03:14:47Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-11-25T19:21:43Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-11-25T17:27:55Z
   - [ferv7a](https://github.com/scta-texts/ferv7a): Last activity on 2025-11-25T17:21:13Z
@@ -84,8 +84,6 @@ Total Open Pull Requests: 73
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-10-30T18:46:41Z
   - [hx2hx3](https://github.com/scta-texts/hx2hx3): Last activity on 2025-10-30T18:35:49Z
   - [khj78y](https://github.com/scta-texts/khj78y): Last activity on 2025-10-30T18:33:42Z
-  - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary): Last activity on 2025-10-28T18:58:53Z
-  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-10-28T16:27:59Z
 
 ### Failing Repositories
 
