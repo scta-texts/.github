@@ -6,7 +6,7 @@ Total Repositories: 258
 Passing Repositories: 92
 Failing Repositories: 12
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 36
+Repositories With Recent Activity: 33
 Total Open Issues: 31
 Total Open Pull Requests: 77
 
@@ -46,11 +46,11 @@ Total Open Pull Requests: 77
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-02T03:20:09Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-12-02T02:44:48Z
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary): Last activity on 2025-12-02T02:36:39Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-12-01T20:44:49Z
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-12-01T13:13:06Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-01T03:54:44Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-12-01T01:15:20Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-11-25T17:27:55Z
   - [ferv7a](https://github.com/scta-texts/ferv7a): Last activity on 2025-11-25T17:21:13Z
@@ -79,9 +79,6 @@ Total Open Pull Requests: 77
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-11-05T00:14:34Z
   - [holcotwisdom](https://github.com/scta-texts/holcotwisdom): Last activity on 2025-11-05T00:13:12Z
   - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2025-11-03T16:59:39Z
-  - [UD1xh4](https://github.com/scta-texts/UD1xh4): Last activity on 2025-11-02T19:16:00Z
-  - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2025-11-02T18:54:10Z
-  - [ccc7yd](https://github.com/scta-texts/ccc7yd): Last activity on 2025-11-02T18:10:55Z
 
 ### Failing Repositories
 
@@ -100,8 +97,8 @@ Total Open Pull Requests: 77
 
 ### Repositories Without Workflows
 
-  - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary)
   - [.github](https://github.com/scta-texts/.github)
+  - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [liberextra](https://github.com/scta-texts/liberextra)
   - [khj78y](https://github.com/scta-texts/khj78y)
