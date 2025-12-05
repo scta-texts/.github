@@ -3,12 +3,12 @@
 ## Summary Report
 
 Total Repositories: 258
-Passing Repositories: 92
-Failing Repositories: 12
+Passing Repositories: 91
+Failing Repositories: 13
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 32
+Repositories With Recent Activity: 30
 Total Open Issues: 31
-Total Open Pull Requests: 77
+Total Open Pull Requests: 78
 
 ### Repositories With Open Pull Requests
 
@@ -17,6 +17,7 @@ Total Open Pull Requests: 77
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 28 open pull requests
   - [mm30o9](https://github.com/scta-texts/mm30o9/pulls): 1 open pull requests
   - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 1 open pull requests
   - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 2 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
@@ -46,7 +47,7 @@ Total Open Pull Requests: 77
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-03T03:19:34Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-04T03:20:47Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-12-02T02:44:48Z
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary): Last activity on 2025-12-02T02:36:39Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-12-01T20:44:49Z
@@ -76,13 +77,12 @@ Total Open Pull Requests: 77
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-11-06T19:33:05Z
   - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2025-11-06T19:30:02Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2025-11-05T19:26:12Z
-  - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-11-05T00:14:34Z
-  - [holcotwisdom](https://github.com/scta-texts/holcotwisdom): Last activity on 2025-11-05T00:13:12Z
 
 ### Failing Repositories
 
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
   - [bnh77h](https://github.com/scta-texts/bnh77h/actions/workflows/validation.yml)
