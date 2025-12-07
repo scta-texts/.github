@@ -6,7 +6,7 @@ Total Repositories: 258
 Passing Repositories: 91
 Failing Repositories: 13
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 29
+Repositories With Recent Activity: 27
 Total Open Issues: 31
 Total Open Pull Requests: 78
 
@@ -47,10 +47,10 @@ Total Open Pull Requests: 78
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-05T03:22:38Z
+  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-12-06T16:30:24Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-06T03:11:01Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-12-02T02:44:48Z
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary): Last activity on 2025-12-02T02:36:39Z
-  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-12-01T20:44:49Z
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-12-01T13:13:06Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-12-01T01:15:20Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-11-25T17:27:55Z
@@ -74,8 +74,6 @@ Total Open Pull Requests: 78
   - [plaoulreportatioA](https://github.com/scta-texts/plaoulreportatioA): Last activity on 2025-11-15T13:26:20Z
   - [graciliscommentary](https://github.com/scta-texts/graciliscommentary): Last activity on 2025-11-10T17:10:59Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2025-11-09T23:27:46Z
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2025-11-06T19:33:05Z
-  - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2025-11-06T19:30:02Z
 
 ### Failing Repositories
 
