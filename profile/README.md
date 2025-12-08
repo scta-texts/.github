@@ -30,11 +30,11 @@ Total Open Pull Requests: 78
 
 ### Repositories With Open Issues
 
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
@@ -47,8 +47,9 @@ Total Open Pull Requests: 78
 
 ### Repositories With Recent Activity
 
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-12-08T01:44:51Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-07T03:28:42Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-12-06T16:30:24Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-06T03:11:01Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-12-02T02:44:48Z
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary): Last activity on 2025-12-02T02:36:39Z
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-12-01T13:13:06Z
@@ -62,7 +63,6 @@ Total Open Pull Requests: 78
   - [jMqv4a](https://github.com/scta-texts/jMqv4a): Last activity on 2025-11-20T20:49:41Z
   - [n3av8a](https://github.com/scta-texts/n3av8a): Last activity on 2025-11-20T20:45:07Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-11-20T19:49:37Z
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-11-20T18:24:33Z
   - [olm8ij](https://github.com/scta-texts/olm8ij): Last activity on 2025-11-19T21:05:08Z
   - [v27ab7](https://github.com/scta-texts/v27ab7): Last activity on 2025-11-19T20:54:47Z
   - [mm30o9](https://github.com/scta-texts/mm30o9): Last activity on 2025-11-19T20:52:31Z
