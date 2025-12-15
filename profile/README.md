@@ -30,9 +30,9 @@ Total Open Pull Requests: 54
 
 ### Repositories With Open Issues
 
+  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
-  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
@@ -47,10 +47,10 @@ Total Open Pull Requests: 54
 
 ### Repositories With Recent Activity
 
-  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-12-13T18:28:57Z
+  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-12-15T02:59:36Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-14T03:30:25Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-12-13T14:40:28Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-12-13T14:37:38Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-13T03:17:59Z
   - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2025-12-12T17:07:22Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-12-12T17:07:09Z
   - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2025-12-11T19:49:57Z
