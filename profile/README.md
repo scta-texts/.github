@@ -6,7 +6,7 @@ Total Repositories: 258
 Passing Repositories: 91
 Failing Repositories: 13
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 29
+Repositories With Recent Activity: 28
 Total Open Issues: 31
 Total Open Pull Requests: 54
 
@@ -30,8 +30,8 @@ Total Open Pull Requests: 54
 
 ### Repositories With Open Issues
 
-  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
@@ -47,9 +47,9 @@ Total Open Pull Requests: 54
 
 ### Repositories With Recent Activity
 
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-12-15T13:46:12Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-15T03:44:53Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-12-15T02:59:36Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-14T03:30:25Z
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-12-13T14:40:28Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-12-13T14:37:38Z
   - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2025-12-12T17:07:22Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-12-12T17:07:09Z
@@ -75,7 +75,6 @@ Total Open Pull Requests: 54
   - [holcotcommentary](https://github.com/scta-texts/holcotcommentary): Last activity on 2025-11-19T15:54:51Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2025-11-19T13:05:23Z
   - [dcn2br](https://github.com/scta-texts/dcn2br): Last activity on 2025-11-19T12:49:53Z
-  - [plaoulreportatioA](https://github.com/scta-texts/plaoulreportatioA): Last activity on 2025-11-15T13:26:20Z
 
 ### Failing Repositories
 
