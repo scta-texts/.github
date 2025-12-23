@@ -6,7 +6,7 @@ Total Repositories: 258
 Passing Repositories: 91
 Failing Repositories: 13
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 22
+Repositories With Recent Activity: 19
 Total Open Issues: 31
 Total Open Pull Requests: 51
 
@@ -46,7 +46,7 @@ Total Open Pull Requests: 51
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-21T03:32:28Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-22T03:44:09Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-12-20T14:35:58Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-12-20T13:25:00Z
   - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2025-12-19T21:12:30Z
@@ -65,9 +65,6 @@ Total Open Pull Requests: 51
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-12-01T13:13:06Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2025-11-25T17:27:55Z
   - [ferv7a](https://github.com/scta-texts/ferv7a): Last activity on 2025-11-25T17:21:13Z
-  - [aldx7s](https://github.com/scta-texts/aldx7s): Last activity on 2025-11-22T21:58:33Z
-  - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2025-11-22T20:52:18Z
-  - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2025-11-22T20:50:19Z
 
 ### Failing Repositories
 
