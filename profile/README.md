@@ -8,13 +8,13 @@ Failing Repositories: 13
 Repositories Without Workflows: 154
 Repositories With Recent Activity: 17
 Total Open Issues: 31
-Total Open Pull Requests: 51
+Total Open Pull Requests: 53
 
 ### Repositories With Open Pull Requests
 
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 1 open pull requests
-  - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 29 open pull requests
+  - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
   - [mm30o9](https://github.com/scta-texts/mm30o9/pulls): 1 open pull requests
   - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
@@ -29,8 +29,8 @@ Total Open Pull Requests: 51
 
 ### Repositories With Open Issues
 
-  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
@@ -46,8 +46,8 @@ Total Open Pull Requests: 51
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-30T03:30:54Z
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-12-29T04:45:43Z
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-12-31T14:55:00Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-31T03:30:29Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-12-20T13:25:00Z
   - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2025-12-19T21:12:30Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-12-19T21:06:17Z
