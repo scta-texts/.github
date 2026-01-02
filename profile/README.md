@@ -6,7 +6,7 @@ Total Repositories: 258
 Passing Repositories: 91
 Failing Repositories: 13
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 17
+Repositories With Recent Activity: 14
 Total Open Issues: 31
 Total Open Pull Requests: 53
 
@@ -46,12 +46,12 @@ Total Open Pull Requests: 53
 
 ### Repositories With Recent Activity
 
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2025-12-31T14:55:00Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2025-12-31T03:30:29Z
+  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-01-02T02:43:25Z
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-01-02T00:43:56Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-01T03:53:55Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-12-20T13:25:00Z
   - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2025-12-19T21:12:30Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-12-19T21:06:17Z
-  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2025-12-19T16:50:36Z
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary): Last activity on 2025-12-18T16:19:01Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-12-18T15:43:15Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2025-12-18T15:21:59Z
@@ -60,9 +60,6 @@ Total Open Pull Requests: 53
   - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2025-12-11T19:49:57Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-12-08T19:25:11Z
   - [gsX5tY](https://github.com/scta-texts/gsX5tY): Last activity on 2025-12-08T12:57:44Z
-  - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2025-12-02T02:44:48Z
-  - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary): Last activity on 2025-12-02T02:36:39Z
-  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2025-12-01T13:13:06Z
 
 ### Failing Repositories
 
