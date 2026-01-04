@@ -29,8 +29,8 @@ Total Open Pull Requests: 54
 
 ### Repositories With Open Issues
 
-  - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
+  - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
@@ -46,9 +46,9 @@ Total Open Pull Requests: 54
 
 ### Repositories With Recent Activity
 
-  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-01-03T02:52:44Z
+  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-01-04T03:39:23Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-03T03:23:41Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2026-01-02T15:13:20Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-02T03:42:11Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-01-02T00:43:56Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-12-20T13:25:00Z
   - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2025-12-19T21:12:30Z
