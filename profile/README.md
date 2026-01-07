@@ -2,11 +2,11 @@
 
 ## Summary Report
 
-Total Repositories: 258
-Passing Repositories: 91
+Total Repositories: 259
+Passing Repositories: 92
 Failing Repositories: 13
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 14
+Repositories With Recent Activity: 15
 Total Open Issues: 31
 Total Open Pull Requests: 54
 
@@ -46,8 +46,10 @@ Total Open Pull Requests: 54
 
 ### Repositories With Recent Activity
 
+  - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2026-01-06T17:39:14Z
+  - [a9cj9a](https://github.com/scta-texts/a9cj9a): Last activity on 2026-01-06T17:21:29Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-06T03:31:31Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-01-06T01:20:47Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-05T03:59:23Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2026-01-02T15:13:20Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-01-02T00:43:56Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2025-12-20T13:25:00Z
@@ -55,7 +57,6 @@ Total Open Pull Requests: 54
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2025-12-19T21:06:17Z
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary): Last activity on 2025-12-18T16:19:01Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2025-12-18T15:43:15Z
-  - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2025-12-12T17:07:22Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2025-12-12T17:07:09Z
   - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2025-12-11T19:49:57Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2025-12-08T19:25:11Z
