@@ -29,9 +29,9 @@ Total Open Pull Requests: 54
 
 ### Repositories With Open Issues
 
+  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 3 open issues
-  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
@@ -46,6 +46,7 @@ Total Open Pull Requests: 54
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-09T03:41:13Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-01-08T15:14:43Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2026-01-08T15:13:19Z
   - [Z4Yt34](https://github.com/scta-texts/Z4Yt34): Last activity on 2026-01-08T13:52:45Z
@@ -55,7 +56,6 @@ Total Open Pull Requests: 54
   - [jMqv4a](https://github.com/scta-texts/jMqv4a): Last activity on 2026-01-08T13:39:25Z
   - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-01-08T13:31:37Z
   - [holcotwisdom](https://github.com/scta-texts/holcotwisdom): Last activity on 2026-01-08T13:29:59Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-08T03:33:09Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-01-07T18:27:27Z
   - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2026-01-06T17:39:14Z
   - [a9cj9a](https://github.com/scta-texts/a9cj9a): Last activity on 2026-01-06T17:21:29Z
