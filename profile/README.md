@@ -29,8 +29,8 @@ Total Open Pull Requests: 54
 
 ### Repositories With Open Issues
 
-  - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
+  - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
@@ -46,6 +46,7 @@ Total Open Pull Requests: 54
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-13T03:30:20Z
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum): Last activity on 2026-01-12T16:40:45Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2026-01-12T16:39:50Z
   - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2026-01-12T16:38:22Z
@@ -53,7 +54,6 @@ Total Open Pull Requests: 54
   - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2026-01-12T16:34:55Z
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei): Last activity on 2026-01-12T16:33:37Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2026-01-12T16:24:37Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-12T03:52:35Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-01-08T15:14:43Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2026-01-08T15:13:19Z
   - [Z4Yt34](https://github.com/scta-texts/Z4Yt34): Last activity on 2026-01-08T13:52:45Z
@@ -91,9 +91,9 @@ Total Open Pull Requests: 54
 
 ### Repositories Without Workflows
 
+  - [.github](https://github.com/scta-texts/.github)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
-  - [.github](https://github.com/scta-texts/.github)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
