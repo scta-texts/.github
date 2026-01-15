@@ -3,8 +3,8 @@
 ## Summary Report
 
 Total Repositories: 259
-Passing Repositories: 92
-Failing Repositories: 13
+Passing Repositories: 91
+Failing Repositories: 14
 Repositories Without Workflows: 154
 Repositories With Recent Activity: 26
 Total Open Issues: 31
@@ -46,7 +46,7 @@ Total Open Pull Requests: 54
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-13T03:30:20Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-14T03:50:22Z
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum): Last activity on 2026-01-12T16:40:45Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2026-01-12T16:39:50Z
   - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2026-01-12T16:38:22Z
@@ -80,6 +80,7 @@ Total Open Pull Requests: 54
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
+  - [guqs8x](https://github.com/scta-texts/guqs8x/actions/workflows/validation.yml)
   - [bnh77h](https://github.com/scta-texts/bnh77h/actions/workflows/validation.yml)
   - [wef6td](https://github.com/scta-texts/wef6td/actions/workflows/validation.yml)
   - [gfhtyt](https://github.com/scta-texts/gfhtyt/actions/workflows/validation.yml)
