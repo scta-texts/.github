@@ -8,13 +8,14 @@ Failing Repositories: 14
 Repositories Without Workflows: 154
 Repositories With Recent Activity: 27
 Total Open Issues: 31
-Total Open Pull Requests: 54
+Total Open Pull Requests: 55
 
 ### Repositories With Open Pull Requests
 
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 32 open pull requests
+  - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 1 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 1 open pull requests
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
   - [mm30o9](https://github.com/scta-texts/mm30o9/pulls): 1 open pull requests
@@ -46,8 +47,8 @@ Total Open Pull Requests: 54
 
 ### Repositories With Recent Activity
 
-  - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-01-16T21:05:21Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-16T03:34:09Z
+  - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-01-17T16:16:29Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-17T03:24:16Z
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum): Last activity on 2026-01-12T16:40:45Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2026-01-12T16:39:50Z
   - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2026-01-12T16:38:22Z
