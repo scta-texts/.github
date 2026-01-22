@@ -6,7 +6,7 @@ Total Repositories: 260
 Passing Repositories: 91
 Failing Repositories: 15
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 23
+Repositories With Recent Activity: 24
 Total Open Issues: 31
 Total Open Pull Requests: 55
 
@@ -47,8 +47,9 @@ Total Open Pull Requests: 55
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-20T03:45:20Z
-  - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-01-17T16:16:29Z
+  - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-01-21T20:10:18Z
+  - [bible](https://github.com/scta-texts/bible): Last activity on 2026-01-21T19:52:42Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-21T03:46:07Z
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum): Last activity on 2026-01-12T16:40:45Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2026-01-12T16:39:50Z
   - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2026-01-12T16:38:22Z
@@ -91,6 +92,7 @@ Total Open Pull Requests: 55
 
 ### Repositories Without Workflows
 
+  - [bible](https://github.com/scta-texts/bible)
   - [.github](https://github.com/scta-texts/.github)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
@@ -108,7 +110,6 @@ Total Open Pull Requests: 55
   - [FrMS88](https://github.com/scta-texts/FrMS88)
   - [hy7y6y](https://github.com/scta-texts/hy7y6y)
   - [bcg6es](https://github.com/scta-texts/bcg6es)
-  - [bible](https://github.com/scta-texts/bible)
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
   - [iuy75t](https://github.com/scta-texts/iuy75t)
   - [da-3](https://github.com/scta-texts/da-3)
