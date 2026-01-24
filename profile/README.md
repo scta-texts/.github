@@ -2,13 +2,13 @@
 
 ## Summary Report
 
-Total Repositories: 260
-Passing Repositories: 91
+Total Repositories: 261
+Passing Repositories: 92
 Failing Repositories: 15
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 24
+Repositories With Recent Activity: 25
 Total Open Issues: 31
-Total Open Pull Requests: 55
+Total Open Pull Requests: 57
 
 ### Repositories With Open Pull Requests
 
@@ -20,7 +20,7 @@ Total Open Pull Requests: 55
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
   - [mm30o9](https://github.com/scta-texts/mm30o9/pulls): 1 open pull requests
   - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 1 open pull requests
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 3 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [p3adpp](https://github.com/scta-texts/p3adpp/pulls): 1 open pull requests
   - [p9i7y5](https://github.com/scta-texts/p9i7y5/pulls): 2 open pull requests
@@ -47,9 +47,10 @@ Total Open Pull Requests: 55
 
 ### Repositories With Recent Activity
 
-  - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-01-22T21:36:03Z
+  - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-01-23T21:25:05Z
+  - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-01-23T19:19:02Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-23T03:44:00Z
   - [bible](https://github.com/scta-texts/bible): Last activity on 2026-01-22T13:33:11Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-22T03:51:16Z
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum): Last activity on 2026-01-12T16:40:45Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2026-01-12T16:39:50Z
   - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2026-01-12T16:38:22Z
@@ -92,8 +93,8 @@ Total Open Pull Requests: 55
 
 ### Repositories Without Workflows
 
-  - [bible](https://github.com/scta-texts/bible)
   - [.github](https://github.com/scta-texts/.github)
+  - [bible](https://github.com/scta-texts/bible)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
