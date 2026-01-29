@@ -6,7 +6,7 @@ Total Repositories: 261
 Passing Repositories: 93
 Failing Repositories: 14
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 37
+Repositories With Recent Activity: 39
 Total Open Issues: 31
 Total Open Pull Requests: 55
 
@@ -30,8 +30,8 @@ Total Open Pull Requests: 55
 
 ### Repositories With Open Issues
 
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
@@ -47,9 +47,11 @@ Total Open Pull Requests: 55
 
 ### Repositories With Recent Activity
 
+  - [plaoulreportatio](https://github.com/scta-texts/plaoulreportatio): Last activity on 2026-01-28T18:51:28Z
+  - [plaoulreportatioA](https://github.com/scta-texts/plaoulreportatioA): Last activity on 2026-01-28T18:22:07Z
+  - [a9cj9a](https://github.com/scta-texts/a9cj9a): Last activity on 2026-01-28T15:11:09Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-28T03:48:29Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2026-01-27T19:01:52Z
-  - [a9cj9a](https://github.com/scta-texts/a9cj9a): Last activity on 2026-01-27T12:42:14Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-27T03:51:08Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-01-26T13:00:09Z
   - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-01-26T03:01:11Z
   - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-01-26T01:33:06Z
