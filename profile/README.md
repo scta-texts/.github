@@ -47,14 +47,14 @@ Total Open Pull Requests: 55
 
 ### Repositories With Recent Activity
 
+  - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-01-30T02:34:41Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-29T04:10:30Z
   - [plaoulreportatio](https://github.com/scta-texts/plaoulreportatio): Last activity on 2026-01-28T18:51:28Z
   - [plaoulreportatioA](https://github.com/scta-texts/plaoulreportatioA): Last activity on 2026-01-28T18:22:07Z
   - [a9cj9a](https://github.com/scta-texts/a9cj9a): Last activity on 2026-01-28T15:11:09Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-01-28T03:48:29Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2026-01-27T19:01:52Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-01-26T13:00:09Z
   - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-01-26T03:01:11Z
-  - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-01-26T01:33:06Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-01-25T13:56:32Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2026-01-25T13:04:44Z
   - [bible](https://github.com/scta-texts/bible): Last activity on 2026-01-25T12:15:15Z
