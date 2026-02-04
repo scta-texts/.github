@@ -47,12 +47,12 @@ Total Open Pull Requests: 57
 
 ### Repositories With Recent Activity
 
-  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-02T22:44:27Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-02T04:25:58Z
+  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-04T01:33:12Z
+  - [bible](https://github.com/scta-texts/bible): Last activity on 2026-02-03T19:20:56Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-03T04:19:24Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-01T23:15:17Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-01T11:36:03Z
   - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-01-31T16:12:19Z
-  - [bible](https://github.com/scta-texts/bible): Last activity on 2026-01-31T14:16:44Z
   - [a9cj9a](https://github.com/scta-texts/a9cj9a): Last activity on 2026-01-31T12:48:14Z
   - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-01-30T13:10:32Z
   - [plaoulreportatio](https://github.com/scta-texts/plaoulreportatio): Last activity on 2026-01-28T18:51:28Z
@@ -105,9 +105,9 @@ Total Open Pull Requests: 57
 
 ### Repositories Without Workflows
 
+  - [bible](https://github.com/scta-texts/bible)
   - [.github](https://github.com/scta-texts/.github)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
-  - [bible](https://github.com/scta-texts/bible)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
   - [dionysiusangelica](https://github.com/scta-texts/dionysiusangelica)
