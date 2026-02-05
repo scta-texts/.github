@@ -2,17 +2,18 @@
 
 ## Summary Report
 
-Total Repositories: 261
+Total Repositories: 262
 Passing Repositories: 93
-Failing Repositories: 14
+Failing Repositories: 15
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 38
+Repositories With Recent Activity: 40
 Total Open Issues: 31
-Total Open Pull Requests: 57
+Total Open Pull Requests: 55
 
 ### Repositories With Open Pull Requests
 
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 4 open pull requests
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 1 open pull requests
+  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
@@ -30,8 +31,8 @@ Total Open Pull Requests: 57
 
 ### Repositories With Open Issues
 
-  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
@@ -47,11 +48,14 @@ Total Open Pull Requests: 57
 
 ### Repositories With Recent Activity
 
-  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-04T01:33:12Z
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-04T22:28:06Z
+  - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-02-04T21:17:00Z
+  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-04T19:48:03Z
+  - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-02-04T14:58:58Z
+  - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-02-04T14:51:30Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-04T04:15:28Z
   - [bible](https://github.com/scta-texts/bible): Last activity on 2026-02-03T19:20:56Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-03T04:19:24Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-01T23:15:17Z
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-01T11:36:03Z
   - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-01-31T16:12:19Z
   - [a9cj9a](https://github.com/scta-texts/a9cj9a): Last activity on 2026-01-31T12:48:14Z
   - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-01-30T13:10:32Z
@@ -68,7 +72,6 @@ Total Open Pull Requests: 57
   - [alalal](https://github.com/scta-texts/alalal): Last activity on 2026-01-24T18:36:06Z
   - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-01-24T18:20:23Z
   - [dionysiusangelica](https://github.com/scta-texts/dionysiusangelica): Last activity on 2026-01-24T18:18:50Z
-  - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-01-24T18:16:09Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-01-24T18:04:40Z
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum): Last activity on 2026-01-12T16:40:45Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2026-01-12T16:39:50Z
@@ -88,6 +91,7 @@ Total Open Pull Requests: 57
 
 ### Failing Repositories
 
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
@@ -105,13 +109,13 @@ Total Open Pull Requests: 57
 
 ### Repositories Without Workflows
 
-  - [bible](https://github.com/scta-texts/bible)
+  - [FrMS88](https://github.com/scta-texts/FrMS88)
   - [.github](https://github.com/scta-texts/.github)
+  - [bible](https://github.com/scta-texts/bible)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
   - [dionysiusangelica](https://github.com/scta-texts/dionysiusangelica)
-  - [FrMS88](https://github.com/scta-texts/FrMS88)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary)
