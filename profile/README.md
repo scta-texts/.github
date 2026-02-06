@@ -3,16 +3,15 @@
 ## Summary Report
 
 Total Repositories: 262
-Passing Repositories: 93
-Failing Repositories: 15
+Passing Repositories: 94
+Failing Repositories: 14
 Repositories Without Workflows: 154
 Repositories With Recent Activity: 40
 Total Open Issues: 31
-Total Open Pull Requests: 55
+Total Open Pull Requests: 54
 
 ### Repositories With Open Pull Requests
 
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 1 open pull requests
   - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
@@ -48,12 +47,12 @@ Total Open Pull Requests: 55
 
 ### Repositories With Recent Activity
 
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-04T22:28:06Z
+  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-05T21:58:22Z
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-05T13:51:09Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-05T04:16:25Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-02-04T21:17:00Z
-  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-04T19:48:03Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-02-04T14:58:58Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-02-04T14:51:30Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-04T04:15:28Z
   - [bible](https://github.com/scta-texts/bible): Last activity on 2026-02-03T19:20:56Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-01T23:15:17Z
   - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-01-31T16:12:19Z
@@ -91,7 +90,6 @@ Total Open Pull Requests: 55
 
 ### Failing Repositories
 
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
@@ -109,8 +107,8 @@ Total Open Pull Requests: 55
 
 ### Repositories Without Workflows
 
-  - [FrMS88](https://github.com/scta-texts/FrMS88)
   - [.github](https://github.com/scta-texts/.github)
+  - [FrMS88](https://github.com/scta-texts/FrMS88)
   - [bible](https://github.com/scta-texts/bible)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
