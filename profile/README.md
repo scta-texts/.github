@@ -6,12 +6,13 @@ Total Repositories: 262
 Passing Repositories: 94
 Failing Repositories: 14
 Repositories Without Workflows: 154
-Repositories With Recent Activity: 40
+Repositories With Recent Activity: 39
 Total Open Issues: 31
-Total Open Pull Requests: 54
+Total Open Pull Requests: 55
 
 ### Repositories With Open Pull Requests
 
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 1 open pull requests
   - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
@@ -30,8 +31,8 @@ Total Open Pull Requests: 54
 
 ### Repositories With Open Issues
 
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
@@ -47,9 +48,9 @@ Total Open Pull Requests: 54
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-06T04:17:54Z
   - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-05T21:58:22Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-05T13:51:09Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-05T04:16:25Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-02-04T21:17:00Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-02-04T14:58:58Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-02-04T14:51:30Z
@@ -86,7 +87,6 @@ Total Open Pull Requests: 54
   - [hxpdpd](https://github.com/scta-texts/hxpdpd): Last activity on 2026-01-08T13:43:46Z
   - [jMqv4a](https://github.com/scta-texts/jMqv4a): Last activity on 2026-01-08T13:39:25Z
   - [holcotwisdom](https://github.com/scta-texts/holcotwisdom): Last activity on 2026-01-08T13:29:59Z
-  - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2026-01-06T17:39:14Z
 
 ### Failing Repositories
 
