@@ -3,16 +3,16 @@
 ## Summary Report
 
 Total Repositories: 262
-Passing Repositories: 93
-Failing Repositories: 15
-Repositories Without Workflows: 154
-Repositories With Recent Activity: 32
+Passing Repositories: 95
+Failing Repositories: 14
+Repositories Without Workflows: 153
+Repositories With Recent Activity: 33
 Total Open Issues: 31
-Total Open Pull Requests: 54
+Total Open Pull Requests: 55
 
 ### Repositories With Open Pull Requests
 
-  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 1 open pull requests
+  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 2 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
@@ -47,10 +47,11 @@ Total Open Pull Requests: 54
 
 ### Repositories With Recent Activity
 
-  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-11T03:56:39Z
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-10T17:05:59Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-10T04:32:46Z
-  - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-02-04T21:17:00Z
+  - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-02-11T21:29:38Z
+  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-11T19:23:02Z
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-11T16:41:18Z
+  - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-02-11T16:30:47Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-11T04:31:47Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-02-04T14:58:58Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-02-04T14:51:30Z
   - [bible](https://github.com/scta-texts/bible): Last activity on 2026-02-03T19:20:56Z
@@ -82,7 +83,6 @@ Total Open Pull Requests: 54
 
 ### Failing Repositories
 
-  - [dc7aa7](https://github.com/scta-texts/dc7aa7/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
@@ -166,7 +166,6 @@ Total Open Pull Requests: 54
   - [vnsSaS](https://github.com/scta-texts/vnsSaS)
   - [v78d89](https://github.com/scta-texts/v78d89)
   - [GHcsDA](https://github.com/scta-texts/GHcsDA)
-  - [raWSwa](https://github.com/scta-texts/raWSwa)
   - [mnvhfy](https://github.com/scta-texts/mnvhfy)
   - [GHcsQQ](https://github.com/scta-texts/GHcsQQ)
   - [albertusdeanima](https://github.com/scta-texts/albertusdeanima)
