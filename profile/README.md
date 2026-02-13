@@ -6,7 +6,7 @@ Total Repositories: 262
 Passing Repositories: 95
 Failing Repositories: 14
 Repositories Without Workflows: 153
-Repositories With Recent Activity: 33
+Repositories With Recent Activity: 26
 Total Open Issues: 31
 Total Open Pull Requests: 55
 
@@ -47,11 +47,11 @@ Total Open Pull Requests: 55
 
 ### Repositories With Recent Activity
 
+  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-12T22:00:08Z
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-12T19:59:07Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-12T04:26:58Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-02-11T21:29:38Z
-  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-11T19:23:02Z
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-11T16:41:18Z
   - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-02-11T16:30:47Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-11T04:31:47Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-02-04T14:58:58Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-02-04T14:51:30Z
   - [bible](https://github.com/scta-texts/bible): Last activity on 2026-02-03T19:20:56Z
@@ -73,13 +73,6 @@ Total Open Pull Requests: 55
   - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-01-24T18:20:23Z
   - [dionysiusangelica](https://github.com/scta-texts/dionysiusangelica): Last activity on 2026-01-24T18:18:50Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-01-24T18:04:40Z
-  - [manipulusflorum](https://github.com/scta-texts/manipulusflorum): Last activity on 2026-01-12T16:40:45Z
-  - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2026-01-12T16:39:50Z
-  - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2026-01-12T16:38:22Z
-  - [grvnZZ](https://github.com/scta-texts/grvnZZ): Last activity on 2026-01-12T16:36:53Z
-  - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2026-01-12T16:34:55Z
-  - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei): Last activity on 2026-01-12T16:33:37Z
-  - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2026-01-12T16:24:37Z
 
 ### Failing Repositories
 
