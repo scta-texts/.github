@@ -48,15 +48,15 @@ Total Open Pull Requests: 63
 
 ### Repositories With Recent Activity
 
-  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-02-15T22:37:51Z
+  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-02-17T02:08:16Z
+  - [bible](https://github.com/scta-texts/bible): Last activity on 2026-02-17T01:55:22Z
+  - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-02-16T16:38:53Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-16T04:27:00Z
   - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-15T15:05:40Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-15T04:26:14Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-12T19:59:07Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-02-11T21:29:38Z
-  - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-02-11T16:30:47Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-02-04T14:58:58Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-02-04T14:51:30Z
-  - [bible](https://github.com/scta-texts/bible): Last activity on 2026-02-03T19:20:56Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-01T23:15:17Z
   - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-01-31T16:12:19Z
   - [a9cj9a](https://github.com/scta-texts/a9cj9a): Last activity on 2026-01-31T12:48:14Z
@@ -94,9 +94,9 @@ Total Open Pull Requests: 63
 
 ### Repositories Without Workflows
 
+  - [bible](https://github.com/scta-texts/bible)
   - [.github](https://github.com/scta-texts/.github)
   - [FrMS88](https://github.com/scta-texts/FrMS88)
-  - [bible](https://github.com/scta-texts/bible)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
