@@ -1,0 +1,100 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+on:
+  workflow_call:
+    inputs:
+      default_branch:
+        required: false
+        type: string
+        default: 'master'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      # make sure java is avaialbe
+      - uses: actions/setup-java@v2
+        with:
+          distribution: 'temurin' # See 'Supported distributions' for available options
+          java-version: '17'
+
+      # Runs a single command using the runners shell
+      - name: get jing
+        run: wget 'https://github.com/papyri/jing-trang/releases/download/xsd_bce_leap_years-1.0/jing.jar'
+
+      # Runs a set of commands using the runners shell
+      - name: get lbp schemas and save to directory
+        run: mkdir -p schema/
+      
+      - name: get critical schema
+        run: wget -O schema/critical.rng 'https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng'
+      
+      - name: get diplomatic
+        run: wget -O schema/diplomatic.rng 'https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng'
+      
+      - name: get tdf 
+        run: wget -O schema/tdf.rng 'https://raw.githubusercontent.com/scta/tdf-schema/master/src/tdf-0.rng'
+
+      # Runs check
+      - name: run validation checks
+        run: |
+          echo "GITHUB_EVENT_NAME: $GITHUB_EVENT_NAME"
+          # Determine files to check: all for manual, changed for push/pr
+          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
+            files=$(ls */*.xml)
+          elif [[ "$GITHUB_EVENT_NAME" == "push" ]]; then
+            # On push, compare last commit to its parent
+            echo "Raw changed files:"
+            git diff --name-only HEAD^ HEAD
+            files=$(git diff --name-only HEAD^ HEAD | grep '\.xml$' || true)
+            echo "Filtered XML files: $files"
+            if [[ -z "$files" ]]; then
+              echo "No changed XML files to validate."; exit 0;
+            fi
+          else
+            # For PRs, compare with default branch
+            echo "Raw changed files (PR):"
+            git diff --name-only origin/${{ github.event.repository.default_branch }}...HEAD
+            files=$(git diff --name-only origin/${{ github.event.repository.default_branch }}...HEAD | grep '\.xml$' || true)
+            echo "Filtered XML files (PR): $files"
+            if [[ -z "$files" ]]; then
+              echo "No changed XML files to validate."; exit 0;
+            fi
+          fi
+          for file in $files; do
+            echo "start";
+            echo $file;
+            if [[ $(grep -o "lbp-.*-1.0.0" $file) ]]; then
+              schema=$(grep -o "lbp-.*-1.0.0" $file);
+            else
+              schema="none"
+            fi;
+            echo "schema before conditionals"
+            echo $schema;
+            if [[ $file = *"transcriptions.xml"* ]]; then
+              echo $file;
+            elif [[ $schema = *"diplomatic"* ]]; then
+              echo "checking diplomatic for $file";
+              java -jar jing.jar schema/diplomatic.rng $file;
+              if [[ $? -ne 0 ]]; then exit 1; fi;
+            elif [[ $schema = *"critical"* ]]; then
+              echo "checking critical for $file";
+              java -jar jing.jar schema/critical.rng $file;
+              if [[ $? -ne 0 ]]; then exit 1; fi;
+            else
+              echo "nothing run";
+            fi;
+            echo $?;
+          done;
+      
