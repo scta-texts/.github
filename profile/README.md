@@ -4,16 +4,16 @@
 
 Total Repositories: 262
 Passing Repositories: 97
-Failing Repositories: 14
-Repositories Without Workflows: 151
+Failing Repositories: 15
+Repositories Without Workflows: 150
 Repositories With Recent Activity: 27
 Total Open Issues: 31
-Total Open Pull Requests: 66
+Total Open Pull Requests: 56
 
 ### Repositories With Open Pull Requests
 
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 1 open pull requests
-  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 11 open pull requests
+  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
@@ -31,8 +31,8 @@ Total Open Pull Requests: 66
 
 ### Repositories With Open Issues
 
-  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
@@ -48,16 +48,16 @@ Total Open Pull Requests: 66
 
 ### Repositories With Recent Activity
 
-  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-17T23:44:25Z
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-18T23:25:38Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-18T23:23:57Z
+  - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-02-18T21:22:40Z
+  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-18T15:04:16Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-02-17T16:14:44Z
   - [FrMQ88](https://github.com/scta-texts/FrMQ88): Last activity on 2026-02-17T15:57:25Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-17T04:22:55Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-02-17T02:08:16Z
   - [bible](https://github.com/scta-texts/bible): Last activity on 2026-02-17T01:55:22Z
   - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-02-16T16:38:53Z
   - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-15T15:05:40Z
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-12T19:59:07Z
-  - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-02-11T21:29:38Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-02-04T14:51:30Z
   - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-01-31T16:12:19Z
   - [a9cj9a](https://github.com/scta-texts/a9cj9a): Last activity on 2026-01-31T12:48:14Z
@@ -78,6 +78,7 @@ Total Open Pull Requests: 66
 
 ### Failing Repositories
 
+  - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
@@ -96,7 +97,6 @@ Total Open Pull Requests: 66
 ### Repositories Without Workflows
 
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
-  - [.github](https://github.com/scta-texts/.github)
   - [bible](https://github.com/scta-texts/bible)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
