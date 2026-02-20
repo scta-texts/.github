@@ -31,8 +31,8 @@ Total Open Pull Requests: 56
 
 ### Repositories With Open Issues
 
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
@@ -48,14 +48,14 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
+  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-19T22:17:18Z
+  - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-02-19T19:09:09Z
+  - [bible](https://github.com/scta-texts/bible): Last activity on 2026-02-19T16:15:56Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-19T04:23:35Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-18T23:25:38Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-18T23:23:57Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-02-18T21:22:40Z
-  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-18T15:04:16Z
-  - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-02-17T16:14:44Z
   - [FrMQ88](https://github.com/scta-texts/FrMQ88): Last activity on 2026-02-17T15:57:25Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-02-17T02:08:16Z
-  - [bible](https://github.com/scta-texts/bible): Last activity on 2026-02-17T01:55:22Z
   - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-02-16T16:38:53Z
   - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-02-15T15:05:40Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-02-04T14:51:30Z
