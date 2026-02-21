@@ -1,0 +1,10 @@
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    uses: scta-texts/.github/.github/workflows/update-repo-readme.yml@main
