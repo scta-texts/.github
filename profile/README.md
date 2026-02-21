@@ -48,10 +48,10 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-19T22:17:18Z
+  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-20T20:34:32Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-20T04:19:04Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-02-19T19:09:09Z
   - [bible](https://github.com/scta-texts/bible): Last activity on 2026-02-19T16:15:56Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-19T04:23:35Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-18T23:25:38Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-02-18T21:22:40Z
   - [FrMQ88](https://github.com/scta-texts/FrMQ88): Last activity on 2026-02-17T15:57:25Z
