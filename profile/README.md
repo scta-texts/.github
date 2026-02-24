@@ -8,13 +8,13 @@ Failing Repositories: 15
 Repositories Without Workflows: 150
 Repositories With Recent Activity: 28
 Total Open Issues: 31
-Total Open Pull Requests: 56
+Total Open Pull Requests: 58
 
 ### Repositories With Open Pull Requests
 
   - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 1 open pull requests
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 2 open pull requests
-  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 1 open pull requests
+  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 3 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
@@ -48,7 +48,7 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-22T04:18:50Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-23T04:27:31Z
   - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2026-02-21T13:24:24Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-21T12:20:50Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-02-19T19:09:09Z
