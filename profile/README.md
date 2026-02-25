@@ -6,7 +6,7 @@ Total Repositories: 262
 Passing Repositories: 97
 Failing Repositories: 15
 Repositories Without Workflows: 150
-Repositories With Recent Activity: 28
+Repositories With Recent Activity: 19
 Total Open Issues: 31
 Total Open Pull Requests: 58
 
@@ -48,9 +48,9 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-23T04:27:31Z
+  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-24T16:06:07Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-24T04:23:39Z
   - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2026-02-21T13:24:24Z
-  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-21T12:20:50Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-02-19T19:09:09Z
   - [bible](https://github.com/scta-texts/bible): Last activity on 2026-02-19T16:15:56Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-18T23:25:38Z
@@ -67,15 +67,6 @@ Total Open Pull Requests: 58
   - [plaoulreportatioA](https://github.com/scta-texts/plaoulreportatioA): Last activity on 2026-01-28T18:22:07Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2026-01-27T19:01:52Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2026-01-25T13:04:44Z
-  - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary): Last activity on 2026-01-24T19:11:32Z
-  - [ol96b1](https://github.com/scta-texts/ol96b1): Last activity on 2026-01-24T19:09:07Z
-  - [bt67yj](https://github.com/scta-texts/bt67yj): Last activity on 2026-01-24T19:06:33Z
-  - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2026-01-24T19:02:46Z
-  - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate): Last activity on 2026-01-24T19:01:19Z
-  - [alalal](https://github.com/scta-texts/alalal): Last activity on 2026-01-24T18:36:06Z
-  - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-01-24T18:20:23Z
-  - [dionysiusangelica](https://github.com/scta-texts/dionysiusangelica): Last activity on 2026-01-24T18:18:50Z
-  - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-01-24T18:04:40Z
 
 ### Failing Repositories
 
