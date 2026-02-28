@@ -6,14 +6,14 @@ Total Repositories: 262
 Passing Repositories: 97
 Failing Repositories: 15
 Repositories Without Workflows: 150
-Repositories With Recent Activity: 18
+Repositories With Recent Activity: 17
 Total Open Issues: 31
-Total Open Pull Requests: 58
+Total Open Pull Requests: 60
 
 ### Repositories With Open Pull Requests
 
   - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 1 open pull requests
-  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 5 open pull requests
+  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 7 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
@@ -47,9 +47,9 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-27T04:15:40Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-02-27T02:14:10Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-02-26T14:32:14Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-02-26T04:18:55Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-02-25T22:06:02Z
   - [a9cj9a](https://github.com/scta-texts/a9cj9a): Last activity on 2026-02-25T13:51:34Z
   - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-02-25T13:31:47Z
@@ -64,7 +64,6 @@ Total Open Pull Requests: 58
   - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-01-31T16:12:19Z
   - [plaoulreportatio](https://github.com/scta-texts/plaoulreportatio): Last activity on 2026-01-28T18:51:28Z
   - [plaoulreportatioA](https://github.com/scta-texts/plaoulreportatioA): Last activity on 2026-01-28T18:22:07Z
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2026-01-27T19:01:52Z
 
 ### Failing Repositories
 
