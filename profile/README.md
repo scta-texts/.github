@@ -3,8 +3,8 @@
 ## Summary Report
 
 Total Repositories: 262
-Passing Repositories: 97
-Failing Repositories: 15
+Passing Repositories: 96
+Failing Repositories: 16
 Repositories Without Workflows: 150
 Repositories With Recent Activity: 13
 Total Open Issues: 31
@@ -48,7 +48,7 @@ Total Open Pull Requests: 66
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-03-08T04:13:54Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-03-09T04:19:37Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-03-07T13:03:44Z
   - [a9cj9a](https://github.com/scta-texts/a9cj9a): Last activity on 2026-03-06T16:50:08Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-03-06T11:56:48Z
@@ -65,6 +65,7 @@ Total Open Pull Requests: 66
 ### Failing Repositories
 
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
+  - [alalal](https://github.com/scta-texts/alalal/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
