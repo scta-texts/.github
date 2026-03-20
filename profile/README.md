@@ -3,17 +3,17 @@
 ## Summary Report
 
 Total Repositories: 263
-Passing Repositories: 96
-Failing Repositories: 17
+Passing Repositories: 95
+Failing Repositories: 18
 Repositories Without Workflows: 150
-Repositories With Recent Activity: 13
+Repositories With Recent Activity: 12
 Total Open Issues: 31
-Total Open Pull Requests: 59
+Total Open Pull Requests: 60
 
 ### Repositories With Open Pull Requests
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
-  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 4 open pull requests
+  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 5 open pull requests
   - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 3 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
@@ -47,7 +47,7 @@ Total Open Pull Requests: 59
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-03-18T04:27:22Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-03-19T04:27:15Z
   - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2026-03-17T21:27:22Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2026-03-17T21:13:19Z
   - [szovsr](https://github.com/scta-texts/szovsr): Last activity on 2026-03-13T16:00:19Z
@@ -59,7 +59,6 @@ Total Open Pull Requests: 59
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-03-06T10:00:32Z
   - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-02-25T13:31:47Z
   - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2026-02-21T13:24:24Z
-  - [bible](https://github.com/scta-texts/bible): Last activity on 2026-02-19T16:15:56Z
 
 ### Failing Repositories
 
@@ -68,6 +67,7 @@ Total Open Pull Requests: 59
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
+  - [tRi8UT](https://github.com/scta-texts/tRi8UT/actions/workflows/validation.yml)
   - [gU87nn](https://github.com/scta-texts/gU87nn/actions/workflows/validation.yml)
   - [mnbzzz](https://github.com/scta-texts/mnbzzz/actions/workflows/validation.yml)
   - [rdr6a6](https://github.com/scta-texts/rdr6a6/actions/workflows/validation.yml)
