@@ -6,18 +6,18 @@ Total Repositories: 263
 Passing Repositories: 95
 Failing Repositories: 18
 Repositories Without Workflows: 150
-Repositories With Recent Activity: 12
+Repositories With Recent Activity: 13
 Total Open Issues: 31
-Total Open Pull Requests: 60
+Total Open Pull Requests: 62
 
 ### Repositories With Open Pull Requests
 
+  - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 2 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
   - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 5 open pull requests
-  - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 3 open pull requests
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 4 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
-  - [yth33t](https://github.com/scta-texts/yth33t/pulls): 1 open pull requests
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
   - [mm30o9](https://github.com/scta-texts/mm30o9/pulls): 1 open pull requests
   - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
@@ -47,7 +47,9 @@ Total Open Pull Requests: 60
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-03-19T04:27:15Z
+  - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2026-03-20T12:47:22Z
+  - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2026-03-20T12:40:52Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-03-20T04:16:24Z
   - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2026-03-17T21:27:22Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2026-03-17T21:13:19Z
   - [szovsr](https://github.com/scta-texts/szovsr): Last activity on 2026-03-13T16:00:19Z
@@ -58,7 +60,6 @@ Total Open Pull Requests: 60
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-03-06T11:56:48Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-03-06T10:00:32Z
   - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-02-25T13:31:47Z
-  - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2026-02-21T13:24:24Z
 
 ### Failing Repositories
 
