@@ -47,8 +47,8 @@ Total Open Pull Requests: 62
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-03-22T04:22:55Z
   - [holcotwisdom](https://github.com/scta-texts/holcotwisdom): Last activity on 2026-03-22T01:20:39Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-03-21T04:09:11Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2026-03-20T12:47:22Z
   - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2026-03-20T12:40:52Z
   - [lca8s8](https://github.com/scta-texts/lca8s8): Last activity on 2026-03-17T21:27:22Z
