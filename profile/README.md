@@ -6,12 +6,13 @@ Total Repositories: 263
 Passing Repositories: 95
 Failing Repositories: 18
 Repositories Without Workflows: 150
-Repositories With Recent Activity: 15
+Repositories With Recent Activity: 16
 Total Open Issues: 31
-Total Open Pull Requests: 68
+Total Open Pull Requests: 70
 
 ### Repositories With Open Pull Requests
 
+  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 2 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [raWSwa](https://github.com/scta-texts/raWSwa/pulls): 7 open pull requests
   - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 2 open pull requests
@@ -47,8 +48,9 @@ Total Open Pull Requests: 68
 
 ### Repositories With Recent Activity
 
+  - [grvnZZ](https://github.com/scta-texts/grvnZZ): Last activity on 2026-03-27T18:07:11Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-03-27T04:36:04Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-03-27T03:03:13Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-03-26T04:35:45Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-03-25T21:04:15Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2026-03-23T19:32:21Z
   - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-03-23T15:42:55Z
@@ -65,9 +67,9 @@ Total Open Pull Requests: 68
 
 ### Failing Repositories
 
+  - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
-  - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
   - [tRi8UT](https://github.com/scta-texts/tRi8UT/actions/workflows/validation.yml)
