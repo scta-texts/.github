@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 263
-Passing Repositories: 95
-Failing Repositories: 18
+Passing Repositories: 94
+Failing Repositories: 19
 Repositories Without Workflows: 150
-Repositories With Recent Activity: 17
+Repositories With Recent Activity: 15
 Total Open Issues: 31
 Total Open Pull Requests: 64
 
@@ -48,7 +48,7 @@ Total Open Pull Requests: 64
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-04-05T04:38:47Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-04-06T04:47:06Z
   - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-04-03T11:18:47Z
   - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-04-02T12:53:03Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-04-01T20:12:15Z
@@ -63,8 +63,6 @@ Total Open Pull Requests: 64
   - [szovsr](https://github.com/scta-texts/szovsr): Last activity on 2026-03-13T16:00:19Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-03-11T21:26:23Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-03-11T13:21:18Z
-  - [a9cj9a](https://github.com/scta-texts/a9cj9a): Last activity on 2026-03-06T16:50:08Z
-  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-03-06T11:56:48Z
 
 ### Failing Repositories
 
@@ -73,6 +71,7 @@ Total Open Pull Requests: 64
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
+  - [paqqap](https://github.com/scta-texts/paqqap/actions/workflows/validation.yml)
   - [tRi8UT](https://github.com/scta-texts/tRi8UT/actions/workflows/validation.yml)
   - [gU87nn](https://github.com/scta-texts/gU87nn/actions/workflows/validation.yml)
   - [mnbzzz](https://github.com/scta-texts/mnbzzz/actions/workflows/validation.yml)
