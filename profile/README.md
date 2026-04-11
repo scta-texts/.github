@@ -6,7 +6,7 @@ Total Repositories: 263
 Passing Repositories: 94
 Failing Repositories: 19
 Repositories Without Workflows: 150
-Repositories With Recent Activity: 15
+Repositories With Recent Activity: 16
 Total Open Issues: 31
 Total Open Pull Requests: 67
 
@@ -31,13 +31,13 @@ Total Open Pull Requests: 67
 
 ### Repositories With Open Issues
 
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 3 open issues
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
   - [bcg6es](https://github.com/scta-texts/bcg6es/issues): 6 open issues
@@ -48,7 +48,8 @@ Total Open Pull Requests: 67
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-04-09T04:36:36Z
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-04-10T11:43:44Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-04-10T04:49:37Z
   - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-04-03T11:18:47Z
   - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-04-02T12:53:03Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-04-01T20:12:15Z
