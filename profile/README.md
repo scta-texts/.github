@@ -8,12 +8,12 @@ Failing Repositories: 19
 Repositories Without Workflows: 150
 Repositories With Recent Activity: 14
 Total Open Issues: 31
-Total Open Pull Requests: 67
+Total Open Pull Requests: 68
 
 ### Repositories With Open Pull Requests
 
   - [raWSwa](https://github.com/scta-texts/raWSwa/pulls): 1 open pull requests
-  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 5 open pull requests
+  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 6 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 2 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
@@ -48,7 +48,7 @@ Total Open Pull Requests: 67
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-04-11T04:25:16Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-04-12T04:49:38Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-04-10T11:43:44Z
   - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-04-03T11:18:47Z
   - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-04-02T12:53:03Z
