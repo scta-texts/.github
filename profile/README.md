@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 263
-Passing Repositories: 94
+Passing Repositories: 95
 Failing Repositories: 19
-Repositories Without Workflows: 150
-Repositories With Recent Activity: 12
+Repositories Without Workflows: 149
+Repositories With Recent Activity: 15
 Total Open Issues: 31
 Total Open Pull Requests: 66
 
@@ -48,7 +48,10 @@ Total Open Pull Requests: 66
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-04-17T04:52:21Z
+  - [bible](https://github.com/scta-texts/bible): Last activity on 2026-04-18T17:24:55Z
+  - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2026-04-18T16:41:12Z
+  - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2026-04-18T16:37:11Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-04-18T04:34:52Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-04-15T20:29:49Z
   - [szovsr](https://github.com/scta-texts/szovsr): Last activity on 2026-04-15T18:41:24Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-04-10T11:43:44Z
@@ -86,7 +89,6 @@ Total Open Pull Requests: 66
 ### Repositories Without Workflows
 
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
-  - [bible](https://github.com/scta-texts/bible)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
   - [dionysiusangelica](https://github.com/scta-texts/dionysiusangelica)
