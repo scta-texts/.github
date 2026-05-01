@@ -6,13 +6,13 @@ Total Repositories: 263
 Passing Repositories: 94
 Failing Repositories: 20
 Repositories Without Workflows: 149
-Repositories With Recent Activity: 12
+Repositories With Recent Activity: 13
 Total Open Issues: 31
-Total Open Pull Requests: 74
+Total Open Pull Requests: 75
 
 ### Repositories With Open Pull Requests
 
-  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 14 open pull requests
+  - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 15 open pull requests
   - [raWSwa](https://github.com/scta-texts/raWSwa/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
@@ -47,8 +47,9 @@ Total Open Pull Requests: 74
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-04-29T05:27:58Z
-  - [JM7jmZ](https://github.com/scta-texts/JM7jmZ): Last activity on 2026-04-26T12:41:46Z
+  - [JM7jmZ](https://github.com/scta-texts/JM7jmZ): Last activity on 2026-04-30T10:49:45Z
+  - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2026-04-30T10:44:15Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-04-30T05:33:40Z
   - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2026-04-26T12:31:29Z
   - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2026-04-24T16:28:33Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-04-24T15:05:22Z
@@ -85,6 +86,7 @@ Total Open Pull Requests: 74
 
 ### Repositories Without Workflows
 
+  - [WuV37d](https://github.com/scta-texts/WuV37d)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
@@ -96,7 +98,6 @@ Total Open Pull Requests: 74
   - [khj78y](https://github.com/scta-texts/khj78y)
   - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary)
   - [wo8uy7](https://github.com/scta-texts/wo8uy7)
-  - [WuV37d](https://github.com/scta-texts/WuV37d)
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
   - [beq3sc](https://github.com/scta-texts/beq3sc)
   - [hy7y6y](https://github.com/scta-texts/hy7y6y)
