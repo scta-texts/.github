@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 263
-Passing Repositories: 94
+Passing Repositories: 95
 Failing Repositories: 20
-Repositories Without Workflows: 149
-Repositories With Recent Activity: 14
+Repositories Without Workflows: 148
+Repositories With Recent Activity: 13
 Total Open Issues: 31
 Total Open Pull Requests: 68
 
@@ -29,8 +29,8 @@ Total Open Pull Requests: 68
 
 ### Repositories With Open Issues
 
-  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
+  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
@@ -46,11 +46,11 @@ Total Open Pull Requests: 68
 
 ### Repositories With Recent Activity
 
+  - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2026-05-03T23:53:36Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-03T05:32:06Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-05-02T13:41:11Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-02T05:01:42Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-05-01T15:48:27Z
   - [JM7jmZ](https://github.com/scta-texts/JM7jmZ): Last activity on 2026-04-30T10:49:45Z
-  - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2026-04-30T10:44:15Z
   - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2026-04-26T12:31:29Z
   - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2026-04-24T16:28:33Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-04-24T15:05:22Z
@@ -59,7 +59,6 @@ Total Open Pull Requests: 68
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2026-04-18T16:37:11Z
   - [szovsr](https://github.com/scta-texts/szovsr): Last activity on 2026-04-15T18:41:24Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-04-10T11:43:44Z
-  - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-04-03T11:18:47Z
 
 ### Failing Repositories
 
@@ -86,7 +85,6 @@ Total Open Pull Requests: 68
 
 ### Repositories Without Workflows
 
-  - [WuV37d](https://github.com/scta-texts/WuV37d)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
