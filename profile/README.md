@@ -6,7 +6,7 @@ Total Repositories: 263
 Passing Repositories: 95
 Failing Repositories: 20
 Repositories Without Workflows: 148
-Repositories With Recent Activity: 14
+Repositories With Recent Activity: 15
 Total Open Issues: 31
 Total Open Pull Requests: 68
 
@@ -29,10 +29,10 @@ Total Open Pull Requests: 68
 
 ### Repositories With Open Issues
 
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 2 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
@@ -46,7 +46,9 @@ Total Open Pull Requests: 68
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-05T05:18:27Z
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-05-06T12:58:57Z
+  - [olm8ij](https://github.com/scta-texts/olm8ij): Last activity on 2026-05-06T12:52:07Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-06T05:32:11Z
   - [at8va9](https://github.com/scta-texts/at8va9): Last activity on 2026-05-04T16:18:18Z
   - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2026-05-03T23:53:36Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-05-02T13:41:11Z
@@ -59,7 +61,6 @@ Total Open Pull Requests: 68
   - [bible](https://github.com/scta-texts/bible): Last activity on 2026-04-18T17:24:55Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2026-04-18T16:37:11Z
   - [szovsr](https://github.com/scta-texts/szovsr): Last activity on 2026-04-15T18:41:24Z
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-04-10T11:43:44Z
 
 ### Failing Repositories
 
