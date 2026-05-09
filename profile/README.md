@@ -8,13 +8,14 @@ Failing Repositories: 20
 Repositories Without Workflows: 148
 Repositories With Recent Activity: 16
 Total Open Issues: 31
-Total Open Pull Requests: 68
+Total Open Pull Requests: 72
 
 ### Repositories With Open Pull Requests
 
   - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 16 open pull requests
   - [raWSwa](https://github.com/scta-texts/raWSwa/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
+  - [yth33t](https://github.com/scta-texts/yth33t/pulls): 4 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
@@ -46,9 +47,9 @@ Total Open Pull Requests: 68
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-08T04:56:49Z
   - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2026-05-08T02:13:46Z
   - [at8va9](https://github.com/scta-texts/at8va9): Last activity on 2026-05-07T11:07:26Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-07T05:35:02Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-05-06T12:58:57Z
   - [olm8ij](https://github.com/scta-texts/olm8ij): Last activity on 2026-05-06T12:52:07Z
   - [WuV37d](https://github.com/scta-texts/WuV37d): Last activity on 2026-05-03T23:53:36Z
