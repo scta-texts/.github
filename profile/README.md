@@ -3,19 +3,19 @@
 ## Summary Report
 
 Total Repositories: 263
-Passing Repositories: 95
+Passing Repositories: 96
 Failing Repositories: 20
-Repositories Without Workflows: 148
-Repositories With Recent Activity: 17
+Repositories Without Workflows: 147
+Repositories With Recent Activity: 18
 Total Open Issues: 31
-Total Open Pull Requests: 72
+Total Open Pull Requests: 163
 
 ### Repositories With Open Pull Requests
 
   - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 16 open pull requests
-  - [raWSwa](https://github.com/scta-texts/raWSwa/pulls): 1 open pull requests
+  - [raWSwa](https://github.com/scta-texts/raWSwa/pulls): 90 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
-  - [yth33t](https://github.com/scta-texts/yth33t/pulls): 4 open pull requests
+  - [yth33t](https://github.com/scta-texts/yth33t/pulls): 6 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
@@ -47,9 +47,10 @@ Total Open Pull Requests: 72
 
 ### Repositories With Recent Activity
 
+  - [v78d89](https://github.com/scta-texts/v78d89): Last activity on 2026-05-12T02:07:54Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-11T06:02:37Z
   - [ol96b1](https://github.com/scta-texts/ol96b1): Last activity on 2026-05-10T11:41:36Z
   - [olm8ij](https://github.com/scta-texts/olm8ij): Last activity on 2026-05-10T11:34:03Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-10T05:39:22Z
   - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2026-05-08T02:13:46Z
   - [at8va9](https://github.com/scta-texts/at8va9): Last activity on 2026-05-07T11:07:26Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-05-06T12:58:57Z
@@ -149,7 +150,6 @@ Total Open Pull Requests: 72
   - [LuT8H6](https://github.com/scta-texts/LuT8H6)
   - [erf8hf](https://github.com/scta-texts/erf8hf)
   - [vnsSaS](https://github.com/scta-texts/vnsSaS)
-  - [v78d89](https://github.com/scta-texts/v78d89)
   - [GHcsDA](https://github.com/scta-texts/GHcsDA)
   - [mnvhfy](https://github.com/scta-texts/mnvhfy)
   - [GHcsQQ](https://github.com/scta-texts/GHcsQQ)
