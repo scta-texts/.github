@@ -8,15 +8,12 @@ Failing Repositories: 20
 Repositories Without Workflows: 146
 Repositories With Recent Activity: 22
 Total Open Issues: 46
-Total Open Pull Requests: 167
+Total Open Pull Requests: 72
 
 ### Repositories With Open Pull Requests
 
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 13 open pull requests
-  - [erf8hf](https://github.com/scta-texts/erf8hf/pulls): 15 open pull requests
   - [nbht7y](https://github.com/scta-texts/nbht7y/pulls): 1 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
-  - [raWSwa](https://github.com/scta-texts/raWSwa/pulls): 67 open pull requests
   - [v78d89](https://github.com/scta-texts/v78d89/pulls): 1 open pull requests
   - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 16 open pull requests
   - [jsjasx](https://github.com/scta-texts/jsjasx/pulls): 1 open pull requests
@@ -52,17 +49,17 @@ Total Open Pull Requests: 167
 
 ### Repositories With Recent Activity
 
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-05-22T02:14:03Z
-  - [erf8hf](https://github.com/scta-texts/erf8hf): Last activity on 2026-05-21T19:24:20Z
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-05-23T01:08:26Z
+  - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-05-22T12:55:09Z
+  - [erf8hf](https://github.com/scta-texts/erf8hf): Last activity on 2026-05-22T12:46:23Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-22T06:08:01Z
   - [nbht7y](https://github.com/scta-texts/nbht7y): Last activity on 2026-05-21T12:23:54Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-21T06:11:47Z
   - [hsvhsv](https://github.com/scta-texts/hsvhsv): Last activity on 2026-05-21T00:54:31Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-05-20T17:13:38Z
   - [hx2hx3](https://github.com/scta-texts/hx2hx3): Last activity on 2026-05-20T16:07:22Z
   - [Z4Yt34](https://github.com/scta-texts/Z4Yt34): Last activity on 2026-05-16T22:40:51Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2026-05-14T20:28:39Z
   - [ol96b1](https://github.com/scta-texts/ol96b1): Last activity on 2026-05-14T01:27:56Z
-  - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-05-12T17:56:32Z
   - [v78d89](https://github.com/scta-texts/v78d89): Last activity on 2026-05-12T14:06:58Z
   - [olm8ij](https://github.com/scta-texts/olm8ij): Last activity on 2026-05-10T11:34:03Z
   - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2026-05-08T02:13:46Z
