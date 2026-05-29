@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 263
-Passing Repositories: 93
-Failing Repositories: 24
+Passing Repositories: 92
+Failing Repositories: 25
 Repositories Without Workflows: 146
-Repositories With Recent Activity: 18
+Repositories With Recent Activity: 20
 Total Open Issues: 46
 Total Open Pull Requests: 74
 
@@ -33,8 +33,8 @@ Total Open Pull Requests: 74
 ### Repositories With Open Issues
 
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 17 open issues
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
@@ -49,9 +49,11 @@ Total Open Pull Requests: 74
 
 ### Repositories With Recent Activity
 
-  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-05-28T00:57:30Z
+  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-05-28T20:42:42Z
+  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-05-28T20:42:19Z
+  - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-05-28T19:35:27Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-28T06:15:30Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-05-27T20:19:22Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-27T06:22:53Z
   - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-05-22T12:55:09Z
   - [erf8hf](https://github.com/scta-texts/erf8hf): Last activity on 2026-05-22T12:46:23Z
   - [nbht7y](https://github.com/scta-texts/nbht7y): Last activity on 2026-05-21T12:23:54Z
@@ -70,6 +72,7 @@ Total Open Pull Requests: 74
 
 ### Failing Repositories
 
+  - [szdleg](https://github.com/scta-texts/szdleg/actions/workflows/validation.yml)
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
