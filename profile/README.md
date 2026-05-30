@@ -2,11 +2,11 @@
 
 ## Summary Report
 
-Total Repositories: 263
-Passing Repositories: 92
-Failing Repositories: 25
+Total Repositories: 264
+Passing Repositories: 94
+Failing Repositories: 24
 Repositories Without Workflows: 146
-Repositories With Recent Activity: 20
+Repositories With Recent Activity: 21
 Total Open Issues: 46
 Total Open Pull Requests: 74
 
@@ -49,10 +49,11 @@ Total Open Pull Requests: 74
 
 ### Repositories With Recent Activity
 
-  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-05-28T20:42:42Z
-  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-05-28T20:42:19Z
-  - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-05-28T19:35:27Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-28T06:15:30Z
+  - [rbdcir](https://github.com/scta-texts/rbdcir): Last activity on 2026-05-30T00:56:40Z
+  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-05-29T23:32:39Z
+  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-05-29T23:32:29Z
+  - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-05-29T23:20:52Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-05-29T06:15:20Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-05-27T20:19:22Z
   - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-05-22T12:55:09Z
   - [erf8hf](https://github.com/scta-texts/erf8hf): Last activity on 2026-05-22T12:46:23Z
@@ -72,7 +73,6 @@ Total Open Pull Requests: 74
 
 ### Failing Repositories
 
-  - [szdleg](https://github.com/scta-texts/szdleg/actions/workflows/validation.yml)
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
