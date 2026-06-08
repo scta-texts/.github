@@ -6,7 +6,7 @@ Total Repositories: 264
 Passing Repositories: 94
 Failing Repositories: 24
 Repositories Without Workflows: 146
-Repositories With Recent Activity: 19
+Repositories With Recent Activity: 17
 Total Open Issues: 46
 Total Open Pull Requests: 58
 
@@ -32,8 +32,8 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Issues
 
-  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 17 open issues
+  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
@@ -49,11 +49,11 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-07T06:25:42Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-06-07T01:59:12Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-06-07T01:58:51Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-06-06T12:27:00Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2026-06-06T12:14:01Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-06T05:57:52Z
   - [rbdcir](https://github.com/scta-texts/rbdcir): Last activity on 2026-05-30T00:56:40Z
   - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-05-29T23:20:52Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-05-27T20:19:22Z
@@ -66,8 +66,6 @@ Total Open Pull Requests: 58
   - [ol96b1](https://github.com/scta-texts/ol96b1): Last activity on 2026-05-14T01:27:56Z
   - [v78d89](https://github.com/scta-texts/v78d89): Last activity on 2026-05-12T14:06:58Z
   - [olm8ij](https://github.com/scta-texts/olm8ij): Last activity on 2026-05-10T11:34:03Z
-  - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2026-05-08T02:13:46Z
-  - [at8va9](https://github.com/scta-texts/at8va9): Last activity on 2026-05-07T11:07:26Z
 
 ### Failing Repositories
 
