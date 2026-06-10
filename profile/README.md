@@ -3,8 +3,8 @@
 ## Summary Report
 
 Total Repositories: 264
-Passing Repositories: 94
-Failing Repositories: 24
+Passing Repositories: 93
+Failing Repositories: 25
 Repositories Without Workflows: 146
 Repositories With Recent Activity: 17
 Total Open Issues: 46
@@ -32,8 +32,8 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Issues
 
-  - [.github](https://github.com/scta-texts/.github/issues): 17 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 17 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
@@ -49,8 +49,8 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-08T06:44:41Z
-  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-06-07T01:59:12Z
+  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-06-09T18:37:28Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-09T06:10:57Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-06-07T01:58:51Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-06-06T12:27:00Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2026-06-06T12:14:01Z
@@ -70,6 +70,7 @@ Total Open Pull Requests: 58
 ### Failing Repositories
 
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
+  - [yth33t](https://github.com/scta-texts/yth33t/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [summahalensis](https://github.com/scta-texts/summahalensis/actions/workflows/validation.yml)
