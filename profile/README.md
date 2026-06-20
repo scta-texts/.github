@@ -29,8 +29,8 @@ Total Open Pull Requests: 55
 
 ### Repositories With Open Issues
 
-  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 17 open issues
+  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
@@ -46,8 +46,8 @@ Total Open Pull Requests: 55
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-19T07:07:40Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-06-19T01:26:32Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-18T06:53:39Z
   - [tgy5tz](https://github.com/scta-texts/tgy5tz): Last activity on 2026-06-15T17:44:48Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-06-15T01:46:06Z
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2026-06-14T00:07:04Z
