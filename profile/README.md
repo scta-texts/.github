@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 264
-Passing Repositories: 91
-Failing Repositories: 27
+Passing Repositories: 90
+Failing Repositories: 28
 Repositories Without Workflows: 146
-Repositories With Recent Activity: 26
+Repositories With Recent Activity: 24
 Total Open Issues: 46
 Total Open Pull Requests: 55
 
@@ -46,7 +46,7 @@ Total Open Pull Requests: 55
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-19T07:07:40Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-20T06:24:06Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-06-19T01:26:32Z
   - [tgy5tz](https://github.com/scta-texts/tgy5tz): Last activity on 2026-06-15T17:44:48Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-06-15T01:46:06Z
@@ -70,8 +70,6 @@ Total Open Pull Requests: 55
   - [rbdcir](https://github.com/scta-texts/rbdcir): Last activity on 2026-05-30T00:56:40Z
   - [raWSwa](https://github.com/scta-texts/raWSwa): Last activity on 2026-05-22T12:55:09Z
   - [erf8hf](https://github.com/scta-texts/erf8hf): Last activity on 2026-05-22T12:46:23Z
-  - [hsvhsv](https://github.com/scta-texts/hsvhsv): Last activity on 2026-05-21T00:54:31Z
-  - [hx2hx3](https://github.com/scta-texts/hx2hx3): Last activity on 2026-05-20T16:07:22Z
 
 ### Failing Repositories
 
@@ -81,6 +79,7 @@ Total Open Pull Requests: 55
   - [yth33t](https://github.com/scta-texts/yth33t/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
+  - [gpza5l](https://github.com/scta-texts/gpza5l/actions/workflows/validation.yml)
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata/actions/workflows/validation.yml)
   - [la30px](https://github.com/scta-texts/la30px/actions/workflows/validation.yml)
   - [nbnt23](https://github.com/scta-texts/nbnt23/actions/workflows/validation.yml)
