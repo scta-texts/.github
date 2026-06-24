@@ -46,10 +46,10 @@ Total Open Pull Requests: 55
 
 ### Repositories With Recent Activity
 
-  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-06-22T15:53:13Z
+  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-06-23T22:47:44Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-23T06:09:22Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-06-22T13:04:41Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2026-06-22T11:50:48Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-22T07:25:34Z
   - [tgy5tz](https://github.com/scta-texts/tgy5tz): Last activity on 2026-06-15T17:44:48Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-06-15T01:46:06Z
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2026-06-14T00:07:04Z
@@ -72,8 +72,8 @@ Total Open Pull Requests: 55
 
 ### Failing Repositories
 
-  - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
+  - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
   - [gpza5l](https://github.com/scta-texts/gpza5l/actions/workflows/validation.yml)
