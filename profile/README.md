@@ -3,8 +3,8 @@
 ## Summary Report
 
 Total Repositories: 264
-Passing Repositories: 92
-Failing Repositories: 26
+Passing Repositories: 91
+Failing Repositories: 27
 Repositories Without Workflows: 146
 Repositories With Recent Activity: 23
 Total Open Issues: 46
@@ -29,8 +29,8 @@ Total Open Pull Requests: 55
 
 ### Repositories With Open Issues
 
-  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 17 open issues
+  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
@@ -46,8 +46,8 @@ Total Open Pull Requests: 55
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-24T06:08:25Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-06-23T22:47:44Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-23T06:09:22Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-06-22T13:04:41Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2026-06-22T11:50:48Z
   - [tgy5tz](https://github.com/scta-texts/tgy5tz): Last activity on 2026-06-15T17:44:48Z
@@ -76,6 +76,7 @@ Total Open Pull Requests: 55
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
+  - [TAcCaj](https://github.com/scta-texts/TAcCaj/actions/workflows/validation.yml)
   - [gpza5l](https://github.com/scta-texts/gpza5l/actions/workflows/validation.yml)
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata/actions/workflows/validation.yml)
   - [la30px](https://github.com/scta-texts/la30px/actions/workflows/validation.yml)
