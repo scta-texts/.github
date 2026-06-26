@@ -8,13 +8,13 @@ Failing Repositories: 27
 Repositories Without Workflows: 146
 Repositories With Recent Activity: 23
 Total Open Issues: 46
-Total Open Pull Requests: 55
+Total Open Pull Requests: 56
 
 ### Repositories With Open Pull Requests
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
   - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 2 open pull requests
-  - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
+  - [yth33t](https://github.com/scta-texts/yth33t/pulls): 3 open pull requests
   - [v78d89](https://github.com/scta-texts/v78d89/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
@@ -46,7 +46,7 @@ Total Open Pull Requests: 55
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-24T06:08:25Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-25T06:10:13Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-06-23T22:47:44Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-06-22T13:04:41Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2026-06-22T11:50:48Z
