@@ -6,7 +6,7 @@ Total Repositories: 265
 Passing Repositories: 91
 Failing Repositories: 28
 Repositories Without Workflows: 146
-Repositories With Recent Activity: 25
+Repositories With Recent Activity: 26
 Total Open Issues: 46
 Total Open Pull Requests: 56
 
@@ -29,9 +29,9 @@ Total Open Pull Requests: 56
 
 ### Repositories With Open Issues
 
+  - [.github](https://github.com/scta-texts/.github/issues): 17 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
-  - [.github](https://github.com/scta-texts/.github/issues): 17 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
@@ -46,10 +46,12 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
+  - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2026-06-27T16:18:04Z
+  - [szovsr](https://github.com/scta-texts/szovsr): Last activity on 2026-06-27T15:17:13Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-27T05:57:28Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-06-26T15:59:08Z
   - [gvscgv](https://github.com/scta-texts/gvscgv): Last activity on 2026-06-26T14:43:22Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-06-26T11:49:17Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-26T06:14:37Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-06-22T13:04:41Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2026-06-22T11:50:48Z
   - [tgy5tz](https://github.com/scta-texts/tgy5tz): Last activity on 2026-06-15T17:44:48Z
@@ -66,7 +68,6 @@ Total Open Pull Requests: 56
   - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2026-06-12T13:47:01Z
   - [mm30o9](https://github.com/scta-texts/mm30o9): Last activity on 2026-06-12T13:41:19Z
   - [nbht7y](https://github.com/scta-texts/nbht7y): Last activity on 2026-06-12T13:38:06Z
-  - [szovsr](https://github.com/scta-texts/szovsr): Last activity on 2026-06-11T13:23:54Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-06-07T01:58:51Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-06-06T12:27:00Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2026-06-06T12:14:01Z
