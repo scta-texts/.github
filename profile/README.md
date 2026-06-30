@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 265
-Passing Repositories: 91
-Failing Repositories: 28
+Passing Repositories: 90
+Failing Repositories: 29
 Repositories Without Workflows: 146
-Repositories With Recent Activity: 26
+Repositories With Recent Activity: 25
 Total Open Issues: 46
 Total Open Pull Requests: 56
 
@@ -46,7 +46,7 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-28T06:20:29Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-29T06:50:20Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2026-06-27T16:18:04Z
   - [szovsr](https://github.com/scta-texts/szovsr): Last activity on 2026-06-27T15:17:13Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-06-26T15:59:08Z
@@ -71,7 +71,6 @@ Total Open Pull Requests: 56
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-06-07T01:58:51Z
   - [dc7aa7](https://github.com/scta-texts/dc7aa7): Last activity on 2026-06-06T12:27:00Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2026-06-06T12:14:01Z
-  - [rbdcir](https://github.com/scta-texts/rbdcir): Last activity on 2026-05-30T00:56:40Z
 
 ### Failing Repositories
 
@@ -80,6 +79,7 @@ Total Open Pull Requests: 56
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [yth33t](https://github.com/scta-texts/yth33t/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
+  - [xAbSeN](https://github.com/scta-texts/xAbSeN/actions/workflows/validation.yml)
   - [TAcCaj](https://github.com/scta-texts/TAcCaj/actions/workflows/validation.yml)
   - [gpza5l](https://github.com/scta-texts/gpza5l/actions/workflows/validation.yml)
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata/actions/workflows/validation.yml)
