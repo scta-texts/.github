@@ -3,18 +3,18 @@
 ## Summary Report
 
 Total Repositories: 266
-Passing Repositories: 91
-Failing Repositories: 29
+Passing Repositories: 92
+Failing Repositories: 28
 Repositories Without Workflows: 146
 Repositories With Recent Activity: 26
 Total Open Issues: 46
-Total Open Pull Requests: 56
+Total Open Pull Requests: 57
 
 ### Repositories With Open Pull Requests
 
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
   - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 2 open pull requests
-  - [yth33t](https://github.com/scta-texts/yth33t/pulls): 3 open pull requests
+  - [yth33t](https://github.com/scta-texts/yth33t/pulls): 4 open pull requests
   - [v78d89](https://github.com/scta-texts/v78d89/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
@@ -46,8 +46,8 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [ja88rh](https://github.com/scta-texts/ja88rh): Last activity on 2026-06-30T16:25:54Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-06-30T06:14:22Z
+  - [ja88rh](https://github.com/scta-texts/ja88rh): Last activity on 2026-07-01T16:15:17Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-01T06:27:47Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2026-06-27T16:18:04Z
   - [szovsr](https://github.com/scta-texts/szovsr): Last activity on 2026-06-27T15:17:13Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-06-26T15:59:08Z
@@ -78,7 +78,6 @@ Total Open Pull Requests: 56
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
-  - [yth33t](https://github.com/scta-texts/yth33t/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
   - [xAbSeN](https://github.com/scta-texts/xAbSeN/actions/workflows/validation.yml)
   - [TAcCaj](https://github.com/scta-texts/TAcCaj/actions/workflows/validation.yml)
