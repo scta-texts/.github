@@ -12,8 +12,8 @@ Total Open Pull Requests: 59
 
 ### Repositories With Open Pull Requests
 
-  - [tgy5tz](https://github.com/scta-texts/tgy5tz/pulls): 2 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
+  - [tgy5tz](https://github.com/scta-texts/tgy5tz/pulls): 2 open pull requests
   - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 2 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 4 open pull requests
   - [v78d89](https://github.com/scta-texts/v78d89/pulls): 1 open pull requests
@@ -30,11 +30,11 @@ Total Open Pull Requests: 59
 
 ### Repositories With Open Issues
 
+  - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 17 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
-  - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 3 open issues
@@ -47,7 +47,8 @@ Total Open Pull Requests: 59
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-03T05:54:45Z
+  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2026-07-04T16:13:13Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-04T05:48:42Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-07-03T01:25:24Z
   - [ja88rh](https://github.com/scta-texts/ja88rh): Last activity on 2026-07-01T16:15:17Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2026-06-27T16:18:04Z
@@ -62,7 +63,6 @@ Total Open Pull Requests: 59
   - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-06-13T19:29:26Z
   - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-06-13T17:24:12Z
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a): Last activity on 2026-06-12T13:57:42Z
-  - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2026-06-12T13:56:53Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-06-12T13:53:46Z
   - [grvnZZ](https://github.com/scta-texts/grvnZZ): Last activity on 2026-06-12T13:52:33Z
   - [holcotwisdom](https://github.com/scta-texts/holcotwisdom): Last activity on 2026-06-12T13:51:14Z
