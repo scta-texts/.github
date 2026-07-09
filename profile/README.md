@@ -3,9 +3,9 @@
 ## Summary Report
 
 Total Repositories: 266
-Passing Repositories: 89
+Passing Repositories: 91
 Failing Repositories: 29
-Repositories Without Workflows: 148
+Repositories Without Workflows: 146
 Repositories With Recent Activity: 23
 Total Open Issues: 46
 Total Open Pull Requests: 60
@@ -47,7 +47,7 @@ Total Open Pull Requests: 60
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-07T06:09:12Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-08T05:23:21Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2026-07-04T16:13:13Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-07-03T01:25:24Z
   - [ja88rh](https://github.com/scta-texts/ja88rh): Last activity on 2026-07-01T16:15:17Z
@@ -105,10 +105,8 @@ Total Open Pull Requests: 60
 
 ### Repositories Without Workflows
 
-  - [gvscgv](https://github.com/scta-texts/gvscgv)
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
   - [JRPxXx](https://github.com/scta-texts/JRPxXx)
-  - [rbdcir](https://github.com/scta-texts/rbdcir)
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
