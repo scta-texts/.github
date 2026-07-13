@@ -6,7 +6,7 @@ Total Repositories: 266
 Passing Repositories: 91
 Failing Repositories: 29
 Repositories Without Workflows: 146
-Repositories With Recent Activity: 23
+Repositories With Recent Activity: 15
 Total Open Issues: 46
 Total Open Pull Requests: 60
 
@@ -47,7 +47,7 @@ Total Open Pull Requests: 60
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-11T05:15:26Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-12T05:31:18Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2026-07-10T01:28:04Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2026-07-04T16:13:13Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-07-03T01:25:24Z
@@ -62,14 +62,6 @@ Total Open Pull Requests: 60
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2026-06-14T00:07:04Z
   - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-06-13T19:29:26Z
   - [szdleg](https://github.com/scta-texts/szdleg): Last activity on 2026-06-13T17:24:12Z
-  - [Cnyt3a](https://github.com/scta-texts/Cnyt3a): Last activity on 2026-06-12T13:57:42Z
-  - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-06-12T13:53:46Z
-  - [grvnZZ](https://github.com/scta-texts/grvnZZ): Last activity on 2026-06-12T13:52:33Z
-  - [holcotwisdom](https://github.com/scta-texts/holcotwisdom): Last activity on 2026-06-12T13:51:14Z
-  - [JRPxXx](https://github.com/scta-texts/JRPxXx): Last activity on 2026-06-12T13:49:34Z
-  - [jsjasx](https://github.com/scta-texts/jsjasx): Last activity on 2026-06-12T13:47:01Z
-  - [mm30o9](https://github.com/scta-texts/mm30o9): Last activity on 2026-06-12T13:41:19Z
-  - [nbht7y](https://github.com/scta-texts/nbht7y): Last activity on 2026-06-12T13:38:06Z
 
 ### Failing Repositories
 
