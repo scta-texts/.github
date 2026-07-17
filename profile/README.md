@@ -6,7 +6,7 @@ Total Repositories: 266
 Passing Repositories: 91
 Failing Repositories: 29
 Repositories Without Workflows: 146
-Repositories With Recent Activity: 10
+Repositories With Recent Activity: 11
 Total Open Issues: 46
 Total Open Pull Requests: 61
 
@@ -30,10 +30,10 @@ Total Open Pull Requests: 61
 
 ### Repositories With Open Issues
 
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 17 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
@@ -47,14 +47,15 @@ Total Open Pull Requests: 61
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-15T04:52:54Z
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-07-16T23:02:54Z
+  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-07-16T13:52:41Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-16T05:14:25Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2026-07-10T01:28:04Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2026-07-04T16:13:13Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-07-03T01:25:24Z
   - [ja88rh](https://github.com/scta-texts/ja88rh): Last activity on 2026-07-01T16:15:17Z
   - [szovsr](https://github.com/scta-texts/szovsr): Last activity on 2026-06-27T15:17:13Z
   - [gvscgv](https://github.com/scta-texts/gvscgv): Last activity on 2026-06-26T14:43:22Z
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-06-26T11:49:17Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-06-22T13:04:41Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2026-06-22T11:50:48Z
 
