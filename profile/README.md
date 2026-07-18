@@ -3,8 +3,8 @@
 ## Summary Report
 
 Total Repositories: 266
-Passing Repositories: 91
-Failing Repositories: 29
+Passing Repositories: 89
+Failing Repositories: 31
 Repositories Without Workflows: 146
 Repositories With Recent Activity: 11
 Total Open Issues: 46
@@ -30,8 +30,8 @@ Total Open Pull Requests: 61
 
 ### Repositories With Open Issues
 
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 17 open issues
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 4 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
@@ -47,9 +47,9 @@ Total Open Pull Requests: 61
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-17T05:15:14Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-07-16T23:02:54Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-07-16T13:52:41Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-16T05:14:25Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2026-07-10T01:28:04Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2026-07-04T16:13:13Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-07-03T01:25:24Z
@@ -66,6 +66,8 @@ Total Open Pull Requests: 61
   - [tgy5tz](https://github.com/scta-texts/tgy5tz/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
+  - [nqqq3t](https://github.com/scta-texts/nqqq3t/actions/workflows/validation.yml)
+  - [v8naTA](https://github.com/scta-texts/v8naTA/actions/workflows/validation.yml)
   - [xAbSeN](https://github.com/scta-texts/xAbSeN/actions/workflows/validation.yml)
   - [TAcCaj](https://github.com/scta-texts/TAcCaj/actions/workflows/validation.yml)
   - [gpza5l](https://github.com/scta-texts/gpza5l/actions/workflows/validation.yml)
