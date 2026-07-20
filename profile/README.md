@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 266
-Passing Repositories: 87
-Failing Repositories: 29
-Repositories Without Workflows: 150
-Repositories With Recent Activity: 13
+Passing Repositories: 90
+Failing Repositories: 31
+Repositories Without Workflows: 145
+Repositories With Recent Activity: 14
 Total Open Issues: 46
 Total Open Pull Requests: 61
 
@@ -47,13 +47,14 @@ Total Open Pull Requests: 61
 
 ### Repositories With Recent Activity
 
+  - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2026-07-19T12:53:34Z
+  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-07-19T12:40:02Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-19T05:23:43Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2026-07-18T23:30:12Z
   - [holcotwisdom](https://github.com/scta-texts/holcotwisdom): Last activity on 2026-07-18T15:28:07Z
   - [ccc7yd](https://github.com/scta-texts/ccc7yd): Last activity on 2026-07-18T13:09:20Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-18T04:50:01Z
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-07-16T23:02:54Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-07-16T13:52:41Z
-  - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2026-07-10T01:28:04Z
   - [cy8th8](https://github.com/scta-texts/cy8th8): Last activity on 2026-07-04T16:13:13Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-07-03T01:25:24Z
   - [ja88rh](https://github.com/scta-texts/ja88rh): Last activity on 2026-07-01T16:15:17Z
@@ -65,6 +66,7 @@ Total Open Pull Requests: 61
 
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
+  - [tgy5tz](https://github.com/scta-texts/tgy5tz/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
   - [nqqq3t](https://github.com/scta-texts/nqqq3t/actions/workflows/validation.yml)
@@ -76,6 +78,7 @@ Total Open Pull Requests: 61
   - [la30px](https://github.com/scta-texts/la30px/actions/workflows/validation.yml)
   - [nbnt23](https://github.com/scta-texts/nbnt23/actions/workflows/validation.yml)
   - [nbp148](https://github.com/scta-texts/nbp148/actions/workflows/validation.yml)
+  - [nbm46r](https://github.com/scta-texts/nbm46r/actions/workflows/validation.yml)
   - [nbpr23](https://github.com/scta-texts/nbpr23/actions/workflows/validation.yml)
   - [bgy6gt](https://github.com/scta-texts/bgy6gt/actions/workflows/validation.yml)
   - [paqqap](https://github.com/scta-texts/paqqap/actions/workflows/validation.yml)
@@ -95,18 +98,14 @@ Total Open Pull Requests: 61
 
 ### Repositories Without Workflows
 
-  - [tgy5tz](https://github.com/scta-texts/tgy5tz)
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
   - [JRPxXx](https://github.com/scta-texts/JRPxXx)
-  - [raWSwa](https://github.com/scta-texts/raWSwa)
-  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
   - [dionysiusangelica](https://github.com/scta-texts/dionysiusangelica)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary)
-  - [v27ab7](https://github.com/scta-texts/v27ab7)
   - [liberextra](https://github.com/scta-texts/liberextra)
   - [khj78y](https://github.com/scta-texts/khj78y)
   - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary)
@@ -114,7 +113,6 @@ Total Open Pull Requests: 61
   - [beq3sc](https://github.com/scta-texts/beq3sc)
   - [hy7y6y](https://github.com/scta-texts/hy7y6y)
   - [bcg6es](https://github.com/scta-texts/bcg6es)
-  - [nbm46r](https://github.com/scta-texts/nbm46r)
   - [iuy75t](https://github.com/scta-texts/iuy75t)
   - [da-3](https://github.com/scta-texts/da-3)
   - [picoapologia](https://github.com/scta-texts/picoapologia)
