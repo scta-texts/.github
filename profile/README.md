@@ -3,8 +3,8 @@
 ## Summary Report
 
 Total Repositories: 267
-Passing Repositories: 92
-Failing Repositories: 30
+Passing Repositories: 91
+Failing Repositories: 31
 Repositories Without Workflows: 145
 Repositories With Recent Activity: 18
 Total Open Issues: 46
@@ -47,8 +47,8 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-28T05:17:14Z
   - [jm3cbb](https://github.com/scta-texts/jm3cbb): Last activity on 2026-07-27T16:07:41Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-07-27T05:51:38Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-07-22T00:14:01Z
   - [Vn7Pel](https://github.com/scta-texts/Vn7Pel): Last activity on 2026-07-21T21:18:17Z
   - [ja88rh](https://github.com/scta-texts/ja88rh): Last activity on 2026-07-21T17:54:38Z
@@ -72,6 +72,7 @@ Total Open Pull Requests: 56
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
+  - [pdt7y6](https://github.com/scta-texts/pdt7y6/actions/workflows/validation.yml)
   - [nqqq3t](https://github.com/scta-texts/nqqq3t/actions/workflows/validation.yml)
   - [v8naTA](https://github.com/scta-texts/v8naTA/actions/workflows/validation.yml)
   - [xAbSeN](https://github.com/scta-texts/xAbSeN/actions/workflows/validation.yml)
