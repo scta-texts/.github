@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 272
-Passing Repositories: 94
-Failing Repositories: 33
+Passing Repositories: 93
+Failing Repositories: 34
 Repositories Without Workflows: 145
-Repositories With Recent Activity: 23
+Repositories With Recent Activity: 24
 Total Open Issues: 45
 Total Open Pull Requests: 56
 
@@ -47,9 +47,10 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [jm3cbb](https://github.com/scta-texts/jm3cbb): Last activity on 2026-08-06T00:15:18Z
+  - [UD1xh4](https://github.com/scta-texts/UD1xh4): Last activity on 2026-08-06T16:44:47Z
+  - [jm3cbb](https://github.com/scta-texts/jm3cbb): Last activity on 2026-08-06T10:45:57Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-08-06T05:19:43Z
   - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-08-05T15:22:17Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-08-05T05:17:05Z
   - [jacs34](https://github.com/scta-texts/jacs34): Last activity on 2026-08-04T15:57:01Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-08-03T20:13:45Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-08-03T15:25:49Z
@@ -73,6 +74,7 @@ Total Open Pull Requests: 56
 
 ### Failing Repositories
 
+  - [UD1xh4](https://github.com/scta-texts/UD1xh4/actions/workflows/validation.yml)
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
