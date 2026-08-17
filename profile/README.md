@@ -2,8 +2,8 @@
 
 ## Summary Report
 
-Total Repositories: 272
-Passing Repositories: 94
+Total Repositories: 273
+Passing Repositories: 95
 Failing Repositories: 33
 Repositories Without Workflows: 145
 Repositories With Recent Activity: 29
@@ -47,7 +47,9 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-08-15T02:52:39Z
+  - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate): Last activity on 2026-08-16T17:04:40Z
+  - [szduep](https://github.com/scta-texts/szduep): Last activity on 2026-08-16T04:32:40Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-08-16T03:01:59Z
   - [JM7jmZ](https://github.com/scta-texts/JM7jmZ): Last activity on 2026-08-13T15:24:47Z
   - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2026-08-13T15:04:19Z
   - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2026-08-13T15:03:32Z
@@ -74,8 +76,6 @@ Total Open Pull Requests: 56
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2026-07-18T23:30:12Z
   - [holcotwisdom](https://github.com/scta-texts/holcotwisdom): Last activity on 2026-07-18T15:28:07Z
   - [ccc7yd](https://github.com/scta-texts/ccc7yd): Last activity on 2026-07-18T13:09:20Z
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-07-16T23:02:54Z
-  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-07-16T13:52:41Z
 
 ### Failing Repositories
 
@@ -115,10 +115,10 @@ Total Open Pull Requests: 56
 
 ### Repositories Without Workflows
 
+  - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
   - [JRPxXx](https://github.com/scta-texts/JRPxXx)
   - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
-  - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate)
   - [dionysiusangelica](https://github.com/scta-texts/dionysiusangelica)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei)
