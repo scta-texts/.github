@@ -6,7 +6,7 @@ Total Repositories: 273
 Passing Repositories: 95
 Failing Repositories: 33
 Repositories Without Workflows: 145
-Repositories With Recent Activity: 29
+Repositories With Recent Activity: 26
 Total Open Issues: 45
 Total Open Pull Requests: 56
 
@@ -47,7 +47,7 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-08-17T03:01:37Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-08-18T02:57:41Z
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate): Last activity on 2026-08-16T17:04:40Z
   - [szduep](https://github.com/scta-texts/szduep): Last activity on 2026-08-16T04:32:40Z
   - [JM7jmZ](https://github.com/scta-texts/JM7jmZ): Last activity on 2026-08-13T15:24:47Z
@@ -73,9 +73,6 @@ Total Open Pull Requests: 56
   - [tgy5tz](https://github.com/scta-texts/tgy5tz): Last activity on 2026-07-21T15:30:46Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2026-07-19T12:53:34Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-07-19T12:40:02Z
-  - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2026-07-18T23:30:12Z
-  - [holcotwisdom](https://github.com/scta-texts/holcotwisdom): Last activity on 2026-07-18T15:28:07Z
-  - [ccc7yd](https://github.com/scta-texts/ccc7yd): Last activity on 2026-07-18T13:09:20Z
 
 ### Failing Repositories
 
