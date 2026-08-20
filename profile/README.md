@@ -6,8 +6,8 @@ Total Repositories: 273
 Passing Repositories: 95
 Failing Repositories: 33
 Repositories Without Workflows: 145
-Repositories With Recent Activity: 26
-Total Open Issues: 45
+Repositories With Recent Activity: 24
+Total Open Issues: 48
 Total Open Pull Requests: 56
 
 ### Repositories With Open Pull Requests
@@ -31,13 +31,13 @@ Total Open Pull Requests: 56
 ### Repositories With Open Issues
 
   - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
-  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 1 open issues
+  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
-  - [szstco](https://github.com/scta-texts/szstco/issues): 3 open issues
+  - [szstco](https://github.com/scta-texts/szstco/issues): 1 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
   - [bcg6es](https://github.com/scta-texts/bcg6es/issues): 6 open issues
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata/issues): 1 open issues
@@ -47,7 +47,7 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-08-18T02:57:41Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-08-19T03:01:03Z
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate): Last activity on 2026-08-16T17:04:40Z
   - [szduep](https://github.com/scta-texts/szduep): Last activity on 2026-08-16T04:32:40Z
   - [JM7jmZ](https://github.com/scta-texts/JM7jmZ): Last activity on 2026-08-13T15:24:47Z
@@ -71,8 +71,6 @@ Total Open Pull Requests: 56
   - [yyy8Uu](https://github.com/scta-texts/yyy8Uu): Last activity on 2026-07-21T15:54:58Z
   - [yth33t](https://github.com/scta-texts/yth33t): Last activity on 2026-07-21T15:34:30Z
   - [tgy5tz](https://github.com/scta-texts/tgy5tz): Last activity on 2026-07-21T15:30:46Z
-  - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2026-07-19T12:53:34Z
-  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-07-19T12:40:02Z
 
 ### Failing Repositories
 
