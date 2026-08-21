@@ -6,18 +6,18 @@ Total Repositories: 273
 Passing Repositories: 95
 Failing Repositories: 33
 Repositories Without Workflows: 145
-Repositories With Recent Activity: 24
+Repositories With Recent Activity: 25
 Total Open Issues: 48
 Total Open Pull Requests: 56
 
 ### Repositories With Open Pull Requests
 
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [yth33t](https://github.com/scta-texts/yth33t/pulls): 2 open pull requests
   - [tgy5tz](https://github.com/scta-texts/tgy5tz/pulls): 1 open pull requests
   - [cy8th8](https://github.com/scta-texts/cy8th8/pulls): 31 open pull requests
   - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 2 open pull requests
   - [v78d89](https://github.com/scta-texts/v78d89/pulls): 1 open pull requests
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
   - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
@@ -30,12 +30,12 @@ Total Open Pull Requests: 56
 
 ### Repositories With Open Issues
 
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 2 open issues
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 1 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
@@ -47,7 +47,8 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-08-19T03:01:03Z
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2026-08-20T13:36:43Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-08-20T02:57:19Z
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate): Last activity on 2026-08-16T17:04:40Z
   - [szduep](https://github.com/scta-texts/szduep): Last activity on 2026-08-16T04:32:40Z
   - [JM7jmZ](https://github.com/scta-texts/JM7jmZ): Last activity on 2026-08-13T15:24:47Z
