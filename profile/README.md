@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 273
-Passing Repositories: 96
-Failing Repositories: 32
+Passing Repositories: 97
+Failing Repositories: 31
 Repositories Without Workflows: 145
-Repositories With Recent Activity: 23
+Repositories With Recent Activity: 24
 Total Open Issues: 48
 Total Open Pull Requests: 56
 
@@ -47,11 +47,12 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-08-28T12:21:12Z
+  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-08-28T17:12:57Z
+  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-08-28T17:12:32Z
+  - [TAcCaj](https://github.com/scta-texts/TAcCaj): Last activity on 2026-08-28T17:08:23Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-08-28T13:51:54Z
   - [wWpoi1](https://github.com/scta-texts/wWpoi1): Last activity on 2026-08-28T12:14:05Z
-  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-08-28T11:27:37Z
   - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2026-08-27T23:34:41Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-08-27T12:24:32Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2026-08-20T13:36:43Z
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate): Last activity on 2026-08-16T17:04:40Z
   - [szduep](https://github.com/scta-texts/szduep): Last activity on 2026-08-16T04:32:40Z
@@ -83,7 +84,6 @@ Total Open Pull Requests: 56
   - [nqqq3t](https://github.com/scta-texts/nqqq3t/actions/workflows/validation.yml)
   - [v8naTA](https://github.com/scta-texts/v8naTA/actions/workflows/validation.yml)
   - [xAbSeN](https://github.com/scta-texts/xAbSeN/actions/workflows/validation.yml)
-  - [TAcCaj](https://github.com/scta-texts/TAcCaj/actions/workflows/validation.yml)
   - [gpza5l](https://github.com/scta-texts/gpza5l/actions/workflows/validation.yml)
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata/actions/workflows/validation.yml)
   - [la30px](https://github.com/scta-texts/la30px/actions/workflows/validation.yml)
