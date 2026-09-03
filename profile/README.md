@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 273
-Passing Repositories: 97
-Failing Repositories: 31
-Repositories Without Workflows: 145
-Repositories With Recent Activity: 19
+Passing Repositories: 99
+Failing Repositories: 30
+Repositories Without Workflows: 144
+Repositories With Recent Activity: 25
 Total Open Issues: 48
 Total Open Pull Requests: 56
 
@@ -47,8 +47,14 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-09-01T20:38:15Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-01T07:20:54Z
+  - [FrMQ88](https://github.com/scta-texts/FrMQ88): Last activity on 2026-09-02T21:04:59Z
+  - [gsX5tY](https://github.com/scta-texts/gsX5tY): Last activity on 2026-09-02T20:12:43Z
+  - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-09-02T19:22:56Z
+  - [wo8uy7](https://github.com/scta-texts/wo8uy7): Last activity on 2026-09-02T13:40:42Z
+  - [pdt7y6](https://github.com/scta-texts/pdt7y6): Last activity on 2026-09-02T13:40:18Z
+  - [qweqwe](https://github.com/scta-texts/qweqwe): Last activity on 2026-09-02T13:40:01Z
+  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-09-02T13:35:42Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-02T06:51:59Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-08-28T17:12:57Z
   - [TAcCaj](https://github.com/scta-texts/TAcCaj): Last activity on 2026-08-28T17:08:23Z
   - [wWpoi1](https://github.com/scta-texts/wWpoi1): Last activity on 2026-08-28T12:14:05Z
@@ -75,7 +81,6 @@ Total Open Pull Requests: 56
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
   - [q2sff7](https://github.com/scta-texts/q2sff7/actions/workflows/validation.yml)
   - [p3adpp](https://github.com/scta-texts/p3adpp/actions/workflows/validation.yml)
-  - [pdt7y6](https://github.com/scta-texts/pdt7y6/actions/workflows/validation.yml)
   - [nqqq3t](https://github.com/scta-texts/nqqq3t/actions/workflows/validation.yml)
   - [v8naTA](https://github.com/scta-texts/v8naTA/actions/workflows/validation.yml)
   - [xAbSeN](https://github.com/scta-texts/xAbSeN/actions/workflows/validation.yml)
@@ -114,7 +119,6 @@ Total Open Pull Requests: 56
   - [liberextra](https://github.com/scta-texts/liberextra)
   - [khj78y](https://github.com/scta-texts/khj78y)
   - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary)
-  - [wo8uy7](https://github.com/scta-texts/wo8uy7)
   - [beq3sc](https://github.com/scta-texts/beq3sc)
   - [hy7y6y](https://github.com/scta-texts/hy7y6y)
   - [bcg6es](https://github.com/scta-texts/bcg6es)
