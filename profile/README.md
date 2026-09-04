@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 273
-Passing Repositories: 99
-Failing Repositories: 30
+Passing Repositories: 97
+Failing Repositories: 32
 Repositories Without Workflows: 144
-Repositories With Recent Activity: 25
+Repositories With Recent Activity: 24
 Total Open Issues: 48
 Total Open Pull Requests: 56
 
@@ -47,6 +47,7 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-03T06:54:33Z
   - [FrMQ88](https://github.com/scta-texts/FrMQ88): Last activity on 2026-09-02T21:04:59Z
   - [gsX5tY](https://github.com/scta-texts/gsX5tY): Last activity on 2026-09-02T20:12:43Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-09-02T19:22:56Z
@@ -54,7 +55,6 @@ Total Open Pull Requests: 56
   - [pdt7y6](https://github.com/scta-texts/pdt7y6): Last activity on 2026-09-02T13:40:18Z
   - [qweqwe](https://github.com/scta-texts/qweqwe): Last activity on 2026-09-02T13:40:01Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-09-02T13:35:42Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-02T06:51:59Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-08-28T17:12:57Z
   - [TAcCaj](https://github.com/scta-texts/TAcCaj): Last activity on 2026-08-28T17:08:23Z
   - [wWpoi1](https://github.com/scta-texts/wWpoi1): Last activity on 2026-08-28T12:14:05Z
@@ -71,7 +71,6 @@ Total Open Pull Requests: 56
   - [jm3cbb](https://github.com/scta-texts/jm3cbb): Last activity on 2026-08-06T10:45:57Z
   - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-08-05T15:22:17Z
   - [jacs34](https://github.com/scta-texts/jacs34): Last activity on 2026-08-04T15:57:01Z
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-08-03T15:25:49Z
 
 ### Failing Repositories
 
@@ -79,6 +78,8 @@ Total Open Pull Requests: 56
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
+  - [cv8jk9](https://github.com/scta-texts/cv8jk9/actions/workflows/validation.yml)
+  - [zef3dd](https://github.com/scta-texts/zef3dd/actions/workflows/validation.yml)
   - [q2sff7](https://github.com/scta-texts/q2sff7/actions/workflows/validation.yml)
   - [p3adpp](https://github.com/scta-texts/p3adpp/actions/workflows/validation.yml)
   - [nqqq3t](https://github.com/scta-texts/nqqq3t/actions/workflows/validation.yml)
