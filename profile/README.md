@@ -30,8 +30,8 @@ Total Open Pull Requests: 56
 
 ### Repositories With Open Issues
 
-  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
@@ -47,15 +47,16 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-03T06:54:33Z
+  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2026-09-05T02:27:34Z
+  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-09-04T19:04:39Z
+  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-09-04T18:07:51Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-04T06:59:32Z
   - [FrMQ88](https://github.com/scta-texts/FrMQ88): Last activity on 2026-09-02T21:04:59Z
   - [gsX5tY](https://github.com/scta-texts/gsX5tY): Last activity on 2026-09-02T20:12:43Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-09-02T19:22:56Z
   - [wo8uy7](https://github.com/scta-texts/wo8uy7): Last activity on 2026-09-02T13:40:42Z
   - [pdt7y6](https://github.com/scta-texts/pdt7y6): Last activity on 2026-09-02T13:40:18Z
   - [qweqwe](https://github.com/scta-texts/qweqwe): Last activity on 2026-09-02T13:40:01Z
-  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-09-02T13:35:42Z
-  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-08-28T17:12:57Z
   - [TAcCaj](https://github.com/scta-texts/TAcCaj): Last activity on 2026-08-28T17:08:23Z
   - [wWpoi1](https://github.com/scta-texts/wWpoi1): Last activity on 2026-08-28T12:14:05Z
   - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2026-08-27T23:34:41Z
@@ -70,7 +71,6 @@ Total Open Pull Requests: 56
   - [UD1xh4](https://github.com/scta-texts/UD1xh4): Last activity on 2026-08-08T22:40:06Z
   - [jm3cbb](https://github.com/scta-texts/jm3cbb): Last activity on 2026-08-06T10:45:57Z
   - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-08-05T15:22:17Z
-  - [jacs34](https://github.com/scta-texts/jacs34): Last activity on 2026-08-04T15:57:01Z
 
 ### Failing Repositories
 
