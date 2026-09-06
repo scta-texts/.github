@@ -6,7 +6,7 @@ Total Repositories: 273
 Passing Repositories: 97
 Failing Repositories: 32
 Repositories Without Workflows: 144
-Repositories With Recent Activity: 24
+Repositories With Recent Activity: 23
 Total Open Issues: 48
 Total Open Pull Requests: 56
 
@@ -30,8 +30,8 @@ Total Open Pull Requests: 56
 
 ### Repositories With Open Issues
 
-  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
+  - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
@@ -47,10 +47,10 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2026-09-05T02:27:34Z
+  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2026-09-06T04:03:04Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-05T06:46:03Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-09-04T19:04:39Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-09-04T18:07:51Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-04T06:59:32Z
   - [FrMQ88](https://github.com/scta-texts/FrMQ88): Last activity on 2026-09-02T21:04:59Z
   - [gsX5tY](https://github.com/scta-texts/gsX5tY): Last activity on 2026-09-02T20:12:43Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-09-02T19:22:56Z
@@ -70,7 +70,6 @@ Total Open Pull Requests: 56
   - [grvnZZ](https://github.com/scta-texts/grvnZZ): Last activity on 2026-08-13T00:22:57Z
   - [UD1xh4](https://github.com/scta-texts/UD1xh4): Last activity on 2026-08-08T22:40:06Z
   - [jm3cbb](https://github.com/scta-texts/jm3cbb): Last activity on 2026-08-06T10:45:57Z
-  - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-08-05T15:22:17Z
 
 ### Failing Repositories
 
