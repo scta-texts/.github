@@ -6,7 +6,7 @@ Total Repositories: 273
 Passing Repositories: 100
 Failing Repositories: 32
 Repositories Without Workflows: 141
-Repositories With Recent Activity: 25
+Repositories With Recent Activity: 27
 Total Open Issues: 48
 Total Open Pull Requests: 56
 
@@ -47,11 +47,13 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
+  - [dcn2br](https://github.com/scta-texts/dcn2br): Last activity on 2026-09-07T15:37:07Z
+  - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2026-09-07T11:45:13Z
+  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2026-09-07T11:31:37Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-07T07:03:42Z
   - [khj78y](https://github.com/scta-texts/khj78y): Last activity on 2026-09-06T23:57:16Z
   - [kdhaWs](https://github.com/scta-texts/kdhaWs): Last activity on 2026-09-06T20:12:39Z
-  - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2026-09-06T18:40:58Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2026-09-06T18:39:36Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-06T06:54:02Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-09-04T19:04:39Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-09-04T18:07:51Z
   - [FrMQ88](https://github.com/scta-texts/FrMQ88): Last activity on 2026-09-02T21:04:59Z
