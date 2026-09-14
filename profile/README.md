@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 274
-Passing Repositories: 101
-Failing Repositories: 32
+Passing Repositories: 100
+Failing Repositories: 33
 Repositories Without Workflows: 141
-Repositories With Recent Activity: 26
+Repositories With Recent Activity: 23
 Total Open Issues: 48
 Total Open Pull Requests: 56
 
@@ -47,7 +47,7 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-12T06:57:41Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-13T07:15:56Z
   - [dcn2br](https://github.com/scta-texts/dcn2br): Last activity on 2026-09-12T00:36:15Z
   - [szdada](https://github.com/scta-texts/szdada): Last activity on 2026-09-10T20:52:37Z
   - [n3av8a](https://github.com/scta-texts/n3av8a): Last activity on 2026-09-09T21:11:44Z
@@ -70,9 +70,6 @@ Total Open Pull Requests: 56
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2026-08-20T13:36:43Z
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate): Last activity on 2026-08-16T17:04:40Z
   - [szduep](https://github.com/scta-texts/szduep): Last activity on 2026-08-16T04:32:40Z
-  - [JM7jmZ](https://github.com/scta-texts/JM7jmZ): Last activity on 2026-08-13T15:24:47Z
-  - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2026-08-13T15:04:19Z
-  - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2026-08-13T15:03:32Z
 
 ### Failing Repositories
 
@@ -80,6 +77,7 @@ Total Open Pull Requests: 56
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
+  - [glossaordinaria](https://github.com/scta-texts/glossaordinaria/actions/workflows/validation.yml)
   - [cv8jk9](https://github.com/scta-texts/cv8jk9/actions/workflows/validation.yml)
   - [zef3dd](https://github.com/scta-texts/zef3dd/actions/workflows/validation.yml)
   - [q2sff7](https://github.com/scta-texts/q2sff7/actions/workflows/validation.yml)
