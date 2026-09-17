@@ -2,8 +2,8 @@
 
 ## Summary Report
 
-Total Repositories: 274
-Passing Repositories: 100
+Total Repositories: 275
+Passing Repositories: 101
 Failing Repositories: 33
 Repositories Without Workflows: 141
 Repositories With Recent Activity: 22
@@ -47,8 +47,9 @@ Total Open Pull Requests: 56
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-15T07:16:49Z
-  - [dcn2br](https://github.com/scta-texts/dcn2br): Last activity on 2026-09-12T00:36:15Z
+  - [dcn2br](https://github.com/scta-texts/dcn2br): Last activity on 2026-09-16T21:44:29Z
+  - [gh7uyz](https://github.com/scta-texts/gh7uyz): Last activity on 2026-09-16T16:07:11Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-16T07:17:47Z
   - [szdada](https://github.com/scta-texts/szdada): Last activity on 2026-09-10T20:52:37Z
   - [n3av8a](https://github.com/scta-texts/n3av8a): Last activity on 2026-09-09T21:11:44Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2026-09-07T11:45:13Z
@@ -68,7 +69,6 @@ Total Open Pull Requests: 56
   - [wWpoi1](https://github.com/scta-texts/wWpoi1): Last activity on 2026-08-28T12:14:05Z
   - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2026-08-27T23:34:41Z
   - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2026-08-20T13:36:43Z
-  - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate): Last activity on 2026-08-16T17:04:40Z
 
 ### Failing Repositories
 
