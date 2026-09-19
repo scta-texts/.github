@@ -6,7 +6,7 @@ Total Repositories: 275
 Passing Repositories: 101
 Failing Repositories: 33
 Repositories Without Workflows: 141
-Repositories With Recent Activity: 23
+Repositories With Recent Activity: 24
 Total Open Issues: 48
 Total Open Pull Requests: 57
 
@@ -31,6 +31,7 @@ Total Open Pull Requests: 57
 
 ### Repositories With Open Issues
 
+  - [szstco](https://github.com/scta-texts/szstco/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
@@ -38,7 +39,6 @@ Total Open Pull Requests: 57
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 2 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
-  - [szstco](https://github.com/scta-texts/szstco/issues): 1 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 1 open issues
   - [bcg6es](https://github.com/scta-texts/bcg6es/issues): 6 open issues
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata/issues): 1 open issues
@@ -48,9 +48,10 @@ Total Open Pull Requests: 57
 
 ### Repositories With Recent Activity
 
+  - [szstco](https://github.com/scta-texts/szstco): Last activity on 2026-09-18T10:28:15Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-18T07:08:27Z
   - [szduep](https://github.com/scta-texts/szduep): Last activity on 2026-09-17T20:48:25Z
   - [dcn2br](https://github.com/scta-texts/dcn2br): Last activity on 2026-09-17T20:18:27Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-17T07:15:44Z
   - [gh7uyz](https://github.com/scta-texts/gh7uyz): Last activity on 2026-09-16T16:07:11Z
   - [szdada](https://github.com/scta-texts/szdada): Last activity on 2026-09-10T20:52:37Z
   - [n3av8a](https://github.com/scta-texts/n3av8a): Last activity on 2026-09-09T21:11:44Z
