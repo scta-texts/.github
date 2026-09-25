@@ -6,7 +6,7 @@ Total Repositories: 275
 Passing Repositories: 100
 Failing Repositories: 34
 Repositories Without Workflows: 141
-Repositories With Recent Activity: 26
+Repositories With Recent Activity: 30
 Total Open Issues: 48
 Total Open Pull Requests: 57
 
@@ -48,8 +48,13 @@ Total Open Pull Requests: 57
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-23T07:26:04Z
-  - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2026-09-21T12:51:22Z
+  - [bt67yj](https://github.com/scta-texts/bt67yj): Last activity on 2026-09-25T01:28:43Z
+  - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-09-24T17:24:07Z
+  - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-09-24T10:37:56Z
+  - [gsX5tY](https://github.com/scta-texts/gsX5tY): Last activity on 2026-09-24T10:34:15Z
+  - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-09-24T10:13:46Z
+  - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2026-09-24T10:04:49Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-24T07:15:44Z
   - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2026-09-21T12:24:44Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-09-21T12:24:09Z
   - [szstco](https://github.com/scta-texts/szstco): Last activity on 2026-09-18T10:28:15Z
@@ -66,7 +71,6 @@ Total Open Pull Requests: 57
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-09-04T19:04:39Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-09-04T18:07:51Z
   - [FrMQ88](https://github.com/scta-texts/FrMQ88): Last activity on 2026-09-02T21:04:59Z
-  - [gsX5tY](https://github.com/scta-texts/gsX5tY): Last activity on 2026-09-02T20:12:43Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-09-02T19:22:56Z
   - [wo8uy7](https://github.com/scta-texts/wo8uy7): Last activity on 2026-09-02T13:40:42Z
   - [pdt7y6](https://github.com/scta-texts/pdt7y6): Last activity on 2026-09-02T13:40:18Z
