@@ -2,11 +2,11 @@
 
 ## Summary Report
 
-Total Repositories: 275
-Passing Repositories: 100
+Total Repositories: 276
+Passing Repositories: 101
 Failing Repositories: 34
 Repositories Without Workflows: 141
-Repositories With Recent Activity: 30
+Repositories With Recent Activity: 32
 Total Open Issues: 48
 Total Open Pull Requests: 57
 
@@ -48,20 +48,22 @@ Total Open Pull Requests: 57
 
 ### Repositories With Recent Activity
 
-  - [bt67yj](https://github.com/scta-texts/bt67yj): Last activity on 2026-09-25T01:28:43Z
+  - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2026-09-26T01:11:44Z
+  - [szdada](https://github.com/scta-texts/szdada): Last activity on 2026-09-25T18:40:20Z
+  - [cax7ya](https://github.com/scta-texts/cax7ya): Last activity on 2026-09-25T17:46:07Z
+  - [bt67yj](https://github.com/scta-texts/bt67yj): Last activity on 2026-09-25T10:38:17Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-25T07:11:19Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-09-24T17:24:07Z
   - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-09-24T10:37:56Z
   - [gsX5tY](https://github.com/scta-texts/gsX5tY): Last activity on 2026-09-24T10:34:15Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-09-24T10:13:46Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2026-09-24T10:04:49Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-24T07:15:44Z
   - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2026-09-21T12:24:44Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-09-21T12:24:09Z
   - [szstco](https://github.com/scta-texts/szstco): Last activity on 2026-09-18T10:28:15Z
   - [szduep](https://github.com/scta-texts/szduep): Last activity on 2026-09-17T20:48:25Z
   - [dcn2br](https://github.com/scta-texts/dcn2br): Last activity on 2026-09-17T20:18:27Z
   - [gh7uyz](https://github.com/scta-texts/gh7uyz): Last activity on 2026-09-16T16:07:11Z
-  - [szdada](https://github.com/scta-texts/szdada): Last activity on 2026-09-10T20:52:37Z
   - [n3av8a](https://github.com/scta-texts/n3av8a): Last activity on 2026-09-09T21:11:44Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2026-09-07T11:45:13Z
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2026-09-07T11:31:37Z
