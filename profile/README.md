@@ -6,7 +6,7 @@ Total Repositories: 276
 Passing Repositories: 101
 Failing Repositories: 34
 Repositories Without Workflows: 141
-Repositories With Recent Activity: 32
+Repositories With Recent Activity: 31
 Total Open Issues: 48
 Total Open Pull Requests: 57
 
@@ -48,7 +48,7 @@ Total Open Pull Requests: 57
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-26T07:08:35Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-09-27T07:40:17Z
   - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2026-09-26T01:11:44Z
   - [szdada](https://github.com/scta-texts/szdada): Last activity on 2026-09-25T18:40:20Z
   - [cax7ya](https://github.com/scta-texts/cax7ya): Last activity on 2026-09-25T17:46:07Z
@@ -79,7 +79,6 @@ Total Open Pull Requests: 57
   - [qweqwe](https://github.com/scta-texts/qweqwe): Last activity on 2026-09-02T13:40:01Z
   - [TAcCaj](https://github.com/scta-texts/TAcCaj): Last activity on 2026-08-28T17:08:23Z
   - [wWpoi1](https://github.com/scta-texts/wWpoi1): Last activity on 2026-08-28T12:14:05Z
-  - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2026-08-27T23:34:41Z
 
 ### Failing Repositories
 
