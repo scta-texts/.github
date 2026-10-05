@@ -3,15 +3,16 @@
 ## Summary Report
 
 Total Repositories: 279
-Passing Repositories: 106
-Failing Repositories: 35
-Repositories Without Workflows: 138
-Repositories With Recent Activity: 42
+Passing Repositories: 108
+Failing Repositories: 34
+Repositories Without Workflows: 137
+Repositories With Recent Activity: 45
 Total Open Issues: 48
 Total Open Pull Requests: 57
 
 ### Repositories With Open Pull Requests
 
+  - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [gh7uyz](https://github.com/scta-texts/gh7uyz/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
@@ -21,7 +22,6 @@ Total Open Pull Requests: 57
   - [dc7aa7](https://github.com/scta-texts/dc7aa7/pulls): 2 open pull requests
   - [v78d89](https://github.com/scta-texts/v78d89/pulls): 1 open pull requests
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary/pulls): 1 open pull requests
-  - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
   - [azsw2e](https://github.com/scta-texts/azsw2e/pulls): 1 open pull requests
   - [p3adpp](https://github.com/scta-texts/p3adpp/pulls): 1 open pull requests
   - [p9i7y5](https://github.com/scta-texts/p9i7y5/pulls): 2 open pull requests
@@ -31,11 +31,11 @@ Total Open Pull Requests: 57
 
 ### Repositories With Open Issues
 
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
-  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 1 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 2 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
@@ -48,6 +48,13 @@ Total Open Pull Requests: 57
 
 ### Repositories With Recent Activity
 
+  - [szstco](https://github.com/scta-texts/szstco): Last activity on 2026-10-05T01:33:10Z
+  - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary): Last activity on 2026-10-05T01:23:38Z
+  - [cv8jk9](https://github.com/scta-texts/cv8jk9): Last activity on 2026-10-05T00:53:26Z
+  - [graciliscommentary](https://github.com/scta-texts/graciliscommentary): Last activity on 2026-10-05T00:34:33Z
+  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-10-04T20:21:29Z
+  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-10-04T16:54:07Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-04T07:51:08Z
   - [cax7ya](https://github.com/scta-texts/cax7ya): Last activity on 2026-10-03T19:58:36Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-10-03T15:02:12Z
   - [ol96b1](https://github.com/scta-texts/ol96b1): Last activity on 2026-10-03T14:47:58Z
@@ -59,7 +66,6 @@ Total Open Pull Requests: 57
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2026-10-03T13:46:30Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-10-03T13:35:08Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-10-03T13:31:49Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-03T07:40:51Z
   - [hx2hx3](https://github.com/scta-texts/hx2hx3): Last activity on 2026-10-03T00:12:29Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-02T23:45:43Z
   - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2026-10-02T18:14:03Z
@@ -79,7 +85,6 @@ Total Open Pull Requests: 57
   - [augustineretractionum](https://github.com/scta-texts/augustineretractionum): Last activity on 2026-09-30T13:03:25Z
   - [bnv67f](https://github.com/scta-texts/bnv67f): Last activity on 2026-09-30T12:19:45Z
   - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-09-24T10:37:56Z
-  - [szstco](https://github.com/scta-texts/szstco): Last activity on 2026-09-18T10:28:15Z
   - [dcn2br](https://github.com/scta-texts/dcn2br): Last activity on 2026-09-17T20:18:27Z
   - [gh7uyz](https://github.com/scta-texts/gh7uyz): Last activity on 2026-09-16T16:07:11Z
   - [n3av8a](https://github.com/scta-texts/n3av8a): Last activity on 2026-09-09T21:11:44Z
@@ -88,8 +93,6 @@ Total Open Pull Requests: 57
   - [khj78y](https://github.com/scta-texts/khj78y): Last activity on 2026-09-06T23:57:16Z
   - [kdhaWs](https://github.com/scta-texts/kdhaWs): Last activity on 2026-09-06T20:12:39Z
   - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2026-09-06T18:39:36Z
-  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-09-04T19:04:39Z
-  - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-09-04T18:07:51Z
 
 ### Failing Repositories
 
@@ -100,7 +103,6 @@ Total Open Pull Requests: 57
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/actions/workflows/validation.yml)
   - [y789tt](https://github.com/scta-texts/y789tt/actions/workflows/validation.yml)
   - [glossaordinaria](https://github.com/scta-texts/glossaordinaria/actions/workflows/validation.yml)
-  - [cv8jk9](https://github.com/scta-texts/cv8jk9/actions/workflows/validation.yml)
   - [zef3dd](https://github.com/scta-texts/zef3dd/actions/workflows/validation.yml)
   - [q2sff7](https://github.com/scta-texts/q2sff7/actions/workflows/validation.yml)
   - [p3adpp](https://github.com/scta-texts/p3adpp/actions/workflows/validation.yml)
@@ -137,7 +139,6 @@ Total Open Pull Requests: 57
   - [dionysiusangelica](https://github.com/scta-texts/dionysiusangelica)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary)
-  - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary)
   - [beq3sc](https://github.com/scta-texts/beq3sc)
   - [hy7y6y](https://github.com/scta-texts/hy7y6y)
   - [bcg6es](https://github.com/scta-texts/bcg6es)
