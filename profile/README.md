@@ -3,10 +3,10 @@
 ## Summary Report
 
 Total Repositories: 279
-Passing Repositories: 107
-Failing Repositories: 35
+Passing Repositories: 108
+Failing Repositories: 34
 Repositories Without Workflows: 137
-Repositories With Recent Activity: 46
+Repositories With Recent Activity: 43
 Total Open Issues: 48
 Total Open Pull Requests: 57
 
@@ -48,9 +48,9 @@ Total Open Pull Requests: 57
 
 ### Repositories With Recent Activity
 
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-05T19:55:06Z
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-06T21:56:03Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-06T08:38:51Z
   - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2026-10-05T10:32:00Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-05T08:25:11Z
   - [szstco](https://github.com/scta-texts/szstco): Last activity on 2026-10-05T01:33:10Z
   - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary): Last activity on 2026-10-05T01:23:38Z
   - [cv8jk9](https://github.com/scta-texts/cv8jk9): Last activity on 2026-10-05T00:53:26Z
@@ -91,13 +91,9 @@ Total Open Pull Requests: 57
   - [n3av8a](https://github.com/scta-texts/n3av8a): Last activity on 2026-09-09T21:11:44Z
   - [vn58an](https://github.com/scta-texts/vn58an): Last activity on 2026-09-07T11:45:13Z
   - [gratiandecretum](https://github.com/scta-texts/gratiandecretum): Last activity on 2026-09-07T11:31:37Z
-  - [khj78y](https://github.com/scta-texts/khj78y): Last activity on 2026-09-06T23:57:16Z
-  - [kdhaWs](https://github.com/scta-texts/kdhaWs): Last activity on 2026-09-06T20:12:39Z
-  - [liberextra](https://github.com/scta-texts/liberextra): Last activity on 2026-09-06T18:39:36Z
 
 ### Failing Repositories
 
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/actions/workflows/validation.yml)
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
