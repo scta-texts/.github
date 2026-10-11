@@ -6,7 +6,7 @@ Total Repositories: 279
 Passing Repositories: 108
 Failing Repositories: 34
 Repositories Without Workflows: 137
-Repositories With Recent Activity: 41
+Repositories With Recent Activity: 43
 Total Open Issues: 48
 Total Open Pull Requests: 57
 
@@ -31,8 +31,8 @@ Total Open Pull Requests: 57
 
 ### Repositories With Open Issues
 
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 1 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
@@ -48,11 +48,14 @@ Total Open Pull Requests: 57
 
 ### Repositories With Recent Activity
 
-  - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-10-09T17:07:20Z
+  - [olm8ij](https://github.com/scta-texts/olm8ij): Last activity on 2026-10-10T20:18:40Z
+  - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2026-10-10T19:59:37Z
+  - [jacs34](https://github.com/scta-texts/jacs34): Last activity on 2026-10-10T18:51:46Z
+  - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-10-10T16:34:32Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-10T08:11:20Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-09T17:04:35Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2026-10-09T15:50:24Z
   - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-10-09T15:50:21Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-09T08:35:56Z
   - [jm3cbb](https://github.com/scta-texts/jm3cbb): Last activity on 2026-10-08T20:14:43Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-10-08T19:47:34Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-10-08T19:21:13Z
@@ -72,7 +75,6 @@ Total Open Pull Requests: 57
   - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-10-03T13:57:35Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-10-03T13:35:08Z
   - [hx2hx3](https://github.com/scta-texts/hx2hx3): Last activity on 2026-10-03T00:12:29Z
-  - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2026-10-02T18:14:03Z
   - [pdt7y6](https://github.com/scta-texts/pdt7y6): Last activity on 2026-10-02T17:40:12Z
   - [wo8uy7](https://github.com/scta-texts/wo8uy7): Last activity on 2026-10-02T17:13:42Z
   - [x53goz](https://github.com/scta-texts/x53goz): Last activity on 2026-10-02T13:52:29Z
