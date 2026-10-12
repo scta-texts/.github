@@ -6,7 +6,7 @@ Total Repositories: 279
 Passing Repositories: 108
 Failing Repositories: 34
 Repositories Without Workflows: 137
-Repositories With Recent Activity: 43
+Repositories With Recent Activity: 46
 Total Open Issues: 48
 Total Open Pull Requests: 57
 
@@ -31,11 +31,11 @@ Total Open Pull Requests: 57
 
 ### Repositories With Open Issues
 
-  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 1 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 2 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
@@ -48,15 +48,19 @@ Total Open Pull Requests: 57
 
 ### Repositories With Recent Activity
 
+  - [alalal](https://github.com/scta-texts/alalal): Last activity on 2026-10-11T22:48:51Z
+  - [jm3cbb](https://github.com/scta-texts/jm3cbb): Last activity on 2026-10-11T22:33:28Z
+  - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary): Last activity on 2026-10-11T20:55:42Z
+  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-10-11T14:12:19Z
+  - [TAcCaj](https://github.com/scta-texts/TAcCaj): Last activity on 2026-10-11T13:46:20Z
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-11T13:21:17Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-11T08:22:54Z
   - [olm8ij](https://github.com/scta-texts/olm8ij): Last activity on 2026-10-10T20:18:40Z
   - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2026-10-10T19:59:37Z
   - [jacs34](https://github.com/scta-texts/jacs34): Last activity on 2026-10-10T18:51:46Z
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-10-10T16:34:32Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-10T08:11:20Z
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-09T17:04:35Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2026-10-09T15:50:24Z
   - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-10-09T15:50:21Z
-  - [jm3cbb](https://github.com/scta-texts/jm3cbb): Last activity on 2026-10-08T20:14:43Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-10-08T19:47:34Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-10-08T19:21:13Z
   - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2026-10-05T10:32:00Z
@@ -72,7 +76,6 @@ Total Open Pull Requests: 57
   - [bt67yj](https://github.com/scta-texts/bt67yj): Last activity on 2026-10-03T14:18:00Z
   - [D78nca](https://github.com/scta-texts/D78nca): Last activity on 2026-10-03T14:14:27Z
   - [gsX5tY](https://github.com/scta-texts/gsX5tY): Last activity on 2026-10-03T14:01:25Z
-  - [HuYgTa](https://github.com/scta-texts/HuYgTa): Last activity on 2026-10-03T13:57:35Z
   - [Gi9qrR](https://github.com/scta-texts/Gi9qrR): Last activity on 2026-10-03T13:35:08Z
   - [hx2hx3](https://github.com/scta-texts/hx2hx3): Last activity on 2026-10-03T00:12:29Z
   - [pdt7y6](https://github.com/scta-texts/pdt7y6): Last activity on 2026-10-02T17:40:12Z
@@ -131,9 +134,9 @@ Total Open Pull Requests: 57
 
 ### Repositories Without Workflows
 
+  - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [Cnyt3a](https://github.com/scta-texts/Cnyt3a)
   - [JRPxXx](https://github.com/scta-texts/JRPxXx)
-  - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary)
   - [dionysiusangelica](https://github.com/scta-texts/dionysiusangelica)
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum)
   - [plaoulcommentary](https://github.com/scta-texts/plaoulcommentary)
