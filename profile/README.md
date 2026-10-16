@@ -7,7 +7,7 @@ Passing Repositories: 111
 Failing Repositories: 31
 Repositories Without Workflows: 137
 Repositories With Recent Activity: 51
-Total Open Issues: 48
+Total Open Issues: 63
 Total Open Pull Requests: 57
 
 ### Repositories With Open Pull Requests
@@ -31,8 +31,10 @@ Total Open Pull Requests: 57
 
 ### Repositories With Open Issues
 
-  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
+  - [lombardsententia](https://github.com/scta-texts/lombardsententia/issues): 8 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
+  - [holcotcommentary](https://github.com/scta-texts/holcotcommentary/issues): 7 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 1 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
@@ -48,11 +50,11 @@ Total Open Pull Requests: 57
 
 ### Repositories With Recent Activity
 
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-16T00:54:51Z
+  - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-10-15T16:48:30Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-15T07:03:27Z
   - [augustineretractionum](https://github.com/scta-texts/augustineretractionum): Last activity on 2026-10-15T01:00:28Z
-  - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-10-14T17:32:25Z
   - [holcotcommentary](https://github.com/scta-texts/holcotcommentary): Last activity on 2026-10-14T13:40:17Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-14T07:11:39Z
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-13T19:45:23Z
   - [zef3dd](https://github.com/scta-texts/zef3dd): Last activity on 2026-10-13T11:27:38Z
   - [jMqv4a](https://github.com/scta-texts/jMqv4a): Last activity on 2026-10-12T18:41:55Z
   - [summahalensis](https://github.com/scta-texts/summahalensis): Last activity on 2026-10-12T18:40:34Z
