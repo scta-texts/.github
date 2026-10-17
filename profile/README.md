@@ -7,7 +7,7 @@ Passing Repositories: 111
 Failing Repositories: 31
 Repositories Without Workflows: 137
 Repositories With Recent Activity: 51
-Total Open Issues: 63
+Total Open Issues: 67
 Total Open Pull Requests: 57
 
 ### Repositories With Open Pull Requests
@@ -31,9 +31,10 @@ Total Open Pull Requests: 57
 
 ### Repositories With Open Issues
 
+  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum/issues): 4 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/issues): 8 open issues
-  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [holcotcommentary](https://github.com/scta-texts/holcotcommentary/issues): 7 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 1 open issues
@@ -50,10 +51,12 @@ Total Open Pull Requests: 57
 
 ### Repositories With Recent Activity
 
+  - [augustineretractionum](https://github.com/scta-texts/augustineretractionum): Last activity on 2026-10-16T18:22:40Z
+  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-10-16T18:21:37Z
+  - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-10-16T17:07:50Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-16T06:49:03Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-16T00:54:51Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-10-15T16:48:30Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-15T07:03:27Z
-  - [augustineretractionum](https://github.com/scta-texts/augustineretractionum): Last activity on 2026-10-15T01:00:28Z
   - [holcotcommentary](https://github.com/scta-texts/holcotcommentary): Last activity on 2026-10-14T13:40:17Z
   - [zef3dd](https://github.com/scta-texts/zef3dd): Last activity on 2026-10-13T11:27:38Z
   - [jMqv4a](https://github.com/scta-texts/jMqv4a): Last activity on 2026-10-12T18:41:55Z
@@ -70,7 +73,6 @@ Total Open Pull Requests: 57
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-10-10T16:34:32Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2026-10-09T15:50:24Z
   - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-10-09T15:50:21Z
-  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-10-08T19:47:34Z
   - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2026-10-05T10:32:00Z
   - [szstco](https://github.com/scta-texts/szstco): Last activity on 2026-10-05T01:33:10Z
   - [hiltalingencommentary](https://github.com/scta-texts/hiltalingencommentary): Last activity on 2026-10-05T01:23:38Z
@@ -100,7 +102,6 @@ Total Open Pull Requests: 57
   - [grvnZZ](https://github.com/scta-texts/grvnZZ): Last activity on 2026-10-01T10:11:33Z
   - [bnv67f](https://github.com/scta-texts/bnv67f): Last activity on 2026-09-30T12:19:45Z
   - [dcn2br](https://github.com/scta-texts/dcn2br): Last activity on 2026-09-17T20:18:27Z
-  - [gh7uyz](https://github.com/scta-texts/gh7uyz): Last activity on 2026-09-16T16:07:11Z
 
 ### Failing Repositories
 
