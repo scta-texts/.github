@@ -8,10 +8,11 @@ Failing Repositories: 31
 Repositories Without Workflows: 137
 Repositories With Recent Activity: 50
 Total Open Issues: 67
-Total Open Pull Requests: 58
+Total Open Pull Requests: 87
 
 ### Repositories With Open Pull Requests
 
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/pulls): 29 open pull requests
   - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
   - [cax7ya](https://github.com/scta-texts/cax7ya/pulls): 1 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
@@ -32,9 +33,9 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Issues
 
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum/issues): 4 open issues
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/issues): 8 open issues
   - [holcotcommentary](https://github.com/scta-texts/holcotcommentary/issues): 7 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
@@ -52,11 +53,11 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-18T07:02:12Z
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-20T00:37:40Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-19T07:23:06Z
   - [augustineretractionum](https://github.com/scta-texts/augustineretractionum): Last activity on 2026-10-16T18:22:40Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-10-16T18:21:37Z
   - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-10-16T17:07:50Z
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-16T00:54:51Z
   - [lombardsententia](https://github.com/scta-texts/lombardsententia): Last activity on 2026-10-15T16:48:30Z
   - [holcotcommentary](https://github.com/scta-texts/holcotcommentary): Last activity on 2026-10-14T13:40:17Z
   - [zef3dd](https://github.com/scta-texts/zef3dd): Last activity on 2026-10-13T11:27:38Z
