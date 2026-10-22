@@ -12,8 +12,8 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Pull Requests
 
-  - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
   - [cax7ya](https://github.com/scta-texts/cax7ya/pulls): 1 open pull requests
+  - [graciliscommentary](https://github.com/scta-texts/graciliscommentary/pulls): 1 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [gh7uyz](https://github.com/scta-texts/gh7uyz/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
@@ -32,8 +32,8 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Issues
 
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum/issues): 4 open issues
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/issues): 8 open issues
   - [holcotcommentary](https://github.com/scta-texts/holcotcommentary/issues): 7 open issues
@@ -52,8 +52,9 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
+  - [cax7ya](https://github.com/scta-texts/cax7ya): Last activity on 2026-10-21T20:40:22Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-21T07:09:24Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-20T09:44:48Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-20T07:14:12Z
   - [augustineretractionum](https://github.com/scta-texts/augustineretractionum): Last activity on 2026-10-16T18:22:40Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-10-16T18:21:37Z
   - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-10-16T17:07:50Z
@@ -81,7 +82,6 @@ Total Open Pull Requests: 58
   - [graciliscommentary](https://github.com/scta-texts/graciliscommentary): Last activity on 2026-10-05T00:34:33Z
   - [aw98wa](https://github.com/scta-texts/aw98wa): Last activity on 2026-10-04T20:21:29Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-10-04T16:54:07Z
-  - [cax7ya](https://github.com/scta-texts/cax7ya): Last activity on 2026-10-03T19:58:36Z
   - [ol96b1](https://github.com/scta-texts/ol96b1): Last activity on 2026-10-03T14:47:58Z
   - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2026-10-03T14:40:34Z
   - [bt67yj](https://github.com/scta-texts/bt67yj): Last activity on 2026-10-03T14:18:00Z
