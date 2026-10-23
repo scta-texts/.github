@@ -32,8 +32,8 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Issues
 
-  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 2 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum/issues): 4 open issues
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/issues): 8 open issues
   - [holcotcommentary](https://github.com/scta-texts/holcotcommentary/issues): 7 open issues
@@ -52,9 +52,9 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
+  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-22T20:33:51Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-22T07:10:50Z
   - [cax7ya](https://github.com/scta-texts/cax7ya): Last activity on 2026-10-21T20:40:22Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-21T07:09:24Z
-  - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-20T09:44:48Z
   - [augustineretractionum](https://github.com/scta-texts/augustineretractionum): Last activity on 2026-10-16T18:22:40Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-10-16T18:21:37Z
   - [TAca84](https://github.com/scta-texts/TAca84): Last activity on 2026-10-16T17:07:50Z
