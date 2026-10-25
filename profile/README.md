@@ -7,7 +7,7 @@ Passing Repositories: 110
 Failing Repositories: 32
 Repositories Without Workflows: 137
 Repositories With Recent Activity: 50
-Total Open Issues: 69
+Total Open Issues: 74
 Total Open Pull Requests: 59
 
 ### Repositories With Open Pull Requests
@@ -44,17 +44,22 @@ Total Open Pull Requests: 59
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 2 open issues
+  - [jsjasx](https://github.com/scta-texts/jsjasx/issues): 1 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 2 open issues
   - [bcg6es](https://github.com/scta-texts/bcg6es/issues): 6 open issues
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata/issues): 1 open issues
+  - [dionysiusecclesiastica](https://github.com/scta-texts/dionysiusecclesiastica/issues): 1 open issues
   - [p9i7y5](https://github.com/scta-texts/p9i7y5/issues): 3 open issues
   - [dor5dc](https://github.com/scta-texts/dor5dc/issues): 1 open issues
   - [hispanussummulaelogicales](https://github.com/scta-texts/hispanussummulaelogicales/issues): 1 open issues
+  - [lpokij](https://github.com/scta-texts/lpokij/issues): 1 open issues
+  - [ran7ae](https://github.com/scta-texts/ran7ae/issues): 1 open issues
+  - [da-199](https://github.com/scta-texts/da-199/issues): 1 open issues
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-23T07:03:52Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-24T06:57:01Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-22T20:33:51Z
   - [cax7ya](https://github.com/scta-texts/cax7ya): Last activity on 2026-10-21T20:40:22Z
   - [augustineretractionum](https://github.com/scta-texts/augustineretractionum): Last activity on 2026-10-16T18:22:40Z
