@@ -6,7 +6,7 @@ Total Repositories: 279
 Passing Repositories: 111
 Failing Repositories: 31
 Repositories Without Workflows: 137
-Repositories With Recent Activity: 49
+Repositories With Recent Activity: 43
 Total Open Issues: 79
 Total Open Pull Requests: 58
 
@@ -59,7 +59,7 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-10-31T08:03:42Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-01T09:47:01Z
   - [x53goz](https://github.com/scta-texts/x53goz): Last activity on 2026-10-28T15:06:22Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-10-28T01:25:00Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-26T13:10:11Z
@@ -102,12 +102,6 @@ Total Open Pull Requests: 58
   - [jm12w4](https://github.com/scta-texts/jm12w4): Last activity on 2026-10-02T13:27:56Z
   - [szduep](https://github.com/scta-texts/szduep): Last activity on 2026-10-02T12:50:17Z
   - [szdada](https://github.com/scta-texts/szdada): Last activity on 2026-10-02T12:07:40Z
-  - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei): Last activity on 2026-10-01T23:48:39Z
-  - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate): Last activity on 2026-10-01T21:49:12Z
-  - [augustineconfessiones](https://github.com/scta-texts/augustineconfessiones): Last activity on 2026-10-01T19:45:47Z
-  - [szthvi](https://github.com/scta-texts/szthvi): Last activity on 2026-10-01T11:36:43Z
-  - [at8va9](https://github.com/scta-texts/at8va9): Last activity on 2026-10-01T10:18:28Z
-  - [grvnZZ](https://github.com/scta-texts/grvnZZ): Last activity on 2026-10-01T10:11:33Z
 
 ### Failing Repositories
 
