@@ -6,7 +6,7 @@ Total Repositories: 280
 Passing Repositories: 112
 Failing Repositories: 31
 Repositories Without Workflows: 137
-Repositories With Recent Activity: 27
+Repositories With Recent Activity: 26
 Total Open Issues: 79
 Total Open Pull Requests: 58
 
@@ -32,8 +32,8 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Issues
 
-  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [GHYaf3](https://github.com/scta-texts/GHYaf3/issues): 1 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 6 open issues
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum/issues): 4 open issues
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/issues): 8 open issues
@@ -59,10 +59,10 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
+  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-11-05T19:19:09Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-05T09:02:50Z
   - [capsco](https://github.com/scta-texts/capsco): Last activity on 2026-11-05T01:54:32Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-04T08:42:12Z
   - [x53goz](https://github.com/scta-texts/x53goz): Last activity on 2026-10-28T15:06:22Z
-  - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-10-28T01:25:00Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-26T13:10:11Z
   - [cax7ya](https://github.com/scta-texts/cax7ya): Last activity on 2026-10-21T20:40:22Z
   - [augustineretractionum](https://github.com/scta-texts/augustineretractionum): Last activity on 2026-10-16T18:22:40Z
@@ -85,7 +85,6 @@ Total Open Pull Requests: 58
   - [FrMS88](https://github.com/scta-texts/FrMS88): Last activity on 2026-10-10T16:34:32Z
   - [jsnvu6](https://github.com/scta-texts/jsnvu6): Last activity on 2026-10-09T15:50:24Z
   - [gbs333](https://github.com/scta-texts/gbs333): Last activity on 2026-10-09T15:50:21Z
-  - [jb2v19](https://github.com/scta-texts/jb2v19): Last activity on 2026-10-05T10:32:00Z
 
 ### Failing Repositories
 
