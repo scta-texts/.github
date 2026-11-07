@@ -2,11 +2,11 @@
 
 ## Summary Report
 
-Total Repositories: 280
+Total Repositories: 281
 Passing Repositories: 112
-Failing Repositories: 31
+Failing Repositories: 32
 Repositories Without Workflows: 137
-Repositories With Recent Activity: 26
+Repositories With Recent Activity: 27
 Total Open Issues: 79
 Total Open Pull Requests: 58
 
@@ -32,8 +32,8 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Issues
 
-  - [GHYaf3](https://github.com/scta-texts/GHYaf3/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
+  - [GHYaf3](https://github.com/scta-texts/GHYaf3/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 6 open issues
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum/issues): 4 open issues
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/issues): 8 open issues
@@ -59,8 +59,9 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
+  - [ogytbr](https://github.com/scta-texts/ogytbr): Last activity on 2026-11-06T16:08:44Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-06T08:59:46Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-11-05T19:19:09Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-05T09:02:50Z
   - [capsco](https://github.com/scta-texts/capsco): Last activity on 2026-11-05T01:54:32Z
   - [x53goz](https://github.com/scta-texts/x53goz): Last activity on 2026-10-28T15:06:22Z
   - [kzz7yh](https://github.com/scta-texts/kzz7yh): Last activity on 2026-10-26T13:10:11Z
@@ -88,6 +89,7 @@ Total Open Pull Requests: 58
 
 ### Failing Repositories
 
+  - [ogytbr](https://github.com/scta-texts/ogytbr/actions/workflows/validation.yml)
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
