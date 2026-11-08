@@ -6,7 +6,7 @@ Total Repositories: 281
 Passing Repositories: 112
 Failing Repositories: 32
 Repositories Without Workflows: 137
-Repositories With Recent Activity: 27
+Repositories With Recent Activity: 28
 Total Open Issues: 79
 Total Open Pull Requests: 58
 
@@ -32,6 +32,7 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Issues
 
+  - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 2 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [GHYaf3](https://github.com/scta-texts/GHYaf3/issues): 1 open issues
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 6 open issues
@@ -46,7 +47,6 @@ Total Open Pull Requests: 58
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 2 open issues
   - [jsjasx](https://github.com/scta-texts/jsjasx/issues): 1 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
-  - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 2 open issues
   - [bcg6es](https://github.com/scta-texts/bcg6es/issues): 6 open issues
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata/issues): 1 open issues
   - [dionysiusecclesiastica](https://github.com/scta-texts/dionysiusecclesiastica/issues): 1 open issues
@@ -59,8 +59,9 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
+  - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia): Last activity on 2026-11-07T21:14:24Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-07T08:24:21Z
   - [ogytbr](https://github.com/scta-texts/ogytbr): Last activity on 2026-11-06T16:08:44Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-06T08:59:46Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-11-05T19:19:09Z
   - [capsco](https://github.com/scta-texts/capsco): Last activity on 2026-11-05T01:54:32Z
   - [x53goz](https://github.com/scta-texts/x53goz): Last activity on 2026-10-28T15:06:22Z
@@ -89,11 +90,11 @@ Total Open Pull Requests: 58
 
 ### Failing Repositories
 
-  - [ogytbr](https://github.com/scta-texts/ogytbr/actions/workflows/validation.yml)
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
+  - [ogytbr](https://github.com/scta-texts/ogytbr/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [aristotledephysica](https://github.com/scta-texts/aristotledephysica/actions/workflows/validation.yml)
-  - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/actions/workflows/validation.yml)
+  - [azsw2e](https://github.com/scta-texts/azsw2e/actions/workflows/validation.yml)
   - [y789tt](https://github.com/scta-texts/y789tt/actions/workflows/validation.yml)
   - [glossaordinaria](https://github.com/scta-texts/glossaordinaria/actions/workflows/validation.yml)
   - [q2sff7](https://github.com/scta-texts/q2sff7/actions/workflows/validation.yml)
