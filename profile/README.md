@@ -3,11 +3,11 @@
 ## Summary Report
 
 Total Repositories: 281
-Passing Repositories: 102
-Failing Repositories: 42
+Passing Repositories: 100
+Failing Repositories: 44
 Repositories Without Workflows: 137
 Repositories With Recent Activity: 75
-Total Open Issues: 79
+Total Open Issues: 81
 Total Open Pull Requests: 58
 
 ### Repositories With Open Pull Requests
@@ -32,6 +32,8 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Issues
 
+  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum/issues): 6 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 1 open issues
   - [summahalensis](https://github.com/scta-texts/summahalensis/issues): 1 open issues
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/issues): 8 open issues
@@ -39,8 +41,6 @@ Total Open Pull Requests: 58
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [holcotcommentary](https://github.com/scta-texts/holcotcommentary/issues): 7 open issues
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
-  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum/issues): 4 open issues
-  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 2 open issues
   - [GHYaf3](https://github.com/scta-texts/GHYaf3/issues): 1 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
@@ -59,6 +59,9 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
+  - [capsco](https://github.com/scta-texts/capsco): Last activity on 2026-11-09T13:51:34Z
+  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-11-09T12:31:21Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-09T09:12:31Z
   - [FrMQ88](https://github.com/scta-texts/FrMQ88): Last activity on 2026-11-08T12:28:01Z
   - [tavaz1](https://github.com/scta-texts/tavaz1): Last activity on 2026-11-08T12:27:28Z
   - [oooo3o](https://github.com/scta-texts/oooo3o): Last activity on 2026-11-08T12:27:16Z
@@ -121,14 +124,11 @@ Total Open Pull Requests: 58
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei): Last activity on 2026-11-08T12:15:17Z
   - [augustineconfessiones](https://github.com/scta-texts/augustineconfessiones): Last activity on 2026-11-08T12:15:16Z
   - [at8va9](https://github.com/scta-texts/at8va9): Last activity on 2026-11-08T12:15:14Z
-  - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-11-08T12:15:12Z
   - [Almn78](https://github.com/scta-texts/Almn78): Last activity on 2026-11-08T12:15:10Z
   - [alalal](https://github.com/scta-texts/alalal): Last activity on 2026-11-08T12:15:08Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-08T08:41:52Z
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia): Last activity on 2026-11-07T21:14:24Z
   - [ogytbr](https://github.com/scta-texts/ogytbr): Last activity on 2026-11-06T16:08:44Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-11-05T19:19:09Z
-  - [capsco](https://github.com/scta-texts/capsco): Last activity on 2026-11-05T01:54:32Z
   - [x53goz](https://github.com/scta-texts/x53goz): Last activity on 2026-10-28T15:06:22Z
   - [cax7ya](https://github.com/scta-texts/cax7ya): Last activity on 2026-10-21T20:40:22Z
   - [augustineretractionum](https://github.com/scta-texts/augustineretractionum): Last activity on 2026-10-16T18:22:40Z
@@ -137,11 +137,13 @@ Total Open Pull Requests: 58
 
 ### Failing Repositories
 
+  - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
   - [ol96b1](https://github.com/scta-texts/ol96b1/actions/workflows/validation.yml)
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
-  - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
   - [ogytbr](https://github.com/scta-texts/ogytbr/actions/workflows/validation.yml)
+  - [bplext](https://github.com/scta-texts/bplext/actions/workflows/validation.yml)
+  - [JMAet9](https://github.com/scta-texts/JMAet9/actions/workflows/validation.yml)
   - [nyf6td](https://github.com/scta-texts/nyf6td/actions/workflows/validation.yml)
   - [juh67y](https://github.com/scta-texts/juh67y/actions/workflows/validation.yml)
   - [xch7dn](https://github.com/scta-texts/xch7dn/actions/workflows/validation.yml)
