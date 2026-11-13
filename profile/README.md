@@ -7,7 +7,7 @@ Passing Repositories: 106
 Failing Repositories: 38
 Repositories Without Workflows: 137
 Repositories With Recent Activity: 76
-Total Open Issues: 82
+Total Open Issues: 85
 Total Open Pull Requests: 59
 
 ### Repositories With Open Pull Requests
@@ -33,10 +33,11 @@ Total Open Pull Requests: 59
 
 ### Repositories With Open Issues
 
+  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [GHYaf3](https://github.com/scta-texts/GHYaf3/issues): 1 open issues
   - [qrdBas](https://github.com/scta-texts/qrdBas/issues): 1 open issues
-  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum/issues): 6 open issues
+  - [Z4Yt34](https://github.com/scta-texts/Z4Yt34/issues): 3 open issues
   - [szstco](https://github.com/scta-texts/szstco/issues): 1 open issues
   - [summahalensis](https://github.com/scta-texts/summahalensis/issues): 1 open issues
   - [lombardsententia](https://github.com/scta-texts/lombardsententia/issues): 8 open issues
@@ -61,11 +62,11 @@ Total Open Pull Requests: 59
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-12T09:22:05Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-11-12T01:48:23Z
   - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2026-11-12T01:35:06Z
   - [wN2gEA](https://github.com/scta-texts/wN2gEA): Last activity on 2026-11-11T14:56:54Z
   - [ctd99a](https://github.com/scta-texts/ctd99a): Last activity on 2026-11-11T14:55:10Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-11T08:55:39Z
   - [v78d89](https://github.com/scta-texts/v78d89): Last activity on 2026-11-10T21:44:25Z
   - [capsco](https://github.com/scta-texts/capsco): Last activity on 2026-11-09T13:51:34Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-11-09T12:31:21Z
