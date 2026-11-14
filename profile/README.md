@@ -2,12 +2,12 @@
 
 ## Summary Report
 
-Total Repositories: 281
-Passing Repositories: 106
+Total Repositories: 282
+Passing Repositories: 107
 Failing Repositories: 38
 Repositories Without Workflows: 137
-Repositories With Recent Activity: 76
-Total Open Issues: 85
+Repositories With Recent Activity: 77
+Total Open Issues: 86
 Total Open Pull Requests: 59
 
 ### Repositories With Open Pull Requests
@@ -33,6 +33,7 @@ Total Open Pull Requests: 59
 
 ### Repositories With Open Issues
 
+  - [ho8ccf](https://github.com/scta-texts/ho8ccf/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [GHYaf3](https://github.com/scta-texts/GHYaf3/issues): 1 open issues
   - [qrdBas](https://github.com/scta-texts/qrdBas/issues): 1 open issues
@@ -62,7 +63,8 @@ Total Open Pull Requests: 59
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-12T09:22:05Z
+  - [ho8ccf](https://github.com/scta-texts/ho8ccf): Last activity on 2026-11-14T04:00:30Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-13T09:10:30Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-11-12T01:48:23Z
   - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2026-11-12T01:35:06Z
   - [wN2gEA](https://github.com/scta-texts/wN2gEA): Last activity on 2026-11-11T14:56:54Z
