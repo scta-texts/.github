@@ -2,11 +2,11 @@
 
 ## Summary Report
 
-Total Repositories: 282
-Passing Repositories: 107
-Failing Repositories: 38
+Total Repositories: 285
+Passing Repositories: 109
+Failing Repositories: 39
 Repositories Without Workflows: 137
-Repositories With Recent Activity: 77
+Repositories With Recent Activity: 82
 Total Open Issues: 86
 Total Open Pull Requests: 59
 
@@ -33,8 +33,8 @@ Total Open Pull Requests: 59
 
 ### Repositories With Open Issues
 
-  - [ho8ccf](https://github.com/scta-texts/ho8ccf/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
+  - [ho8ccf](https://github.com/scta-texts/ho8ccf/issues): 1 open issues
   - [GHYaf3](https://github.com/scta-texts/GHYaf3/issues): 1 open issues
   - [qrdBas](https://github.com/scta-texts/qrdBas/issues): 1 open issues
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum/issues): 6 open issues
@@ -63,8 +63,13 @@ Total Open Pull Requests: 59
 
 ### Repositories With Recent Activity
 
+  - [mm30o9](https://github.com/scta-texts/mm30o9): Last activity on 2026-11-14T19:54:12Z
+  - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2026-11-14T19:54:10Z
+  - [hicjds](https://github.com/scta-texts/hicjds): Last activity on 2026-11-14T19:28:37Z
+  - [pondsc](https://github.com/scta-texts/pondsc): Last activity on 2026-11-14T18:34:31Z
+  - [bptdom](https://github.com/scta-texts/bptdom): Last activity on 2026-11-14T15:38:03Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-14T08:41:51Z
   - [ho8ccf](https://github.com/scta-texts/ho8ccf): Last activity on 2026-11-14T04:00:30Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-13T09:10:30Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-11-12T01:48:23Z
   - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2026-11-12T01:35:06Z
   - [wN2gEA](https://github.com/scta-texts/wN2gEA): Last activity on 2026-11-11T14:56:54Z
@@ -146,6 +151,7 @@ Total Open Pull Requests: 59
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [cax7ya](https://github.com/scta-texts/cax7ya/actions/workflows/validation.yml)
+  - [cnag1q](https://github.com/scta-texts/cnag1q/actions/workflows/validation.yml)
   - [bplext](https://github.com/scta-texts/bplext/actions/workflows/validation.yml)
   - [JMAet9](https://github.com/scta-texts/JMAet9/actions/workflows/validation.yml)
   - [nyf6td](https://github.com/scta-texts/nyf6td/actions/workflows/validation.yml)
