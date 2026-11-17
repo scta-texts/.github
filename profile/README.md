@@ -6,8 +6,8 @@ Total Repositories: 285
 Passing Repositories: 106
 Failing Repositories: 42
 Repositories Without Workflows: 137
-Repositories With Recent Activity: 82
-Total Open Issues: 86
+Repositories With Recent Activity: 81
+Total Open Issues: 90
 Total Open Pull Requests: 58
 
 ### Repositories With Open Pull Requests
@@ -49,6 +49,7 @@ Total Open Pull Requests: 58
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 2 open issues
   - [jsjasx](https://github.com/scta-texts/jsjasx/issues): 1 open issues
+  - [bible](https://github.com/scta-texts/bible/issues): 4 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [bcg6es](https://github.com/scta-texts/bcg6es/issues): 6 open issues
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata/issues): 1 open issues
@@ -62,7 +63,7 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-15T08:53:59Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-16T09:06:27Z
   - [mm30o9](https://github.com/scta-texts/mm30o9): Last activity on 2026-11-14T19:54:12Z
   - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2026-11-14T19:54:10Z
   - [hicjds](https://github.com/scta-texts/hicjds): Last activity on 2026-11-14T19:28:37Z
@@ -143,7 +144,6 @@ Total Open Pull Requests: 58
   - [ogytbr](https://github.com/scta-texts/ogytbr): Last activity on 2026-11-06T16:08:44Z
   - [x53goz](https://github.com/scta-texts/x53goz): Last activity on 2026-10-28T15:06:22Z
   - [cax7ya](https://github.com/scta-texts/cax7ya): Last activity on 2026-10-21T20:40:22Z
-  - [augustineretractionum](https://github.com/scta-texts/augustineretractionum): Last activity on 2026-10-16T18:22:40Z
 
 ### Failing Repositories
 
