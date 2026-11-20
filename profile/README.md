@@ -7,7 +7,7 @@ Passing Repositories: 106
 Failing Repositories: 42
 Repositories Without Workflows: 137
 Repositories With Recent Activity: 81
-Total Open Issues: 90
+Total Open Issues: 91
 Total Open Pull Requests: 58
 
 ### Repositories With Open Pull Requests
@@ -32,8 +32,8 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Issues
 
-  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [ho8ccf](https://github.com/scta-texts/ho8ccf/issues): 1 open issues
+  - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [GHYaf3](https://github.com/scta-texts/GHYaf3/issues): 1 open issues
   - [qrdBas](https://github.com/scta-texts/qrdBas/issues): 1 open issues
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum/issues): 6 open issues
@@ -49,7 +49,7 @@ Total Open Pull Requests: 58
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 2 open issues
   - [jsjasx](https://github.com/scta-texts/jsjasx/issues): 1 open issues
-  - [bible](https://github.com/scta-texts/bible/issues): 4 open issues
+  - [bible](https://github.com/scta-texts/bible/issues): 5 open issues
   - [manipulusflorum](https://github.com/scta-texts/manipulusflorum/issues): 2 open issues
   - [bcg6es](https://github.com/scta-texts/bcg6es/issues): 6 open issues
   - [hispanussyncategoreumata](https://github.com/scta-texts/hispanussyncategoreumata/issues): 1 open issues
@@ -63,18 +63,18 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-18T09:48:38Z
+  - [ho8ccf](https://github.com/scta-texts/ho8ccf): Last activity on 2026-11-19T20:16:15Z
+  - [bptdom](https://github.com/scta-texts/bptdom): Last activity on 2026-11-19T11:20:10Z
+  - [v78d89](https://github.com/scta-texts/v78d89): Last activity on 2026-11-19T10:29:35Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-19T09:59:00Z
   - [mm30o9](https://github.com/scta-texts/mm30o9): Last activity on 2026-11-14T19:54:12Z
   - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2026-11-14T19:54:10Z
   - [hicjds](https://github.com/scta-texts/hicjds): Last activity on 2026-11-14T19:28:37Z
   - [pondsc](https://github.com/scta-texts/pondsc): Last activity on 2026-11-14T18:34:31Z
-  - [bptdom](https://github.com/scta-texts/bptdom): Last activity on 2026-11-14T15:38:03Z
-  - [ho8ccf](https://github.com/scta-texts/ho8ccf): Last activity on 2026-11-14T04:00:30Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-11-12T01:48:23Z
   - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2026-11-12T01:35:06Z
   - [wN2gEA](https://github.com/scta-texts/wN2gEA): Last activity on 2026-11-11T14:56:54Z
   - [ctd99a](https://github.com/scta-texts/ctd99a): Last activity on 2026-11-11T14:55:10Z
-  - [v78d89](https://github.com/scta-texts/v78d89): Last activity on 2026-11-10T21:44:25Z
   - [capsco](https://github.com/scta-texts/capsco): Last activity on 2026-11-09T13:51:34Z
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum): Last activity on 2026-11-09T12:31:21Z
   - [FrMQ88](https://github.com/scta-texts/FrMQ88): Last activity on 2026-11-08T12:28:01Z
