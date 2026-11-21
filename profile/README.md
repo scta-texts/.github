@@ -32,8 +32,8 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Issues
 
-  - [ho8ccf](https://github.com/scta-texts/ho8ccf/issues): 1 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
+  - [ho8ccf](https://github.com/scta-texts/ho8ccf/issues): 1 open issues
   - [GHYaf3](https://github.com/scta-texts/GHYaf3/issues): 1 open issues
   - [qrdBas](https://github.com/scta-texts/qrdBas/issues): 1 open issues
   - [aquinasscriptum](https://github.com/scta-texts/aquinasscriptum/issues): 6 open issues
@@ -63,13 +63,13 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
+  - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2026-11-21T00:34:25Z
+  - [hicjds](https://github.com/scta-texts/hicjds): Last activity on 2026-11-21T00:16:38Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-20T09:45:05Z
   - [ho8ccf](https://github.com/scta-texts/ho8ccf): Last activity on 2026-11-19T20:16:15Z
   - [bptdom](https://github.com/scta-texts/bptdom): Last activity on 2026-11-19T11:20:10Z
   - [v78d89](https://github.com/scta-texts/v78d89): Last activity on 2026-11-19T10:29:35Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-19T09:59:00Z
   - [mm30o9](https://github.com/scta-texts/mm30o9): Last activity on 2026-11-14T19:54:12Z
-  - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2026-11-14T19:54:10Z
-  - [hicjds](https://github.com/scta-texts/hicjds): Last activity on 2026-11-14T19:28:37Z
   - [pondsc](https://github.com/scta-texts/pondsc): Last activity on 2026-11-14T18:34:31Z
   - [GHYaf3](https://github.com/scta-texts/GHYaf3): Last activity on 2026-11-12T01:48:23Z
   - [qrdBas](https://github.com/scta-texts/qrdBas): Last activity on 2026-11-12T01:35:06Z
