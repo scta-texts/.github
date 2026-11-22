@@ -2,11 +2,11 @@
 
 ## Summary Report
 
-Total Repositories: 285
-Passing Repositories: 106
+Total Repositories: 287
+Passing Repositories: 108
 Failing Repositories: 42
 Repositories Without Workflows: 137
-Repositories With Recent Activity: 81
+Repositories With Recent Activity: 82
 Total Open Issues: 91
 Total Open Pull Requests: 58
 
@@ -63,9 +63,11 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
-  - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2026-11-21T00:34:25Z
-  - [hicjds](https://github.com/scta-texts/hicjds): Last activity on 2026-11-21T00:16:38Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-20T09:45:05Z
+  - [dds99a](https://github.com/scta-texts/dds99a): Last activity on 2026-11-21T23:14:21Z
+  - [dds8ng](https://github.com/scta-texts/dds8ng): Last activity on 2026-11-21T23:13:37Z
+  - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2026-11-21T12:42:18Z
+  - [hicjds](https://github.com/scta-texts/hicjds): Last activity on 2026-11-21T12:41:52Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-21T09:18:00Z
   - [ho8ccf](https://github.com/scta-texts/ho8ccf): Last activity on 2026-11-19T20:16:15Z
   - [bptdom](https://github.com/scta-texts/bptdom): Last activity on 2026-11-19T11:20:10Z
   - [v78d89](https://github.com/scta-texts/v78d89): Last activity on 2026-11-19T10:29:35Z
@@ -143,7 +145,6 @@ Total Open Pull Requests: 58
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia): Last activity on 2026-11-07T21:14:24Z
   - [ogytbr](https://github.com/scta-texts/ogytbr): Last activity on 2026-11-06T16:08:44Z
   - [x53goz](https://github.com/scta-texts/x53goz): Last activity on 2026-10-28T15:06:22Z
-  - [cax7ya](https://github.com/scta-texts/cax7ya): Last activity on 2026-10-21T20:40:22Z
 
 ### Failing Repositories
 
