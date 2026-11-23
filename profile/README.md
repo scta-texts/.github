@@ -63,11 +63,11 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-22T09:26:55Z
   - [dds99a](https://github.com/scta-texts/dds99a): Last activity on 2026-11-21T23:14:21Z
   - [dds8ng](https://github.com/scta-texts/dds8ng): Last activity on 2026-11-21T23:13:37Z
   - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2026-11-21T12:42:18Z
   - [hicjds](https://github.com/scta-texts/hicjds): Last activity on 2026-11-21T12:41:52Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-21T09:18:00Z
   - [ho8ccf](https://github.com/scta-texts/ho8ccf): Last activity on 2026-11-19T20:16:15Z
   - [bptdom](https://github.com/scta-texts/bptdom): Last activity on 2026-11-19T11:20:10Z
   - [v78d89](https://github.com/scta-texts/v78d89): Last activity on 2026-11-19T10:29:35Z
