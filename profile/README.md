@@ -2,11 +2,11 @@
 
 ## Summary Report
 
-Total Repositories: 287
+Total Repositories: 288
 Passing Repositories: 108
-Failing Repositories: 42
+Failing Repositories: 43
 Repositories Without Workflows: 137
-Repositories With Recent Activity: 82
+Repositories With Recent Activity: 83
 Total Open Issues: 91
 Total Open Pull Requests: 58
 
@@ -63,7 +63,8 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-25T10:58:53Z
+  - [ddsliv](https://github.com/scta-texts/ddsliv): Last activity on 2026-11-26T16:03:12Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-26T10:33:34Z
   - [dds99a](https://github.com/scta-texts/dds99a): Last activity on 2026-11-21T23:14:21Z
   - [dds8ng](https://github.com/scta-texts/dds8ng): Last activity on 2026-11-21T23:13:37Z
   - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2026-11-21T12:42:18Z
@@ -151,6 +152,7 @@ Total Open Pull Requests: 58
   - [.github](https://github.com/scta-texts/.github/actions/workflows/validation.yml)
   - [grvnZZ](https://github.com/scta-texts/grvnZZ/actions/workflows/validation.yml)
   - [cax7ya](https://github.com/scta-texts/cax7ya/actions/workflows/validation.yml)
+  - [hxpdpd](https://github.com/scta-texts/hxpdpd/actions/workflows/validation.yml)
   - [ferv7a](https://github.com/scta-texts/ferv7a/actions/workflows/validation.yml)
   - [aldx7s](https://github.com/scta-texts/aldx7s/actions/workflows/validation.yml)
   - [v27ab7](https://github.com/scta-texts/v27ab7/actions/workflows/validation.yml)
