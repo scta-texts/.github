@@ -7,13 +7,13 @@ Passing Repositories: 108
 Failing Repositories: 43
 Repositories Without Workflows: 137
 Repositories With Recent Activity: 83
-Total Open Issues: 91
+Total Open Issues: 92
 Total Open Pull Requests: 58
 
 ### Repositories With Open Pull Requests
 
-  - [v78d89](https://github.com/scta-texts/v78d89/pulls): 1 open pull requests
   - [bHY6yh](https://github.com/scta-texts/bHY6yh/pulls): 6 open pull requests
+  - [v78d89](https://github.com/scta-texts/v78d89/pulls): 1 open pull requests
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei/pulls): 4 open pull requests
   - [x53goz](https://github.com/scta-texts/x53goz/pulls): 1 open pull requests
   - [cax7ya](https://github.com/scta-texts/cax7ya/pulls): 1 open pull requests
@@ -32,6 +32,7 @@ Total Open Pull Requests: 58
 
 ### Repositories With Open Issues
 
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [.github](https://github.com/scta-texts/.github/issues): 18 open issues
   - [ho8ccf](https://github.com/scta-texts/ho8ccf/issues): 1 open issues
   - [GHYaf3](https://github.com/scta-texts/GHYaf3/issues): 1 open issues
@@ -44,8 +45,8 @@ Total Open Pull Requests: 58
   - [kzz7yh](https://github.com/scta-texts/kzz7yh/issues): 6 open issues
   - [HuYgTa](https://github.com/scta-texts/HuYgTa/issues): 1 open issues
   - [holcotcommentary](https://github.com/scta-texts/holcotcommentary/issues): 7 open issues
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh/issues): 3 open issues
   - [glossaordinariamarginalia](https://github.com/scta-texts/glossaordinariamarginalia/issues): 2 open issues
+  - [bonaventurecommentary](https://github.com/scta-texts/bonaventurecommentary/issues): 1 open issues
   - [aw98wa](https://github.com/scta-texts/aw98wa/issues): 6 open issues
   - [cy8th8](https://github.com/scta-texts/cy8th8/issues): 2 open issues
   - [jsjasx](https://github.com/scta-texts/jsjasx/issues): 1 open issues
@@ -63,8 +64,9 @@ Total Open Pull Requests: 58
 
 ### Repositories With Recent Activity
 
+  - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2026-11-27T15:53:31Z
+  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-27T10:35:40Z
   - [ddsliv](https://github.com/scta-texts/ddsliv): Last activity on 2026-11-26T16:03:12Z
-  - [.github](https://github.com/scta-texts/.github): Last activity on 2026-11-26T10:33:34Z
   - [dds99a](https://github.com/scta-texts/dds99a): Last activity on 2026-11-21T23:14:21Z
   - [dds8ng](https://github.com/scta-texts/dds8ng): Last activity on 2026-11-21T23:13:37Z
   - [jdso8u](https://github.com/scta-texts/jdso8u): Last activity on 2026-11-21T12:42:18Z
@@ -136,7 +138,6 @@ Total Open Pull Requests: 58
   - [cv8jk9](https://github.com/scta-texts/cv8jk9): Last activity on 2026-11-08T12:15:27Z
   - [ccc7yd](https://github.com/scta-texts/ccc7yd): Last activity on 2026-11-08T12:15:25Z
   - [bt67yj](https://github.com/scta-texts/bt67yj): Last activity on 2026-11-08T12:15:23Z
-  - [bHY6yh](https://github.com/scta-texts/bHY6yh): Last activity on 2026-11-08T12:15:21Z
   - [augustinedetrinitate](https://github.com/scta-texts/augustinedetrinitate): Last activity on 2026-11-08T12:15:19Z
   - [augustinedecivitatedei](https://github.com/scta-texts/augustinedecivitatedei): Last activity on 2026-11-08T12:15:17Z
   - [augustineconfessiones](https://github.com/scta-texts/augustineconfessiones): Last activity on 2026-11-08T12:15:16Z
